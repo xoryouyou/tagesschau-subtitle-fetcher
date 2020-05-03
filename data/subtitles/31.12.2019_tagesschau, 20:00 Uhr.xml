@@ -1,0 +1,1305 @@
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ebuttm="urn:ebu:tt:metadata"
+ttp:timeBase="media"
+ttp:cellResolution="50 30"
+xml:lang="de">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style xml:id="defaultStyle" tts:fontFamily="Verdana,Arial,Tiresias"
+tts:fontSize="160%"
+tts:lineHeight="125%"/>
+<tt:style xml:id="textBlack" tts:color="#000000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textRed" tts:color="#FF0000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textGreen" tts:color="#00FF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textYellow" tts:color="#FFFF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textBlue" tts:color="#0000FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textMagenta" tts:color="#FF00FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCyan" tts:color="#00FFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textWhite" tts:color="#FFFFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCenter" tts:textAlign="center"/>
+<tt:style xml:id="textLeft" tts:textAlign="left"/>
+<tt:style xml:id="textRight" tts:textAlign="right"/>
+</tt:styling>
+<tt:layout>
+<tt:region xml:id="top" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="before"/>
+<tt:region xml:id="bottom" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="after"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p xml:id="sub0" style="textCenter" region="bottom" begin="00:00:00.040"
+end="00:00:01.040"/>
+<tt:p xml:id="sub1" style="textCenter" region="bottom" begin="00:00:03.040"
+end="00:00:06.760">
+<tt:span style="textWhite">Hier ist das Erste Deutsche Fernsehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub2" style="textCenter" region="bottom" begin="00:00:06.800"
+end="00:00:11.000">
+<tt:span style="textBlue">Herzlich willkommen zur Live-</tt:span>
+<tt:br/>
+<tt:span style="textBlue">Untertitelung des NDR (31.12.2019)</tt:span>
+</tt:p>
+<tt:p xml:id="sub3" style="textCenter" region="bottom" begin="00:00:11.080"
+end="00:00:13.920">
+<tt:span style="textWhite">Heute im Studio: Jan Hofer</tt:span>
+</tt:p>
+<tt:p xml:id="sub4" style="textCenter" region="bottom" begin="00:00:14.840"
+end="00:00:17.720">
+<tt:span style="textWhite">Guten Abend,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ich begrüße Sie zur tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub5" style="textCenter" region="bottom" begin="00:00:18.320"
+end="00:00:21.880">
+<tt:span style="textWhite">Die US-Botschaft</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Iraks Hauptstadt Bagdad</tt:span>
+</tt:p>
+<tt:p xml:id="sub6" style="textCenter" region="bottom" begin="00:00:21.960"
+end="00:00:25.440">
+<tt:span style="textWhite">wurde von Hunderten Demonstranten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">attackiert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub7" style="textCenter" region="bottom" begin="00:00:25.520"
+end="00:00:30.000">
+<tt:span style="textWhite">Sie durchbrachen eine Absperrung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und zündeten US-Flaggen an.</tt:span>
+</tt:p>
+<tt:p xml:id="sub8" style="textCenter" region="bottom" begin="00:00:30.120"
+end="00:00:34.120">
+<tt:span style="textWhite">Das diplomatische Personal</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurde in Sicherheit gebracht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub9" style="textCenter" region="bottom" begin="00:00:34.200"
+end="00:00:37.000">
+<tt:span style="textWhite">Die Botschaft</tt:span>
+<tt:br/>
+<tt:span style="textWhite">liegt im Zentrum Bagdads.</tt:span>
+</tt:p>
+<tt:p xml:id="sub10" style="textCenter" region="bottom" begin="00:00:37.080"
+end="00:00:38.880">
+<tt:span style="textWhite">Auslöser der Proteste</tt:span>
+</tt:p>
+<tt:p xml:id="sub11" style="textCenter" region="bottom" begin="00:00:38.960"
+end="00:00:42.640">
+<tt:span style="textWhite">waren Luftangriffe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf Stellungen einer Hisbollah-Miliz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub12" style="textCenter" region="bottom" begin="00:00:42.720"
+end="00:00:46.600">
+<tt:span style="textWhite">Die macht die USA für Angriffe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf ihre Soldaten verantwortlich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub13" style="textCenter" region="bottom" begin="00:00:49.520"
+end="00:00:52.720">
+<tt:span style="textWhite">Anhänger schiitischer Milizen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">überqueren den Tigris</tt:span>
+</tt:p>
+<tt:p xml:id="sub14" style="textCenter" region="bottom" begin="00:00:52.800"
+end="00:00:55.160">
+<tt:span style="textWhite">und marschieren zur US-Botschaft.</tt:span>
+</tt:p>
+<tt:p xml:id="sub15" style="textCenter" region="bottom" begin="00:00:55.280"
+end="00:00:59.880">
+<tt:span style="textWhite">Sie kommen von einer Trauerfeier,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei der Kämpfer beigesetzt wurden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub16" style="textCenter" region="bottom" begin="00:00:59.960"
+end="00:01:02.800">
+<tt:span style="textWhite">die durch US-Luftangriffe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">starben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub17" style="textCenter" region="bottom" begin="00:01:02.880"
+end="00:01:06.680">
+<tt:span style="textWhite">Milizionäre</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hatten zuvor einen US-Bürger getötet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub18" style="textCenter" region="bottom" begin="00:01:06.760"
+end="00:01:11.640">
+<tt:span style="textWhite">Die Demonstranten können</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Sicherheitsabsperrungen durchbrechen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub19" style="textCenter" region="bottom" begin="00:01:13.920"
+end="00:01:18.480">
+<tt:span style="textWhite">Sie kommen bis vor die letzte Mauer,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die die US-Botschaft schützt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub20" style="textCenter" region="bottom" begin="00:01:20.520"
+end="00:01:23.680">
+<tt:span style="textWhite">Es gelingt ihnen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den Eingang zu öffnen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub21" style="textCenter" region="bottom" begin="00:01:25.680"
+end="00:01:28.400">
+<tt:span style="textWhite">Sie betreten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">das Botschaftsgelände,</tt:span>
+</tt:p>
+<tt:p xml:id="sub22" style="textCenter" region="bottom" begin="00:01:28.480"
+end="00:01:31.840">
+<tt:span style="textWhite">doch sie werden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit Tränengas vertrieben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub23" style="textCenter" region="bottom" begin="00:01:34.600"
+end="00:01:37.920">
+<tt:span style="textWhite">Unter den Demonstranten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sind schiitische Geistliche</tt:span>
+</tt:p>
+<tt:p xml:id="sub24" style="textCenter" region="bottom" begin="00:01:38.000"
+end="00:01:41.720">
+<tt:span style="textWhite">und der radikale Milizenführer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Qais al-Khazali.</tt:span>
+</tt:p>
+<tt:p xml:id="sub25" style="textCenter" region="bottom" begin="00:01:41.800"
+end="00:01:45.840">
+<tt:span style="textYellow">Von hier werden die zerstörerischen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Operationen geleitet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub26" style="textCenter" region="bottom" begin="00:01:45.920"
+end="00:01:48.920">
+<tt:span style="textYellow">Hier wird</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Iraks Souveränität verletzt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub27" style="textCenter" region="bottom" begin="00:01:50.480"
+end="00:01:53.960">
+<tt:span style="textWhite">Die Wut der Iran-nahen Milizionäre</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist groß.</tt:span>
+</tt:p>
+<tt:p xml:id="sub28" style="textCenter" region="bottom" begin="00:01:54.040"
+end="00:01:58.000">
+<tt:span style="textWhite">Sie skandieren:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Amerika ist der größte Satan.</tt:span>
+</tt:p>
+<tt:p xml:id="sub29" style="textCenter" region="bottom" begin="00:01:59.680"
+end="00:02:03.920">
+<tt:span style="textWhite">Für die US-Regierung ist klar,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von wem sie ihre Befehle bekommen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub30" style="textCenter" region="bottom" begin="00:02:04.000"
+end="00:02:05.680">
+<tt:span style="textWhite">Der US-Präsident tweetet:</tt:span>
+</tt:p>
+<tt:p xml:id="sub31" style="textCenter" region="bottom" begin="00:02:05.760"
+end="00:02:09.880">
+<tt:span style="textWhite">"Der Iran steckt hinter dem Angriff</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf die US-Botschaft im Irak</tt:span>
+</tt:p>
+<tt:p xml:id="sub32" style="textCenter" region="bottom" begin="00:02:09.960"
+end="00:02:11.800">
+<tt:span style="textWhite">und trägt die Verantwortung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub33" style="textCenter" region="bottom" begin="00:02:11.880"
+end="00:02:14.920">
+<tt:span style="textWhite">Wir erwarten,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dass der Irak seine Truppen schickt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub34" style="textCenter" region="bottom" begin="00:02:15.000"
+end="00:02:17.080">
+<tt:span style="textWhite">um die Botschaft zu schützen."</tt:span>
+</tt:p>
+<tt:p xml:id="sub35" style="textCenter" region="bottom" begin="00:02:17.160"
+end="00:02:20.080">
+<tt:span style="textWhite">Erst nach Stunden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kommen Sicherheitskräfte,</tt:span>
+</tt:p>
+<tt:p xml:id="sub36" style="textCenter" region="bottom" begin="00:02:20.160"
+end="00:02:23.600">
+<tt:span style="textWhite">um gegen die Demonstranten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vorzugehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub37" style="textCenter" region="bottom" begin="00:02:25.400"
+end="00:02:29.760">
+<tt:span style="textWhite">Die bauen Zelte auf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und wollen die US-Botschaft belagern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub38" style="textCenter" region="bottom" begin="00:02:30.560"
+end="00:02:34.480">
+<tt:span style="textWhite">Das US-Verteidigungsministerium</tt:span>
+<tt:br/>
+<tt:span style="textWhite">will Verstärkung schicken,</tt:span>
+</tt:p>
+<tt:p xml:id="sub39" style="textCenter" region="bottom" begin="00:02:34.520"
+end="00:02:37.800">
+<tt:span style="textWhite">um das Botschaftspersonal</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zu schützen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub40" style="textCenter" region="bottom" begin="00:02:38.920"
+end="00:02:43.680">
+<tt:span style="textWhite">Kanzlerin Merkel ruft zum verstärkten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Kampf gegen den Klimawandel auf.</tt:span>
+</tt:p>
+<tt:p xml:id="sub41" style="textCenter" region="bottom" begin="00:02:43.760"
+end="00:02:46.880">
+<tt:span style="textWhite">Es müsse alles "Menschenmögliche"</tt:span>
+<tt:br/>
+<tt:span style="textWhite">getan werden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub42" style="textCenter" region="bottom" begin="00:02:47.000"
+end="00:02:51.920">
+<tt:span style="textWhite">um die Herausforderung zu bewältigen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">so Merkel in ihrer Neujahrsansprache.</tt:span>
+</tt:p>
+<tt:p xml:id="sub43" style="textCenter" region="bottom" begin="00:02:51.960"
+end="00:02:56.760">
+<tt:span style="textWhite">Sie forderte die Deutschen auf zu</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Zuversicht und Mut zur Veränderung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub44" style="textCenter" region="bottom" begin="00:02:56.800"
+end="00:03:00.720">
+<tt:span style="textWhite">Angesichts der Digitalisierung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und des Wandels im Arbeitsleben</tt:span>
+</tt:p>
+<tt:p xml:id="sub45" style="textCenter" region="bottom" begin="00:03:00.840"
+end="00:03:03.440">
+<tt:span style="textWhite">seien neue Antworten nötig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub46" style="textCenter" region="bottom" begin="00:03:04.120"
+end="00:03:06.480">
+<tt:span style="textWhite">Die Neujahrsansprache der Kanzlerin</tt:span>
+</tt:p>
+<tt:p xml:id="sub47" style="textCenter" region="bottom" begin="00:03:06.560"
+end="00:03:10.160">
+<tt:span style="textWhite">sendet das Erste</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Anschluss an diese tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub48" style="textCenter" region="bottom" begin="00:03:11.680"
+end="00:03:14.160">
+<tt:span style="textWhite">In Berlin feiern Hunderttausende</tt:span>
+</tt:p>
+<tt:p xml:id="sub49" style="textCenter" region="bottom" begin="00:03:14.240"
+end="00:03:18.400">
+<tt:span style="textWhite">den Jahreswechsel auf Deutschlands</tt:span>
+<tt:br/>
+<tt:span style="textWhite">größter Silvester-Party.</tt:span>
+</tt:p>
+<tt:p xml:id="sub50" style="textCenter" region="bottom" begin="00:03:18.640"
+end="00:03:21.200">
+<tt:span style="textWhite">Zwischen Siegessäule</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Brandenburger Tor</tt:span>
+</tt:p>
+<tt:p xml:id="sub51" style="textCenter" region="bottom" begin="00:03:21.280"
+end="00:03:23.760">
+<tt:span style="textWhite">treten Bands und DJs auf.</tt:span>
+</tt:p>
+<tt:p xml:id="sub52" style="textCenter" region="bottom" begin="00:03:24.600"
+end="00:03:28.000">
+<tt:span style="textWhite">Besucher können</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bis in die Morgenstunden tanzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub53" style="textCenter" region="bottom" begin="00:03:28.080"
+end="00:03:31.520">
+<tt:span style="textWhite">Böller und Raketen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sind dort verboten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub54" style="textCenter" region="bottom" begin="00:03:31.600"
+end="00:03:34.040">
+<tt:span style="textWhite">Dafür erstrahlt um Mitternacht</tt:span>
+</tt:p>
+<tt:p xml:id="sub55" style="textCenter" region="bottom" begin="00:03:34.120"
+end="00:03:37.840">
+<tt:span style="textWhite">das Silvesterfeuerwerk</tt:span>
+<tt:br/>
+<tt:span style="textWhite">überm Brandenburger Tor.</tt:span>
+</tt:p>
+<tt:p xml:id="sub56" style="textCenter" region="bottom" begin="00:03:39.000"
+end="00:03:43.560">
+<tt:span style="textWhite">Schon Stunden vor Mitternacht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist es voll am Brandenburger Tor.</tt:span>
+</tt:p>
+<tt:p xml:id="sub57" style="textCenter" region="bottom" begin="00:03:43.640"
+end="00:03:47.920">
+<tt:span style="textWhite">Bei Temperaturen um 7 Grad</tt:span>
+<tt:br/>
+<tt:span style="textWhite">strömten bereits seit dem Nachmittag</tt:span>
+</tt:p>
+<tt:p xml:id="sub58" style="textCenter" region="bottom" begin="00:03:48.040"
+end="00:03:50.480">
+<tt:span style="textWhite">Tausende auf die Festmeile.</tt:span>
+</tt:p>
+<tt:p xml:id="sub59" style="textCenter" region="bottom" begin="00:03:50.560"
+end="00:03:54.680">
+<tt:span style="textWhite">Ob es wieder Hunderttausende werden,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wird sich zeigen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub60" style="textCenter" region="bottom" begin="00:03:54.760"
+end="00:03:56.280">
+<tt:span style="textYellow">Es sind sehr viele.</tt:span>
+</tt:p>
+<tt:p xml:id="sub61" style="textCenter" region="bottom" begin="00:03:56.360"
+end="00:04:00.000">
+<tt:span style="textYellow">Die Hälfte der Besucher</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sind aus dem europäischen Ausland:</tt:span>
+</tt:p>
+<tt:p xml:id="sub62" style="textCenter" region="bottom" begin="00:04:00.040"
+end="00:04:04.760">
+<tt:span style="textYellow">Italien, Spanien, Benelux und viele</tt:span>
+<tt:br/>
+<tt:span style="textYellow">aus anderen deutschen Bundesländern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub63" style="textCenter" region="bottom" begin="00:04:04.840"
+end="00:04:07.440">
+<tt:span style="textYellow">Es ist 'ne bunte Mischung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub64" style="textCenter" region="bottom" begin="00:04:08.920"
+end="00:04:11.880">
+<tt:span style="textWhite">Es gibt Live-Auftritte von Künstlern</tt:span>
+</tt:p>
+<tt:p xml:id="sub65" style="textCenter" region="bottom" begin="00:04:11.960"
+end="00:04:16.480">
+<tt:span style="textWhite">und ein Verbot für privates Böllern:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus Sicherheitsgründen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub66" style="textCenter" region="bottom" begin="00:04:18.200"
+end="00:04:21.800">
+<tt:span style="textWhite">Die Polizei erwartet,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dass friedlich bleibt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub67" style="textCenter" region="bottom" begin="00:04:23.040"
+end="00:04:26.840">
+<tt:span style="textYellow">Natürlich kann es wegen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">des Alkoholisierungsgrades</tt:span>
+</tt:p>
+<tt:p xml:id="sub68" style="textCenter" region="bottom" begin="00:04:26.920"
+end="00:04:31.400">
+<tt:span style="textYellow">kleinere Auseinandersetzungen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">am Brandenburger Tor geben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub69" style="textCenter" region="bottom" begin="00:04:31.480"
+end="00:04:34.200">
+<tt:span style="textYellow">Allerdings hält sich das in Grenzen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub70" style="textCenter" region="bottom" begin="00:04:34.240"
+end="00:04:38.000">
+<tt:span style="textYellow">so dass wir meist</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auf ein friedliches Fest schauen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub71" style="textCenter" region="bottom" begin="00:04:40.520"
+end="00:04:42.680">
+<tt:span style="textWhite">Um Mitternacht soll wieder</tt:span>
+</tt:p>
+<tt:p xml:id="sub72" style="textCenter" region="bottom" begin="00:04:42.760"
+end="00:04:46.640">
+<tt:span style="textWhite">das offizielle</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Silvesterfeuerwerk gezündet werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub73" style="textCenter" region="bottom" begin="00:04:48.880"
+end="00:04:53.680">
+<tt:span style="textWhite">In vielen Ländern begann schon das</tt:span>
+<tt:br/>
+<tt:span style="textWhite">neue Jahr wegen der Zeitverschiebung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub74" style="textCenter" region="bottom" begin="00:04:53.760"
+end="00:04:58.360">
+<tt:span style="textWhite">In Neuseeland fing 2020 zwölf Stunden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">früher an als in Mitteleuropa.</tt:span>
+</tt:p>
+<tt:p xml:id="sub75" style="textCenter" region="bottom" begin="00:04:58.480"
+end="00:05:01.720">
+<tt:span style="textWhite">Mit einem Feuerwerk</tt:span>
+<tt:br/>
+<tt:span style="textWhite">am Fernsehturm von Auckland</tt:span>
+</tt:p>
+<tt:p xml:id="sub76" style="textCenter" region="bottom" begin="00:05:01.800"
+end="00:05:04.960">
+<tt:span style="textWhite">wurde das neue Jahr eingeläutet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub77" style="textCenter" region="bottom" begin="00:05:06.440"
+end="00:05:09.520">
+<tt:span style="textWhite">In Australien verfolgten Zehntausende</tt:span>
+</tt:p>
+<tt:p xml:id="sub78" style="textCenter" region="bottom" begin="00:05:09.600"
+end="00:05:14.160">
+<tt:span style="textWhite">das traditionelle Feuerwerk</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf der Harbour Bridge in Sydney.</tt:span>
+</tt:p>
+<tt:p xml:id="sub79" style="textCenter" region="bottom" begin="00:05:14.240"
+end="00:05:18.160">
+<tt:span style="textWhite">Wenig später starteten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">asiatische Länder ins neue Jahr.</tt:span>
+</tt:p>
+<tt:p xml:id="sub80" style="textCenter" region="bottom" begin="00:05:18.240"
+end="00:05:22.360">
+<tt:span style="textWhite">Zur Stunde wird in Pakistan</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und auf den Malediven gefeiert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub81" style="textCenter" region="bottom" begin="00:05:24.240"
+end="00:05:26.840">
+<tt:span style="textWhite">Bekannt wurde er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als Hamburger Original</tt:span>
+</tt:p>
+<tt:p xml:id="sub82" style="textCenter" region="bottom" begin="00:05:26.920"
+end="00:05:30.040">
+<tt:span style="textWhite">und verehrt weit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über die Grenzen Hamburgs:</tt:span>
+</tt:p>
+<tt:p xml:id="sub83" style="textCenter" region="bottom" begin="00:05:30.120"
+end="00:05:32.760">
+<tt:span style="textWhite">Jan Fedder (64) ist tot.</tt:span>
+</tt:p>
+<tt:p xml:id="sub84" style="textCenter" region="bottom" begin="00:05:33.920"
+end="00:05:36.880">
+<tt:span style="textWhite">Im ARD-Dauerbrenner</tt:span>
+<tt:br/>
+<tt:span style="textWhite">"Großstadtrevier"</tt:span>
+</tt:p>
+<tt:p xml:id="sub85" style="textCenter" region="bottom" begin="00:05:36.960"
+end="00:05:41.760">
+<tt:span style="textWhite">spielte Fedder fast 30 Jahre den</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Hamburger Polizisten Dirk Matthies.</tt:span>
+</tt:p>
+<tt:p xml:id="sub86" style="textCenter" region="bottom" begin="00:05:42.360"
+end="00:05:46.640">
+<tt:span style="textWhite">Zuschauer kannten ihn</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch als Charakterdarsteller.</tt:span>
+</tt:p>
+<tt:p xml:id="sub87" style="textCenter" region="bottom" begin="00:05:46.720"
+end="00:05:51.280">
+<tt:span style="textWhite">Trotz seiner Erkrankung kehrte er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">immer wieder zurück vor die Kamera.</tt:span>
+</tt:p>
+<tt:p xml:id="sub88" style="textCenter" region="bottom" begin="00:05:54.040"
+end="00:05:57.640">
+<tt:span style="textYellow">Höchste Zeit,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">um nach dem Rechten zu sehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub89" style="textCenter" region="bottom" begin="00:05:57.720"
+end="00:05:59.520">
+<tt:span style="textGreen">Dirk, steig ein!</tt:span>
+</tt:p>
+<tt:p xml:id="sub90" style="textCenter" region="bottom" begin="00:06:00.920"
+end="00:06:03.240">
+<tt:span style="textWhite">Jan Fedder als Dirk Matthies.</tt:span>
+</tt:p>
+<tt:p xml:id="sub91" style="textCenter" region="bottom" begin="00:06:03.320"
+end="00:06:07.520">
+<tt:span style="textWhite">Fernsehpolizist in seinem Kiez,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dem Hamburger Großstadtrevier.</tt:span>
+</tt:p>
+<tt:p xml:id="sub92" style="textCenter" region="bottom" begin="00:06:08.000"
+end="00:06:10.280">
+<tt:span style="textYellow">Der Kiez lachte sich kaputt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub93" style="textCenter" region="bottom" begin="00:06:10.360"
+end="00:06:12.800">
+<tt:span style="textYellow">Den Bock hat man</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zum Gärtner gemacht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub94" style="textCenter" region="bottom" begin="00:06:12.880"
+end="00:06:14.800">
+<tt:span style="textYellow">Ausgerechnet du als Bulle.</tt:span>
+</tt:p>
+<tt:p xml:id="sub95" style="textCenter" region="bottom" begin="00:06:14.880"
+end="00:06:19.360">
+<tt:span style="textWhite">Ein Junge aus St. Pauli, 1955</tt:span>
+<tt:br/>
+<tt:span style="textWhite">unweit des Hamburger Hafens geboren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub96" style="textCenter" region="bottom" begin="00:06:19.440"
+end="00:06:22.680">
+<tt:span style="textWhite">Der Vater Kneipier,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Mutter Tänzerin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub97" style="textCenter" region="bottom" begin="00:06:22.760"
+end="00:06:26.880">
+<tt:span style="textWhite">Früh erhält er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Ballett- und Schauspielunterricht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub98" style="textCenter" region="bottom" begin="00:06:26.960"
+end="00:06:29.880">
+<tt:span style="textWhite">Charakterrollen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">werden seine Leidenschaft:</tt:span>
+</tt:p>
+<tt:p xml:id="sub99" style="textCenter" region="bottom" begin="00:06:29.920"
+end="00:06:34.320">
+<tt:span style="textWhite">Durchbruch 1981 mit "Das Boot"</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als Seemann Pilgrim.</tt:span>
+</tt:p>
+<tt:p xml:id="sub100" style="textCenter" region="bottom" begin="00:06:36.440"
+end="00:06:39.200">
+<tt:span style="textYellow">Du munteres Rehlein.</tt:span>
+</tt:p>
+<tt:p xml:id="sub101" style="textCenter" region="bottom" begin="00:06:41.080"
+end="00:06:44.680">
+<tt:span style="textYellow">Ich breche dir das Herz im Nu.</tt:span>
+</tt:p>
+<tt:p xml:id="sub102" style="textCenter" region="bottom" begin="00:06:47.120"
+end="00:06:51.840">
+<tt:span style="textWhite">Ein Kerl mit Ecken und Kanten,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ohne Berührungsängste, mit viel Herz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub103" style="textCenter" region="bottom" begin="00:06:52.600"
+end="00:06:54.960">
+<tt:span style="textWhite">Dafür lieben ihn die Fans.</tt:span>
+</tt:p>
+<tt:p xml:id="sub104" style="textCenter" region="bottom" begin="00:06:55.040"
+end="00:06:57.120">
+<tt:span style="textYellow">Die finden mich in Ordnung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub105" style="textCenter" region="bottom" begin="00:06:57.160"
+end="00:07:01.160">
+<tt:span style="textYellow">Sie sehen mich als einen der ihren,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">der auch mal Scheiße baut.</tt:span>
+</tt:p>
+<tt:p xml:id="sub106" style="textCenter" region="bottom" begin="00:07:01.240"
+end="00:07:04.120">
+<tt:span style="textWhite">Einer der letzten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">großen Volksschauspieler.</tt:span>
+</tt:p>
+<tt:p xml:id="sub107" style="textCenter" region="bottom" begin="00:07:04.200"
+end="00:07:06.320">
+<tt:span style="textWhite">Trotz Krebs dreht er weiter.</tt:span>
+</tt:p>
+<tt:p xml:id="sub108" style="textCenter" region="bottom" begin="00:07:06.400"
+end="00:07:10.080">
+<tt:span style="textWhite">Die Liebe seiner Frau Marion</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hielt ihn am Leben, sagte er.</tt:span>
+</tt:p>
+<tt:p xml:id="sub109" style="textCenter" region="bottom" begin="00:07:10.160"
+end="00:07:12.000">
+<tt:span style="textWhite">Fedder wurde 64 Jahre.</tt:span>
+</tt:p>
+<tt:p xml:id="sub110" style="textCenter" region="bottom" begin="00:07:14.360"
+end="00:07:17.920">
+<tt:span style="textWhite">Opernregisseur Harry Kupfer (84)</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist tot.</tt:span>
+</tt:p>
+<tt:p xml:id="sub111" style="textCenter" region="bottom" begin="00:07:18.000"
+end="00:07:20.920">
+<tt:span style="textWhite">Er begann seine Karriere in der DDR</tt:span>
+</tt:p>
+<tt:p xml:id="sub112" style="textCenter" region="bottom" begin="00:07:20.960"
+end="00:07:25.160">
+<tt:span style="textWhite">und leitete seit den 80ern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Komische Oper in Berlin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub113" style="textCenter" region="bottom" begin="00:07:25.240"
+end="00:07:30.040">
+<tt:span style="textWhite">Schon vorm Mauerfall wurde er für</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Inszenierungen im Westen engagiert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub114" style="textCenter" region="bottom" begin="00:07:30.120"
+end="00:07:35.120">
+<tt:span style="textWhite">Kupfer stand in der Tradition seines</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Lehrers Walter Felsenstein für</tt:span>
+</tt:p>
+<tt:p xml:id="sub115" style="textCenter" region="bottom" begin="00:07:35.200"
+end="00:07:40.320">
+<tt:span style="textWhite">ein realistisches Musiktheater mit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">psychologisch motivierten Konflikten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub116" style="textCenter" region="bottom" begin="00:07:43.440"
+end="00:07:47.080">
+<tt:span style="textWhite">Die Wettervorhersage für morgen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Mittwoch, den 1. Januar:</tt:span>
+</tt:p>
+<tt:p xml:id="sub117" style="textCenter" region="bottom" begin="00:07:47.800"
+end="00:07:52.000">
+<tt:span style="textWhite">In der Silvesternacht neben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Wolkenfeldern teils klar und trocken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub118" style="textCenter" region="bottom" begin="00:07:52.080"
+end="00:07:55.920">
+<tt:span style="textWhite">Im Verlauf breiten sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vielerorts Nebel und Hochnebel aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub119" style="textCenter" region="bottom" begin="00:07:56.000"
+end="00:07:58.760">
+<tt:span style="textWhite">In Höhenlagen klar mit guter Sicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub120" style="textCenter" region="bottom" begin="00:07:58.840"
+end="00:08:02.680">
+<tt:span style="textWhite">Am Tag ein Nebeneinander</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus Sonne, Nebel und Hochnebel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub121" style="textCenter" region="bottom" begin="00:08:18.920"
+end="00:08:21.960">
+<tt:span style="textWhite">Das war die letzte tagesschau 2019.</tt:span>
+</tt:p>
+<tt:p xml:id="sub122" style="textCenter" region="bottom" begin="00:08:22.040"
+end="00:08:25.320">
+<tt:span style="textWhite">Die nächste Ausgabe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sehen Sie gegen 1.50 Uhr.</tt:span>
+</tt:p>
+<tt:p xml:id="sub123" style="textCenter" region="bottom" begin="00:08:25.400"
+end="00:08:28.520">
+<tt:span style="textWhite">Wir wünschen einen guten Rutsch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und ein glückliches Jahr 2020.</tt:span>
+</tt:p>
+<tt:p xml:id="sub124" style="textCenter" region="bottom" begin="00:08:28.600"
+end="00:08:31.200">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2019</tt:span>
+</tt:p>
+<tt:p xml:id="sub125" style="textCenter" region="bottom" begin="00:08:51.440"
+end="00:08:53.920">
+<tt:span style="textYellow">Liebe Mitbürgerinnen und Mitbürger,</tt:span>
+</tt:p>
+<tt:p xml:id="sub126" style="textCenter" region="bottom" begin="00:08:53.960"
+end="00:08:58.160">
+<tt:span style="textYellow">wir stehen am Beginn</tt:span>
+<tt:br/>
+<tt:span style="textYellow">eines neuen Jahres und Jahrzehnts.</tt:span>
+</tt:p>
+<tt:p xml:id="sub127" style="textCenter" region="bottom" begin="00:08:59.600"
+end="00:09:01.120">
+<tt:span style="textYellow">Ich bin überzeugt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub128" style="textCenter" region="bottom" begin="00:09:01.200"
+end="00:09:04.760">
+<tt:span style="textYellow">Wir haben gute Gründe,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zuversichtlich zu sein.</tt:span>
+</tt:p>
+<tt:p xml:id="sub129" style="textCenter" region="bottom" begin="00:09:04.840"
+end="00:09:09.120">
+<tt:span style="textYellow">Die in wenigen Stunden beginnenden</tt:span>
+<tt:br/>
+<tt:span style="textYellow">20er-Jahre des 21. Jahrhunderts</tt:span>
+</tt:p>
+<tt:p xml:id="sub130" style="textCenter" region="bottom" begin="00:09:09.200"
+end="00:09:11.400">
+<tt:span style="textYellow">können gute Jahre werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub131" style="textCenter" region="bottom" begin="00:09:11.480"
+end="00:09:15.800">
+<tt:span style="textYellow">Wenn wir unsere Stärken nutzen,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auf das setzen, was uns verbindet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub132" style="textCenter" region="bottom" begin="00:09:15.880"
+end="00:09:19.920">
+<tt:span style="textYellow">uns daran erinnern,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was wir gemeinsam erreicht haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub133" style="textCenter" region="bottom" begin="00:09:22.160"
+end="00:09:24.600">
+<tt:span style="textYellow">Im nächsten Jahr wird Deutschland</tt:span>
+</tt:p>
+<tt:p xml:id="sub134" style="textCenter" region="bottom" begin="00:09:24.680"
+end="00:09:28.600">
+<tt:span style="textYellow">seit 30 Jahren in Frieden</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und Freiheit wiedervereint sein.</tt:span>
+</tt:p>
+<tt:p xml:id="sub135" style="textCenter" region="bottom" begin="00:09:28.680"
+end="00:09:31.840">
+<tt:span style="textYellow">In den 30 Jahren</tt:span>
+<tt:br/>
+<tt:span style="textYellow">haben wir Großartiges geschafft.</tt:span>
+</tt:p>
+<tt:p xml:id="sub136" style="textCenter" region="bottom" begin="00:09:31.920"
+end="00:09:35.800">
+<tt:span style="textYellow">So hatten noch nie</tt:span>
+<tt:br/>
+<tt:span style="textYellow">so viele Menschen Arbeit wie heute.</tt:span>
+</tt:p>
+<tt:p xml:id="sub137" style="textCenter" region="bottom" begin="00:09:35.880"
+end="00:09:40.880">
+<tt:span style="textYellow">Dennoch bleibt noch mehr zu tun,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">als wir vor 30 Jahren dachten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub138" style="textCenter" region="bottom" begin="00:09:40.960"
+end="00:09:43.480">
+<tt:span style="textYellow">Zugleich erleben wir,</tt:span>
+</tt:p>
+<tt:p xml:id="sub139" style="textCenter" region="bottom" begin="00:09:43.560"
+end="00:09:47.680">
+<tt:span style="textYellow">wie der digitale Fortschritt</tt:span>
+<tt:br/>
+<tt:span style="textYellow">unser Leben verändert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub140" style="textCenter" region="bottom" begin="00:09:48.640"
+end="00:09:51.240">
+<tt:span style="textYellow">Natürlich auch unser Arbeitsleben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub141" style="textCenter" region="bottom" begin="00:09:51.320"
+end="00:09:54.160">
+<tt:span style="textYellow">Darauf müssen wir</tt:span>
+<tt:br/>
+<tt:span style="textYellow">neue Antworten finden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub142" style="textCenter" region="bottom" begin="00:09:54.240"
+end="00:09:57.880">
+<tt:span style="textYellow">Denn wir wollen, dass alle Zugang</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu der Bildung haben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub143" style="textCenter" region="bottom" begin="00:09:58.000"
+end="00:10:00.360">
+<tt:span style="textYellow">die sie für diesen Wandel brauchen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub144" style="textCenter" region="bottom" begin="00:10:00.440"
+end="00:10:04.880">
+<tt:span style="textYellow">Wir wollen, dass sie auch in Zukunft</tt:span>
+<tt:br/>
+<tt:span style="textYellow">einen sicheren Arbeitsplatz haben</tt:span>
+</tt:p>
+<tt:p xml:id="sub145" style="textCenter" region="bottom" begin="00:10:04.960"
+end="00:10:07.480">
+<tt:span style="textYellow">und im Alter</tt:span>
+<tt:br/>
+<tt:span style="textYellow">eine verlässliche Rente.</tt:span>
+</tt:p>
+<tt:p xml:id="sub146" style="textCenter" region="bottom" begin="00:10:07.560"
+end="00:10:11.000">
+<tt:span style="textYellow">Dazu brauchen wir</tt:span>
+<tt:br/>
+<tt:span style="textYellow">den Mut zu neuem Denken,</tt:span>
+</tt:p>
+<tt:p xml:id="sub147" style="textCenter" region="bottom" begin="00:10:11.120"
+end="00:10:14.080">
+<tt:span style="textYellow">die Kraft,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">bekannte Wege zu verlassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub148" style="textCenter" region="bottom" begin="00:10:14.160"
+end="00:10:16.480">
+<tt:span style="textYellow">Die Bereitschaft, Neues zu wagen</tt:span>
+</tt:p>
+<tt:p xml:id="sub149" style="textCenter" region="bottom" begin="00:10:16.560"
+end="00:10:20.040">
+<tt:span style="textYellow">und die Entschlossenheit,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">schneller zu handeln.</tt:span>
+</tt:p>
+<tt:p xml:id="sub150" style="textCenter" region="bottom" begin="00:10:20.120"
+end="00:10:23.800">
+<tt:span style="textYellow">In der Überzeugung,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">dass Ungewohntes gelingen kann,</tt:span>
+</tt:p>
+<tt:p xml:id="sub151" style="textCenter" region="bottom" begin="00:10:23.880"
+end="00:10:28.840">
+<tt:span style="textYellow">dass nächste Generationen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auf dieser Erde gut leben können.</tt:span>
+</tt:p>
+<tt:p xml:id="sub152" style="textCenter" region="bottom" begin="00:10:34.280"
+end="00:10:38.200">
+<tt:span style="textYellow">Die Erwärmung unserer Erde</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ist real und bedrohlich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub153" style="textCenter" region="bottom" begin="00:10:38.280"
+end="00:10:41.720">
+<tt:span style="textYellow">Sie und die aus der Erderwärmung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">erwachsenden Krisen</tt:span>
+</tt:p>
+<tt:p xml:id="sub154" style="textCenter" region="bottom" begin="00:10:41.800"
+end="00:10:44.160">
+<tt:span style="textYellow">sind von Menschen verursacht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub155" style="textCenter" region="bottom" begin="00:10:44.240"
+end="00:10:47.400">
+<tt:span style="textYellow">Wir müssen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">alles Menschenmögliche unternehmen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub156" style="textCenter" region="bottom" begin="00:10:47.480"
+end="00:10:50.760">
+<tt:span style="textYellow">um die Herausforderung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu bewältigen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub157" style="textCenter" region="bottom" begin="00:10:50.840"
+end="00:10:53.320">
+<tt:span style="textYellow">Noch ist das möglich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub158" style="textCenter" region="bottom" begin="00:10:53.400"
+end="00:10:57.320">
+<tt:span style="textYellow">Diese Überzeugung trägt</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das Klimaschutzprogramm,</tt:span>
+</tt:p>
+<tt:p xml:id="sub159" style="textCenter" region="bottom" begin="00:10:57.440"
+end="00:11:00.760">
+<tt:span style="textYellow">das Bund und Länder</tt:span>
+<tt:br/>
+<tt:span style="textYellow">verabschiedet haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub160" style="textCenter" region="bottom" begin="00:11:00.840"
+end="00:11:05.120">
+<tt:span style="textYellow">Die beschlossenen Maßnahmen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">machen den einen Angst,</tt:span>
+</tt:p>
+<tt:p xml:id="sub161" style="textCenter" region="bottom" begin="00:11:05.200"
+end="00:11:10.160">
+<tt:span style="textYellow">dass sie sie überfordern könnten und</tt:span>
+<tt:br/>
+<tt:span style="textYellow">den anderen reichen sie nicht aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub162" style="textCenter" region="bottom" begin="00:11:10.240"
+end="00:11:11.600">
+<tt:span style="textYellow">Und es stimmt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub163" style="textCenter" region="bottom" begin="00:11:11.680"
+end="00:11:13.520">
+<tt:span style="textYellow">Ich bin 65 Jahre.</tt:span>
+</tt:p>
+<tt:p xml:id="sub164" style="textCenter" region="bottom" begin="00:11:14.200"
+end="00:11:18.720">
+<tt:span style="textYellow">Ich werde nicht mehr alle Folgen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">des Klimawandels erleben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub165" style="textCenter" region="bottom" begin="00:11:18.760"
+end="00:11:23.040">
+<tt:span style="textYellow">die sich einstellen würden,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wenn die Politik nicht handelte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub166" style="textCenter" region="bottom" begin="00:11:25.000"
+end="00:11:29.200">
+<tt:span style="textYellow">Unsere Kinder und Enkel</tt:span>
+<tt:br/>
+<tt:span style="textYellow">müssen mit den Folgen leben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub167" style="textCenter" region="bottom" begin="00:11:29.280"
+end="00:11:32.320">
+<tt:span style="textYellow">was wir heute tun oder unterlassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub168" style="textCenter" region="bottom" begin="00:11:32.400"
+end="00:11:35.280">
+<tt:span style="textYellow">Darum setze ich</tt:span>
+<tt:br/>
+<tt:span style="textYellow">meine Kraft dafür ein,</tt:span>
+</tt:p>
+<tt:p xml:id="sub169" style="textCenter" region="bottom" begin="00:11:35.360"
+end="00:11:38.080">
+<tt:span style="textYellow">dass Deutschland</tt:span>
+<tt:br/>
+<tt:span style="textYellow">seinen Beitrag leistet:</tt:span>
+</tt:p>
+<tt:p xml:id="sub170" style="textCenter" region="bottom" begin="00:11:38.160"
+end="00:11:40.680">
+<tt:span style="textYellow">Ökologisch, ökonomisch, sozial,</tt:span>
+</tt:p>
+<tt:p xml:id="sub171" style="textCenter" region="bottom" begin="00:11:40.760"
+end="00:11:43.800">
+<tt:span style="textYellow">den Klimawandel</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in den Griff zu bekommen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub172" style="textCenter" region="bottom" begin="00:11:43.920"
+end="00:11:48.680">
+<tt:span style="textYellow">Das verabschiedete Gesetz</tt:span>
+<tt:br/>
+<tt:span style="textYellow">bietet den "Not-wendigen" Rahmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub173" style="textCenter" region="bottom" begin="00:11:50.480"
+end="00:11:54.520">
+<tt:span style="textYellow">Dabei können wir aufbauen auf dem,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was uns stark gemacht hat:</tt:span>
+</tt:p>
+<tt:p xml:id="sub174" style="textCenter" region="bottom" begin="00:11:54.640"
+end="00:11:59.040">
+<tt:span style="textYellow">Unsere Ideen, Erfindergeist,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Fleiß und Hartnäckigkeit,</tt:span>
+</tt:p>
+<tt:p xml:id="sub175" style="textCenter" region="bottom" begin="00:11:59.120"
+end="00:12:03.520">
+<tt:span style="textYellow">unsere Handwerker,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Ingenieure und Fachkräfte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub176" style="textCenter" region="bottom" begin="00:12:03.600"
+end="00:12:06.800">
+<tt:span style="textYellow">Die staatlichen und ehrenamtlichen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Strukturen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub177" style="textCenter" region="bottom" begin="00:12:06.880"
+end="00:12:10.760">
+<tt:span style="textYellow">unser Zusammenleben</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in Familien und Vereinen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub178" style="textCenter" region="bottom" begin="00:12:10.840"
+end="00:12:15.280">
+<tt:span style="textYellow">Die Wertschätzung für die,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die etwa in der Pflege arbeiten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub179" style="textCenter" region="bottom" begin="00:12:18.720"
+end="00:12:22.720">
+<tt:span style="textYellow">Und dabei tragen uns die Werte</tt:span>
+<tt:br/>
+<tt:span style="textYellow">des Grundgesetzes von Freiheit,</tt:span>
+</tt:p>
+<tt:p xml:id="sub180" style="textCenter" region="bottom" begin="00:12:22.800"
+end="00:12:26.920">
+<tt:span style="textYellow">Solidarität und Achtung der Würde</tt:span>
+<tt:br/>
+<tt:span style="textYellow">jedes Menschen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub181" style="textCenter" region="bottom" begin="00:12:27.000"
+end="00:12:30.240">
+<tt:span style="textYellow">Und die Prinzipien</tt:span>
+<tt:br/>
+<tt:span style="textYellow">der sozialen Marktwirtschaft.</tt:span>
+</tt:p>
+<tt:p xml:id="sub182" style="textCenter" region="bottom" begin="00:12:30.320"
+end="00:12:33.800">
+<tt:span style="textYellow">Sie bleiben unser Kompass</tt:span>
+<tt:br/>
+<tt:span style="textYellow">im nächsten Jahrzehnt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub183" style="textCenter" region="bottom" begin="00:12:33.880"
+end="00:12:38.480">
+<tt:span style="textYellow">Auch im digitalen Zeitalter hat</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Technik dem Menschen zu dienen</tt:span>
+</tt:p>
+<tt:p xml:id="sub184" style="textCenter" region="bottom" begin="00:12:38.560"
+end="00:12:40.360">
+<tt:span style="textYellow">und nicht umgekehrt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub185" style="textCenter" region="bottom" begin="00:12:40.440"
+end="00:12:45.160">
+<tt:span style="textYellow">Die Würde des Menschen setzt die</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Grenzen, denn sie ist unantastbar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub186" style="textCenter" region="bottom" begin="00:12:45.240"
+end="00:12:48.400">
+<tt:span style="textYellow">Das ist der Kern unserer Demokratie,</tt:span>
+</tt:p>
+<tt:p xml:id="sub187" style="textCenter" region="bottom" begin="00:12:48.480"
+end="00:12:52.120">
+<tt:span style="textYellow">die jeden Tag</tt:span>
+<tt:br/>
+<tt:span style="textYellow">mit Leben zu füllen ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub188" style="textCenter" region="bottom" begin="00:12:52.200"
+end="00:12:54.960">
+<tt:span style="textYellow">Ich danke den Frauen und Männern,</tt:span>
+</tt:p>
+<tt:p xml:id="sub189" style="textCenter" region="bottom" begin="00:12:55.000"
+end="00:12:58.320">
+<tt:span style="textYellow">die politische Verantwortung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">übernehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub190" style="textCenter" region="bottom" begin="00:12:58.400"
+end="00:13:01.040">
+<tt:span style="textYellow">Besonders denen in den Kommunen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub191" style="textCenter" region="bottom" begin="00:13:01.120"
+end="00:13:05.680">
+<tt:span style="textYellow">Sie, wie alle Menschen im Land,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">vor Hass, Anfeindungen und Gewalt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub192" style="textCenter" region="bottom" begin="00:13:05.760"
+end="00:13:09.080">
+<tt:span style="textYellow">Rassismus und Antisemitismus</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu schützen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub193" style="textCenter" region="bottom" begin="00:13:09.160"
+end="00:13:11.160">
+<tt:span style="textYellow">Das ist Aufgabe des Staates,</tt:span>
+</tt:p>
+<tt:p xml:id="sub194" style="textCenter" region="bottom" begin="00:13:11.240"
+end="00:13:15.440">
+<tt:span style="textYellow">der sich die Bundesregierung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">besonders verpflichtet fühlt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub195" style="textCenter" region="bottom" begin="00:13:15.520"
+end="00:13:17.560">
+<tt:span style="textYellow">Ich danke den vielen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub196" style="textCenter" region="bottom" begin="00:13:17.640"
+end="00:13:21.920">
+<tt:span style="textYellow">die sich für unser Gemeinwesen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">einsetzen, haupt- und ehrenamtlich:</tt:span>
+</tt:p>
+<tt:p xml:id="sub197" style="textCenter" region="bottom" begin="00:13:22.000"
+end="00:13:25.000">
+<tt:span style="textYellow">Polizisten,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Feuerwehrleuten und all denen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub198" style="textCenter" region="bottom" begin="00:13:25.080"
+end="00:13:28.680">
+<tt:span style="textYellow">die ihren Mitmenschen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in schweren Situationen beistehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub199" style="textCenter" region="bottom" begin="00:13:28.760"
+end="00:13:32.520">
+<tt:span style="textYellow">Sie alle bilden das Rückgrat</tt:span>
+<tt:br/>
+<tt:span style="textYellow">unserer Demokratie.</tt:span>
+</tt:p>
+<tt:p xml:id="sub200" style="textCenter" region="bottom" begin="00:13:32.560"
+end="00:13:35.280">
+<tt:span style="textYellow">Liebe Mitbürgerinnen und Mitbürger,</tt:span>
+</tt:p>
+<tt:p xml:id="sub201" style="textCenter" region="bottom" begin="00:13:35.360"
+end="00:13:38.160">
+<tt:span style="textYellow">in den vergangenen Jahren</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sagte ich oft:</tt:span>
+</tt:p>
+<tt:p xml:id="sub202" style="textCenter" region="bottom" begin="00:13:38.240"
+end="00:13:43.240">
+<tt:span style="textYellow">Deutschland geht es auf Dauer nur</tt:span>
+<tt:br/>
+<tt:span style="textYellow">gut, wenn es auch Europa gut geht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub203" style="textCenter" region="bottom" begin="00:13:43.320"
+end="00:13:45.760">
+<tt:span style="textYellow">Nur in der Gemeinschaft der EU</tt:span>
+</tt:p>
+<tt:p xml:id="sub204" style="textCenter" region="bottom" begin="00:13:45.840"
+end="00:13:49.880">
+<tt:span style="textYellow">können wir unsere Werte</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und Interessen behaupten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub205" style="textCenter" region="bottom" begin="00:13:49.960"
+end="00:13:53.480">
+<tt:span style="textYellow">Und Frieden, Freiheit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und Wohlstand sichern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub206" style="textCenter" region="bottom" begin="00:13:53.600"
+end="00:13:57.320">
+<tt:span style="textYellow">Europa muss seine Stimme</tt:span>
+<tt:br/>
+<tt:span style="textYellow">stärker in der Welt einbringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub207" style="textCenter" region="bottom" begin="00:13:57.400"
+end="00:14:01.840">
+<tt:span style="textYellow">Dafür werden wir uns während</tt:span>
+<tt:br/>
+<tt:span style="textYellow">der deutschen EU-Ratspräsidentschaft</tt:span>
+</tt:p>
+<tt:p xml:id="sub208" style="textCenter" region="bottom" begin="00:14:01.920"
+end="00:14:03.200">
+<tt:span style="textYellow">2020 einsetzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub209" style="textCenter" region="bottom" begin="00:14:03.280"
+end="00:14:06.800">
+<tt:span style="textYellow">Etwa durch einen Gipfel</tt:span>
+<tt:br/>
+<tt:span style="textYellow">aller Mitgliedstaaten mit China</tt:span>
+</tt:p>
+<tt:p xml:id="sub210" style="textCenter" region="bottom" begin="00:14:06.880"
+end="00:14:10.120">
+<tt:span style="textYellow">und ein Treffen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">mit den Staaten Afrikas.</tt:span>
+</tt:p>
+<tt:p xml:id="sub211" style="textCenter" region="bottom" begin="00:14:10.200"
+end="00:14:14.480">
+<tt:span style="textYellow">Die Zusammenarbeit mit Afrika</tt:span>
+<tt:br/>
+<tt:span style="textYellow">liegt in unserem Interesse.</tt:span>
+</tt:p>
+<tt:p xml:id="sub212" style="textCenter" region="bottom" begin="00:14:14.560"
+end="00:14:18.920">
+<tt:span style="textYellow">Nur, wenn Menschen die Chance</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auf ein friedliches Leben haben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub213" style="textCenter" region="bottom" begin="00:14:19.000"
+end="00:14:22.240">
+<tt:span style="textYellow">werden Flucht und Migration</tt:span>
+<tt:br/>
+<tt:span style="textYellow">abnehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub214" style="textCenter" region="bottom" begin="00:14:22.320"
+end="00:14:26.080">
+<tt:span style="textYellow">Nur, wenn wir Kriege</tt:span>
+<tt:br/>
+<tt:span style="textYellow">durch politische Lösungen beenden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub215" style="textCenter" region="bottom" begin="00:14:26.160"
+end="00:14:29.320">
+<tt:span style="textYellow">wird sich nachhaltig</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Sicherheit einstellen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub216" style="textCenter" region="bottom" begin="00:14:29.400"
+end="00:14:33.080">
+<tt:span style="textYellow">Unsere Sicherheit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und unser Wohlstand hängen davon ab,</tt:span>
+</tt:p>
+<tt:p xml:id="sub217" style="textCenter" region="bottom" begin="00:14:33.200"
+end="00:14:37.000">
+<tt:span style="textYellow">dass es in unserer Nachbarschaft</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sicher wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub218" style="textCenter" region="bottom" begin="00:14:37.120"
+end="00:14:39.760">
+<tt:span style="textYellow">Und dass es wirtschaftlich</tt:span>
+<tt:br/>
+<tt:span style="textYellow">aufwärts geht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub219" style="textCenter" region="bottom" begin="00:14:39.840"
+end="00:14:43.120">
+<tt:span style="textYellow">Ich danke</tt:span>
+<tt:br/>
+<tt:span style="textYellow">unseren Soldatinnen und Soldaten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub220" style="textCenter" region="bottom" begin="00:14:43.240"
+end="00:14:48.400">
+<tt:span style="textYellow">den Polizistinnen und Polizisten und</tt:span>
+<tt:br/>
+<tt:span style="textYellow">den zivilen Helferinnen und Helfern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub221" style="textCenter" region="bottom" begin="00:14:48.520"
+end="00:14:51.320">
+<tt:span style="textYellow">Sie tun</tt:span>
+<tt:br/>
+<tt:span style="textYellow">fern der Heimat ihren Dienst.</tt:span>
+</tt:p>
+<tt:p xml:id="sub222" style="textCenter" region="bottom" begin="00:14:51.440"
+end="00:14:56.080">
+<tt:span style="textYellow">Liebe Mitbürgerinnen und Mitbürger,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ein neues Jahrzehnt liegt vor uns.</tt:span>
+</tt:p>
+<tt:p xml:id="sub223" style="textCenter" region="bottom" begin="00:14:56.160"
+end="00:14:59.120">
+<tt:span style="textYellow">Die 20er-Jahre</tt:span>
+<tt:br/>
+<tt:span style="textYellow">können gute Jahre werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub224" style="textCenter" region="bottom" begin="00:14:59.200"
+end="00:15:02.960">
+<tt:span style="textYellow">Überraschen wir uns</tt:span>
+<tt:br/>
+<tt:span style="textYellow">einmal mehr damit, was wir können.</tt:span>
+</tt:p>
+<tt:p xml:id="sub225" style="textCenter" region="bottom" begin="00:15:03.040"
+end="00:15:05.760">
+<tt:span style="textYellow">Veränderungen zum Guten</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sind möglich,</tt:span>
+</tt:p>
+<tt:p xml:id="sub226" style="textCenter" region="bottom" begin="00:15:05.840"
+end="00:15:09.600">
+<tt:span style="textYellow">wenn wir uns offen und entschlossen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auf Neues einlassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub227" style="textCenter" region="bottom" begin="00:15:09.680"
+end="00:15:12.640">
+<tt:span style="textYellow">Ich wünsche Ihnen und Ihren Familien</tt:span>
+</tt:p>
+<tt:p xml:id="sub228" style="textCenter" region="bottom" begin="00:15:12.720"
+end="00:15:17.080">
+<tt:span style="textYellow">ein gesundes, frohes</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und gesegnetes neues Jahr 2020.</tt:span>
+</tt:p>
+<tt:p xml:id="sub229" style="textCenter" region="bottom" begin="00:15:20.840"
+end="00:15:24.040">
+<tt:span style="textWhite">Das war die Neujahrsansprache</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Bundeskanzlerin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub230" style="textCenter" region="bottom" begin="00:15:26.080"
+end="00:15:28.120">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2019</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>

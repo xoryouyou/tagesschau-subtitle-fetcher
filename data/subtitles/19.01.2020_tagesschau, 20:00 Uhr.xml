@@ -1,0 +1,1331 @@
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ebuttm="urn:ebu:tt:metadata"
+ttp:timeBase="media"
+ttp:cellResolution="50 30"
+xml:lang="de">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style xml:id="defaultStyle" tts:fontFamily="Verdana,Arial,Tiresias"
+tts:fontSize="160%"
+tts:lineHeight="125%"/>
+<tt:style xml:id="textBlack" tts:color="#000000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textRed" tts:color="#FF0000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textGreen" tts:color="#00FF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textYellow" tts:color="#FFFF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textBlue" tts:color="#0000FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textMagenta" tts:color="#FF00FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCyan" tts:color="#00FFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textWhite" tts:color="#FFFFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCenter" tts:textAlign="center"/>
+<tt:style xml:id="textLeft" tts:textAlign="left"/>
+<tt:style xml:id="textRight" tts:textAlign="right"/>
+</tt:styling>
+<tt:layout>
+<tt:region xml:id="top" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="before"/>
+<tt:region xml:id="bottom" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="after"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p xml:id="sub0" style="textCenter" region="bottom" begin="00:00:00.040"
+end="00:00:01.040"/>
+<tt:p xml:id="sub1" style="textCenter" region="bottom" begin="00:00:03.000"
+end="00:00:07.040">
+<tt:span style="textWhite">Hier ist das Erste Deutsche Fernsehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub2" style="textCenter" region="bottom" begin="00:00:07.120"
+end="00:00:11.520">
+<tt:span style="textBlue">Herzlich willkommen zur Live-</tt:span>
+<tt:br/>
+<tt:span style="textBlue">Untertitelung des NDR (19.01.2020)</tt:span>
+</tt:p>
+<tt:p xml:id="sub3" style="textCenter" region="bottom" begin="00:00:15.320"
+end="00:00:17.320">
+<tt:span style="textWhite">Heute im Studio: Jan Hofer</tt:span>
+</tt:p>
+<tt:p xml:id="sub4" style="textCenter" region="bottom" begin="00:00:17.720"
+end="00:00:20.640">
+<tt:span style="textWhite">Guten Abend,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ich begrüße Sie zur tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub5" style="textCenter" region="bottom" begin="00:00:20.760"
+end="00:00:24.440">
+<tt:span style="textWhite">In Berlin verständigte man sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf der Libyen-Konferenz</tt:span>
+</tt:p>
+<tt:p xml:id="sub6" style="textCenter" region="bottom" begin="00:00:24.520"
+end="00:00:27.120">
+<tt:span style="textWhite">auf einen Plan</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für eine Friedenslösung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub7" style="textCenter" region="bottom" begin="00:00:27.640"
+end="00:00:31.320">
+<tt:span style="textWhite">Wie Merkel mitteilte,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">verpflichtete sich die Konferenz</tt:span>
+</tt:p>
+<tt:p xml:id="sub8" style="textCenter" region="bottom" begin="00:00:31.440"
+end="00:00:35.360">
+<tt:span style="textWhite">zur Einhaltung des Waffenembargos</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und stärkeren Kontrollen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub9" style="textCenter" region="bottom" begin="00:00:36.120"
+end="00:00:39.440">
+<tt:span style="textWhite">Schon bald</tt:span>
+<tt:br/>
+<tt:span style="textWhite">werde ein weiteres Treffen folgen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub10" style="textCenter" region="bottom" begin="00:00:39.520"
+end="00:00:43.720">
+<tt:span style="textWhite">um Grundlagen zu schaffen für</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen gefestigten Waffenstillstand.</tt:span>
+</tt:p>
+<tt:p xml:id="sub11" style="textCenter" region="bottom" begin="00:00:43.800"
+end="00:00:47.600">
+<tt:span style="textWhite">Merkel hatte Vertreter</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus über zehn Staaten eingeladen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub12" style="textCenter" region="bottom" begin="00:00:47.680"
+end="00:00:49.560">
+<tt:span style="textWhite">darunter Putin und Erdogan.</tt:span>
+</tt:p>
+<tt:p xml:id="sub13" style="textCenter" region="bottom" begin="00:00:49.640"
+end="00:00:54.720">
+<tt:span style="textWhite">Auch der libysche Premier al-Sarraj</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und sein Gegenspieler General Haftar</tt:span>
+</tt:p>
+<tt:p xml:id="sub14" style="textCenter" region="bottom" begin="00:00:54.800"
+end="00:00:56.600">
+<tt:span style="textWhite">waren nach Berlin gereist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub15" style="textCenter" region="bottom" begin="00:00:56.680"
+end="00:00:59.120">
+<tt:span style="textWhite">Ein Überblick über die Lage im Land:</tt:span>
+</tt:p>
+<tt:p xml:id="sub16" style="textCenter" region="bottom" begin="00:01:00.320"
+end="00:01:05.080">
+<tt:span style="textWhite">Nach dem Sturz von Diktator Gaddafi</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zerfällt Libyens staatliche Einheit</tt:span>
+</tt:p>
+<tt:p xml:id="sub17" style="textCenter" region="bottom" begin="00:01:05.160"
+end="00:01:09.120">
+<tt:span style="textWhite">wegen des Machtkampfes</tt:span>
+<tt:br/>
+<tt:span style="textWhite">rivalisierender Milizen und Stämme.</tt:span>
+</tt:p>
+<tt:p xml:id="sub18" style="textCenter" region="bottom" begin="00:01:09.320"
+end="00:01:13.680">
+<tt:span style="textWhite">International anerkannt ist</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Regierung von Premier al-Sarraj.</tt:span>
+</tt:p>
+<tt:p xml:id="sub19" style="textCenter" region="bottom" begin="00:01:13.760"
+end="00:01:16.280">
+<tt:span style="textWhite">Sein Gegenspieler, General Haftar,</tt:span>
+</tt:p>
+<tt:p xml:id="sub20" style="textCenter" region="bottom" begin="00:01:16.360"
+end="00:01:19.080">
+<tt:span style="textWhite">führt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die selbst ernannte Nationalarmee.</tt:span>
+</tt:p>
+<tt:p xml:id="sub21" style="textCenter" region="bottom" begin="00:01:19.200"
+end="00:01:22.080">
+<tt:span style="textWhite">Er kontrolliert</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen Großteil des Landes,</tt:span>
+</tt:p>
+<tt:p xml:id="sub22" style="textCenter" region="bottom" begin="00:01:22.160"
+end="00:01:24.320">
+<tt:span style="textWhite">al-Sarraj nur wenige Gebiete.</tt:span>
+</tt:p>
+<tt:p xml:id="sub23" style="textCenter" region="bottom" begin="00:01:24.400"
+end="00:01:28.000">
+<tt:span style="textWhite">Libyen steht aus strategischen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und ökonomischen Gründen</tt:span>
+</tt:p>
+<tt:p xml:id="sub24" style="textCenter" region="bottom" begin="00:01:28.120"
+end="00:01:30.720">
+<tt:span style="textWhite">im Fokus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einiger ausländischer Mächte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub25" style="textCenter" region="bottom" begin="00:01:30.800"
+end="00:01:33.560">
+<tt:span style="textWhite">Das UN-Waffenembargo</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wird oft gebrochen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub26" style="textCenter" region="bottom" begin="00:01:34.240"
+end="00:01:37.920">
+<tt:span style="textWhite">Haftar drängte radikal-islamische</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Terrorgruppen zurück.</tt:span>
+</tt:p>
+<tt:p xml:id="sub27" style="textCenter" region="bottom" begin="00:01:38.400"
+end="00:01:40.240">
+<tt:span style="textWhite">Auf seiner Seite stehen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub28" style="textCenter" region="bottom" begin="00:01:47.360"
+end="00:01:49.680">
+<tt:span style="textWhite">al-Sarraj wird unterstützt von:</tt:span>
+</tt:p>
+<tt:p xml:id="sub29" style="textCenter" region="bottom" begin="00:01:52.840"
+end="00:01:56.640">
+<tt:span style="textWhite">Italien und die EU geben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Millionenhilfen für Flüchtlinge.</tt:span>
+</tt:p>
+<tt:p xml:id="sub30" style="textCenter" region="bottom" begin="00:01:56.720"
+end="00:01:59.240">
+<tt:span style="textWhite">Es gibt auch finanzielle Interessen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub31" style="textCenter" region="bottom" begin="00:02:05.520"
+end="00:02:09.200">
+<tt:span style="textWhite">Vor einer halben Stunde</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kommen sie zur Pressekonferenz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub32" style="textCenter" region="bottom" begin="00:02:09.280"
+end="00:02:11.440">
+<tt:span style="textWhite">Bundesregierung und UN-Vertreter</tt:span>
+</tt:p>
+<tt:p xml:id="sub33" style="textCenter" region="bottom" begin="00:02:11.520"
+end="00:02:14.560">
+<tt:span style="textWhite">berichten von Einigkeit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei der Konferenz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub34" style="textCenter" region="bottom" begin="00:02:14.800"
+end="00:02:19.560">
+<tt:span style="textYellow">Alle sind einig, dass wir das</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Waffenembargo respektieren wollen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub35" style="textCenter" region="bottom" begin="00:02:21.000"
+end="00:02:25.320">
+<tt:span style="textYellow">Und dass es stärker kontrolliert</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wird als bisher.</tt:span>
+</tt:p>
+<tt:p xml:id="sub36" style="textCenter" region="bottom" begin="00:02:31.480"
+end="00:02:32.680">
+<tt:span style="textWhite">Am Vormittag:</tt:span>
+</tt:p>
+<tt:p xml:id="sub37" style="textCenter" region="bottom" begin="00:02:32.800"
+end="00:02:35.800">
+<tt:span style="textWhite">Nach und nach</tt:span>
+<tt:br/>
+<tt:span style="textWhite">begrüßt die Kanzlerin all jene,</tt:span>
+</tt:p>
+<tt:p xml:id="sub38" style="textCenter" region="bottom" begin="00:02:35.880"
+end="00:02:39.160">
+<tt:span style="textWhite">die in Libyen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">weniger oder mehr Einfluss haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub39" style="textCenter" region="bottom" begin="00:02:39.680"
+end="00:02:43.480">
+<tt:span style="textWhite">Ziel ist eine gemeinsame Erklärung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und die Bereitschaft,</tt:span>
+</tt:p>
+<tt:p xml:id="sub40" style="textCenter" region="bottom" begin="00:02:43.560"
+end="00:02:46.640">
+<tt:span style="textWhite">sich zurückzuziehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus dem Bürgerkriegsland.</tt:span>
+</tt:p>
+<tt:p xml:id="sub41" style="textCenter" region="bottom" begin="00:02:46.720"
+end="00:02:50.760">
+<tt:span style="textWhite">Das gemeinsame Foto ist durchaus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">schon als Erfolg zu werten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub42" style="textCenter" region="bottom" begin="00:02:50.840"
+end="00:02:54.080">
+<tt:span style="textWhite">Doch auf was werden sie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sich dauerhaft einlassen?</tt:span>
+</tt:p>
+<tt:p xml:id="sub43" style="textCenter" region="bottom" begin="00:02:54.160"
+end="00:02:56.680">
+<tt:span style="textWhite">In Libyen geht es um Öl, Gas, Macht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub44" style="textCenter" region="bottom" begin="00:02:56.760"
+end="00:03:00.160">
+<tt:span style="textWhite">Das Waffenembargo von 2011</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wird ständig gebrochen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub45" style="textCenter" region="bottom" begin="00:03:00.240"
+end="00:03:02.880">
+<tt:span style="textWhite">Bevor es im Kanzleramt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">richtig losgeht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub46" style="textCenter" region="bottom" begin="00:03:02.960"
+end="00:03:05.320">
+<tt:span style="textWhite">zunächst viele Einzelgespräche.</tt:span>
+</tt:p>
+<tt:p xml:id="sub47" style="textCenter" region="bottom" begin="00:03:05.440"
+end="00:03:09.840">
+<tt:span style="textWhite">Der türkische Präsident trifft</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Libyens Ministerpräsident al-Sarraj,</tt:span>
+</tt:p>
+<tt:p xml:id="sub48" style="textCenter" region="bottom" begin="00:03:09.920"
+end="00:03:11.320">
+<tt:span style="textWhite">den er unterstützt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub49" style="textCenter" region="bottom" begin="00:03:11.400"
+end="00:03:15.960">
+<tt:span style="textWhite">Dann Präsident Putin, den Verbündeten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Gegenspieler General Haftar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub50" style="textCenter" region="bottom" begin="00:03:16.040"
+end="00:03:19.280">
+<tt:span style="textWhite">Beide betonen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wie wichtig eine Waffenruhe sei.</tt:span>
+</tt:p>
+<tt:p xml:id="sub51" style="textCenter" region="bottom" begin="00:03:20.520"
+end="00:03:22.840">
+<tt:span style="textWhite">Doch Erdogan lässt auch wissen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub52" style="textCenter" region="bottom" begin="00:03:22.920"
+end="00:03:26.520">
+<tt:span style="textWhite">Das aggressive Vorgehen von Haftar</tt:span>
+<tt:br/>
+<tt:span style="textWhite">müsse ein Ende haben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub53" style="textCenter" region="bottom" begin="00:03:26.600"
+end="00:03:30.000">
+<tt:span style="textWhite">um einen politischen Prozess umsetzen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zu können.</tt:span>
+</tt:p>
+<tt:p xml:id="sub54" style="textCenter" region="bottom" begin="00:03:30.080"
+end="00:03:32.440">
+<tt:span style="textWhite">Auch der General führt Gespräche.</tt:span>
+</tt:p>
+<tt:p xml:id="sub55" style="textCenter" region="bottom" begin="00:03:32.520"
+end="00:03:35.680">
+<tt:span style="textWhite">Zum Treffen der beiden Libyer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kommt es nicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub56" style="textCenter" region="bottom" begin="00:03:36.720"
+end="00:03:40.160">
+<tt:span style="textWhite">Auch die große Verhandlungsrunde</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ohne die beiden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub57" style="textCenter" region="bottom" begin="00:03:40.240"
+end="00:03:43.280">
+<tt:span style="textWhite">EINE Konferenz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wird den Konflikt nicht lösen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub58" style="textCenter" region="bottom" begin="00:03:43.400"
+end="00:03:46.760">
+<tt:span style="textWhite">Doch läuft es gut,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">schweigen vielleicht die Waffen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub59" style="textCenter" region="bottom" begin="00:03:46.840"
+end="00:03:49.440">
+<tt:span style="textWhite">ein politischer Prozess</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kommt in Gang.</tt:span>
+</tt:p>
+<tt:p xml:id="sub60" style="textCenter" region="bottom" begin="00:03:49.520"
+end="00:03:51.000">
+<tt:span style="textWhite">Unter Führung der UN.</tt:span>
+</tt:p>
+<tt:p xml:id="sub61" style="textCenter" region="bottom" begin="00:03:52.120"
+end="00:03:56.120">
+<tt:span style="textYellow">Die Staaten, regionale</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und internationale Organisation</tt:span>
+</tt:p>
+<tt:p xml:id="sub62" style="textCenter" region="bottom" begin="00:03:56.200"
+end="00:03:58.720">
+<tt:span style="textYellow">haben ein starkes Signal gesendet:</tt:span>
+</tt:p>
+<tt:p xml:id="sub63" style="textCenter" region="bottom" begin="00:03:58.800"
+end="00:04:02.800">
+<tt:span style="textYellow">Wir verpflichten uns, eine</tt:span>
+<tt:br/>
+<tt:span style="textYellow">friedliche Lösung zu unterstützen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub64" style="textCenter" region="bottom" begin="00:04:03.760"
+end="00:04:05.880">
+<tt:span style="textWhite">Die Limousinen rollen davon.</tt:span>
+</tt:p>
+<tt:p xml:id="sub65" style="textCenter" region="bottom" begin="00:04:05.960"
+end="00:04:08.320">
+<tt:span style="textWhite">Rückt ein Frieden in Libyen näher?</tt:span>
+</tt:p>
+<tt:p xml:id="sub66" style="textCenter" region="bottom" begin="00:04:08.400"
+end="00:04:11.520">
+<tt:span style="textWhite">Zumindest haben die Mächtigen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ihre Absicht erklärt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub67" style="textCenter" region="bottom" begin="00:04:13.720"
+end="00:04:18.000">
+<tt:span style="textWhite">Zu den Ergebnissen der Konferenz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Tina Hassel live aus Berlin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub68" style="textCenter" region="bottom" begin="00:04:20.320"
+end="00:04:24.960">
+<tt:span style="textCyan">Die Kanzlerin und der Außenminister</tt:span>
+<tt:br/>
+<tt:span style="textCyan">sind ein Risiko eingegangen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub69" style="textCenter" region="bottom" begin="00:04:25.200"
+end="00:04:27.320">
+<tt:span style="textCyan">Aber es war ein echter Erfolg.</tt:span>
+</tt:p>
+<tt:p xml:id="sub70" style="textCenter" region="bottom" begin="00:04:27.560"
+end="00:04:31.800">
+<tt:span style="textCyan">Wenn die zentralen Unterstützer</tt:span>
+<tt:br/>
+<tt:span style="textCyan">der Kriegsparteien aufhören,</tt:span>
+</tt:p>
+<tt:p xml:id="sub71" style="textCenter" region="bottom" begin="00:04:31.880"
+end="00:04:35.520">
+<tt:span style="textCyan">die Kämpfe anzufachen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">mit Waffen, Geld oder Söldnern:</tt:span>
+</tt:p>
+<tt:p xml:id="sub72" style="textCenter" region="bottom" begin="00:04:35.640"
+end="00:04:39.720">
+<tt:span style="textCyan">Das wäre ein Durchbruch</tt:span>
+<tt:br/>
+<tt:span style="textCyan">hin zu politischen Gesprächen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub73" style="textCenter" region="bottom" begin="00:04:39.840"
+end="00:04:44.680">
+<tt:span style="textCyan">So kann Merkel beweisen, dass sie</tt:span>
+<tt:br/>
+<tt:span style="textCyan">noch fähig ist zu Krisendiplomatie.</tt:span>
+</tt:p>
+<tt:p xml:id="sub74" style="textCenter" region="bottom" begin="00:04:44.800"
+end="00:04:46.440">
+<tt:span style="textCyan">Wer Libyen kontrolliert,</tt:span>
+</tt:p>
+<tt:p xml:id="sub75" style="textCenter" region="bottom" begin="00:04:46.520"
+end="00:04:50.200">
+<tt:span style="textCyan">kontrolliert ein Tor</tt:span>
+<tt:br/>
+<tt:span style="textCyan">der großen Flüchtlingsbewegungen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub76" style="textCenter" region="bottom" begin="00:04:50.280"
+end="00:04:54.960">
+<tt:span style="textCyan">Berlins politische Verantwortung</tt:span>
+<tt:br/>
+<tt:span style="textCyan">endet aber nicht der Konferenz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub77" style="textCenter" region="bottom" begin="00:04:55.240"
+end="00:04:59.520">
+<tt:span style="textCyan">Deutschland wird auch bei</tt:span>
+<tt:br/>
+<tt:span style="textCyan">der Überwachung der Vereinbarungen</tt:span>
+</tt:p>
+<tt:p xml:id="sub78" style="textCenter" region="bottom" begin="00:04:59.760"
+end="00:05:02.560">
+<tt:span style="textCyan">eine zentrale Rolle spielen müssen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub79" style="textCenter" region="bottom" begin="00:05:02.840"
+end="00:05:05.880">
+<tt:span style="textCyan">Über das Wie</tt:span>
+<tt:br/>
+<tt:span style="textCyan">will man heute nicht reden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub80" style="textCenter" region="bottom" begin="00:05:06.120"
+end="00:05:09.800">
+<tt:span style="textCyan">Vor allem nicht über die Frage,</tt:span>
+<tt:br/>
+<tt:span style="textCyan">ob deutsche Soldaten</tt:span>
+</tt:p>
+<tt:p xml:id="sub81" style="textCenter" region="bottom" begin="00:05:10.000"
+end="00:05:13.120">
+<tt:span style="textCyan">an einer Blauhelm-Mission</tt:span>
+<tt:br/>
+<tt:span style="textCyan">teilnehmen würden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub82" style="textCenter" region="bottom" begin="00:05:13.200"
+end="00:05:17.400">
+<tt:span style="textCyan">Deutschland sieht sich zurück</tt:span>
+<tt:br/>
+<tt:span style="textCyan">auf der weltpolitischen Bühne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub83" style="textCenter" region="bottom" begin="00:05:18.000"
+end="00:05:22.080">
+<tt:span style="textWhite">Die Libyen-Konferenz ist um 21.45 Uhr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Thema bei Anne Will.</tt:span>
+</tt:p>
+<tt:p xml:id="sub84" style="textCenter" region="bottom" begin="00:05:23.440"
+end="00:05:26.880">
+<tt:span style="textWhite">Und um 21 Uhr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gibt es online und bei tagesschau24</tt:span>
+</tt:p>
+<tt:p xml:id="sub85" style="textCenter" region="bottom" begin="00:05:27.080"
+end="00:05:29.600">
+<tt:span style="textWhite">eine Extra-Ausgabe der tagesthemen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub86" style="textCenter" region="bottom" begin="00:05:31.240"
+end="00:05:35.880">
+<tt:span style="textWhite">In Libanons Hauptstadt Beirut haben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sich Demonstranten und Polizei</tt:span>
+</tt:p>
+<tt:p xml:id="sub87" style="textCenter" region="bottom" begin="00:05:36.000"
+end="00:05:39.440">
+<tt:span style="textWhite">erneut gewaltsame</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Auseinandersetzungen geliefert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub88" style="textCenter" region="bottom" begin="00:05:39.520"
+end="00:05:42.240">
+<tt:span style="textWhite">Mindestens 70 Menschen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurden verletzt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub89" style="textCenter" region="bottom" begin="00:05:44.120"
+end="00:05:47.760">
+<tt:span style="textWhite">Sicherheitskräfte hatten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Demonstranten daran gehindert,</tt:span>
+</tt:p>
+<tt:p xml:id="sub90" style="textCenter" region="bottom" begin="00:05:47.880"
+end="00:05:50.320">
+<tt:span style="textWhite">in das Parlamentsgebäude</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einzudringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub91" style="textCenter" region="bottom" begin="00:05:50.400"
+end="00:05:52.960">
+<tt:span style="textWhite">Randalierer bewarfen sie mit Steinen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub92" style="textCenter" region="bottom" begin="00:05:53.080"
+end="00:05:56.360">
+<tt:span style="textWhite">Die Polizei setzte Tränengas</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Wasserwerfer ein.</tt:span>
+</tt:p>
+<tt:p xml:id="sub93" style="textCenter" region="bottom" begin="00:05:56.440"
+end="00:06:00.480">
+<tt:span style="textWhite">Die Proteste richten sich gegen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die politische Elite des Landes.</tt:span>
+</tt:p>
+<tt:p xml:id="sub94" style="textCenter" region="bottom" begin="00:06:00.560"
+end="00:06:04.400">
+<tt:span style="textWhite">Die Demonstranten werfen ihr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Korruption und Misswirtschaft vor.</tt:span>
+</tt:p>
+<tt:p xml:id="sub95" style="textCenter" region="bottom" begin="00:06:05.480"
+end="00:06:08.960">
+<tt:span style="textWhite">Der Iran hat Deutschland,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Frankreich und Großbritannien</tt:span>
+</tt:p>
+<tt:p xml:id="sub96" style="textCenter" region="bottom" begin="00:06:09.040"
+end="00:06:11.440">
+<tt:span style="textWhite">vor Konsequenzen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Atomstreit gewarnt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub97" style="textCenter" region="bottom" begin="00:06:11.520"
+end="00:06:14.240">
+<tt:span style="textWhite">Falls sich die EU</tt:span>
+<tt:br/>
+<tt:span style="textWhite">unverhältnismäßig verhalte,</tt:span>
+</tt:p>
+<tt:p xml:id="sub98" style="textCenter" region="bottom" begin="00:06:14.360"
+end="00:06:16.640">
+<tt:span style="textWhite">werde man verhältnismäßig reagieren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub99" style="textCenter" region="bottom" begin="00:06:16.720"
+end="00:06:19.280">
+<tt:span style="textWhite">Das sagte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Parlamentspräsident Laridschani</tt:span>
+</tt:p>
+<tt:p xml:id="sub100" style="textCenter" region="bottom" begin="00:06:19.400"
+end="00:06:22.680">
+<tt:span style="textWhite">nach Angaben der</tt:span>
+<tt:br/>
+<tt:span style="textWhite">staatlichen Nachrichtenagentur IRNA.</tt:span>
+</tt:p>
+<tt:p xml:id="sub101" style="textCenter" region="bottom" begin="00:06:22.760"
+end="00:06:24.800">
+<tt:span style="textWhite">Und er stellte die Zusammenarbeit</tt:span>
+</tt:p>
+<tt:p xml:id="sub102" style="textCenter" region="bottom" begin="00:06:24.880"
+end="00:06:27.960">
+<tt:span style="textWhite">mit der internationalen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Atomenergiebehörde infrage.</tt:span>
+</tt:p>
+<tt:p xml:id="sub103" style="textCenter" region="bottom" begin="00:06:28.040"
+end="00:06:31.520">
+<tt:span style="textWhite">Um das Atomabkommen zu retten,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hatten die drei EU-Staaten</tt:span>
+</tt:p>
+<tt:p xml:id="sub104" style="textCenter" region="bottom" begin="00:06:31.600"
+end="00:06:34.360">
+<tt:span style="textWhite">einen Streitschlichtungsmechanismus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ausgelöst.</tt:span>
+</tt:p>
+<tt:p xml:id="sub105" style="textCenter" region="bottom" begin="00:06:36.320"
+end="00:06:40.800">
+<tt:span style="textWhite">Die elf Ukrainer, die beim Abschuss</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eines Flugzeugs im Iran starben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub106" style="textCenter" region="bottom" begin="00:06:40.880"
+end="00:06:43.680">
+<tt:span style="textWhite">sind in ihr Heimatland</tt:span>
+<tt:br/>
+<tt:span style="textWhite">überführt worden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub107" style="textCenter" region="bottom" begin="00:06:44.320"
+end="00:06:47.960">
+<tt:span style="textWhite">Auch Präsident Selenskyj</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nahm an der Zeremonie teil.</tt:span>
+</tt:p>
+<tt:p xml:id="sub108" style="textCenter" region="bottom" begin="00:06:48.040"
+end="00:06:51.360">
+<tt:span style="textWhite">Am 8. Januar hatte der Iran</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Passagiermaschine</tt:span>
+</tt:p>
+<tt:p xml:id="sub109" style="textCenter" region="bottom" begin="00:06:51.440"
+end="00:06:54.600">
+<tt:span style="textWhite">nach eigenen Angaben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">versehentlich abgeschossen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub110" style="textCenter" region="bottom" begin="00:06:54.720"
+end="00:06:58.880">
+<tt:span style="textWhite">Wie Irans Luftfahrtbehörde mitteilte,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sollen die zwei Flugschreiber</tt:span>
+</tt:p>
+<tt:p xml:id="sub111" style="textCenter" region="bottom" begin="00:06:58.960"
+end="00:07:03.120">
+<tt:span style="textWhite">nun doch im Iran ausgewertet werden,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">statt sie nach Kiew zu bringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub112" style="textCenter" region="bottom" begin="00:07:03.280"
+end="00:07:07.320">
+<tt:span style="textWhite">EU-Binnenmarktkommissar Breton</tt:span>
+<tt:br/>
+<tt:span style="textWhite">will beim neuen 5G-Mobilfunknetz</tt:span>
+</tt:p>
+<tt:p xml:id="sub113" style="textCenter" region="bottom" begin="00:07:07.400"
+end="00:07:10.240">
+<tt:span style="textWhite">keine Kompromisse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei der Sicherheit zulassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub114" style="textCenter" region="bottom" begin="00:07:10.320"
+end="00:07:12.280">
+<tt:span style="textWhite">Hintergrund ist die Diskussion</tt:span>
+</tt:p>
+<tt:p xml:id="sub115" style="textCenter" region="bottom" begin="00:07:12.360"
+end="00:07:16.440">
+<tt:span style="textWhite">über eine Beteiligung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des chinesischen Konzerns Huawei.</tt:span>
+</tt:p>
+<tt:p xml:id="sub116" style="textCenter" region="bottom" begin="00:07:17.440"
+end="00:07:22.480">
+<tt:span style="textWhite">Kritiker befürchten, China könne die</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Technologie zur Spionage verwenden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub117" style="textCenter" region="bottom" begin="00:07:22.560"
+end="00:07:25.120">
+<tt:span style="textWhite">Breton äußerte sich in München</tt:span>
+</tt:p>
+<tt:p xml:id="sub118" style="textCenter" region="bottom" begin="00:07:25.200"
+end="00:07:28.880">
+<tt:span style="textWhite">auf der Innovations-Konferenz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">"Digital Life Design".</tt:span>
+</tt:p>
+<tt:p xml:id="sub119" style="textCenter" region="bottom" begin="00:07:29.680"
+end="00:07:33.600">
+<tt:span style="textWhite">Dort geht es um die Digitalisierung,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei der sich die Europäer</tt:span>
+</tt:p>
+<tt:p xml:id="sub120" style="textCenter" region="bottom" begin="00:07:33.680"
+end="00:07:38.080">
+<tt:span style="textWhite">im Vergleich zu den USA und China</tt:span>
+<tt:br/>
+<tt:span style="textWhite">teils im Hintertreffen sehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub121" style="textCenter" region="bottom" begin="00:07:44.120"
+end="00:07:48.560">
+<tt:span style="textWhite">Wie stellt sich Europa besser auf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Zeitalter der Digitalisierung?</tt:span>
+</tt:p>
+<tt:p xml:id="sub122" style="textCenter" region="bottom" begin="00:07:48.640"
+end="00:07:52.760">
+<tt:span style="textWhite">Auf der Digital Life Design</tt:span>
+<tt:br/>
+<tt:span style="textWhite">treibt das auch die Politik um.</tt:span>
+</tt:p>
+<tt:p xml:id="sub123" style="textCenter" region="bottom" begin="00:07:54.720"
+end="00:07:57.640">
+<tt:span style="textYellow">Wenn wir uns nicht verändern,</tt:span>
+</tt:p>
+<tt:p xml:id="sub124" style="textCenter" region="bottom" begin="00:07:57.720"
+end="00:08:01.960">
+<tt:span style="textYellow">werden wir zur digitalen Kolonie</tt:span>
+<tt:br/>
+<tt:span style="textYellow">der USA oder Chinas.</tt:span>
+</tt:p>
+<tt:p xml:id="sub125" style="textCenter" region="bottom" begin="00:08:04.760"
+end="00:08:07.760">
+<tt:span style="textYellow">Wenn Google morgen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">seine Dienste abschaltet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub126" style="textCenter" region="bottom" begin="00:08:07.840"
+end="00:08:10.560">
+<tt:span style="textYellow">was sehen Sie dann</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auf dem Bildschirm?</tt:span>
+</tt:p>
+<tt:p xml:id="sub127" style="textCenter" region="bottom" begin="00:08:13.160"
+end="00:08:14.640">
+<tt:span style="textWhite">Vermutlich schwarz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub128" style="textCenter" region="bottom" begin="00:08:14.720"
+end="00:08:19.320">
+<tt:span style="textWhite">Darum kündigt der EU-Kommissar für</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Binnenmarkt und Dienstleistungen an:</tt:span>
+</tt:p>
+<tt:p xml:id="sub129" style="textCenter" region="bottom" begin="00:08:19.400"
+end="00:08:21.520">
+<tt:span style="textWhite">Eine EU-weite Digitalstrategie.</tt:span>
+</tt:p>
+<tt:p xml:id="sub130" style="textCenter" region="bottom" begin="00:08:22.400"
+end="00:08:27.600">
+<tt:span style="textYellow">Die Daten aus Europa sollen v.a. von</tt:span>
+<tt:br/>
+<tt:span style="textYellow">europäischen Firmen genutzt werden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub131" style="textCenter" region="bottom" begin="00:08:28.200"
+end="00:08:31.160">
+<tt:span style="textYellow">um für uns einen Wert zu schaffen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub132" style="textCenter" region="bottom" begin="00:08:33.800"
+end="00:08:35.120">
+<tt:span style="textWhite">Und nicht nur das.</tt:span>
+</tt:p>
+<tt:p xml:id="sub133" style="textCenter" region="bottom" begin="00:08:59.400"
+end="00:09:03.080">
+<tt:span style="textWhite">Der Netzpolitik-Experte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Alexander Filipovic ist skeptisch,</tt:span>
+</tt:p>
+<tt:p xml:id="sub134" style="textCenter" region="bottom" begin="00:09:03.160"
+end="00:09:05.400">
+<tt:span style="textWhite">wie die EU das finanzieren will.</tt:span>
+</tt:p>
+<tt:p xml:id="sub135" style="textCenter" region="bottom" begin="00:09:05.480"
+end="00:09:08.760">
+<tt:span style="textYellow">Bildungsoffensive</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und die wirtschaftliche Offensive,</tt:span>
+</tt:p>
+<tt:p xml:id="sub136" style="textCenter" region="bottom" begin="00:09:08.840"
+end="00:09:10.360">
+<tt:span style="textYellow">das kostet viel Geld.</tt:span>
+</tt:p>
+<tt:p xml:id="sub137" style="textCenter" region="bottom" begin="00:09:10.440"
+end="00:09:12.600">
+<tt:span style="textYellow">Es gibt keinen Haushalt dafür.</tt:span>
+</tt:p>
+<tt:p xml:id="sub138" style="textCenter" region="bottom" begin="00:09:12.680"
+end="00:09:14.840">
+<tt:span style="textYellow">Da muss sich Europa zusammentun.</tt:span>
+</tt:p>
+<tt:p xml:id="sub139" style="textCenter" region="bottom" begin="00:09:14.920"
+end="00:09:18.680">
+<tt:span style="textWhite">Gemeinsam, so der Tenor,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kann der Wandel aber gelingen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub140" style="textCenter" region="bottom" begin="00:09:19.880"
+end="00:09:23.080">
+<tt:span style="textWhite">Bei der Lufthansa</tt:span>
+<tt:br/>
+<tt:span style="textWhite">könnte es neue Streiks geben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub141" style="textCenter" region="bottom" begin="00:09:23.200"
+end="00:09:26.520">
+<tt:span style="textWhite">Das kündigte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Flugbegleitergewerkschaft UFO an.</tt:span>
+</tt:p>
+<tt:p xml:id="sub142" style="textCenter" region="bottom" begin="00:09:26.600"
+end="00:09:29.760">
+<tt:span style="textWhite">Details will sie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Mitte der Woche bekanntgeben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub143" style="textCenter" region="bottom" begin="00:09:29.840"
+end="00:09:33.200">
+<tt:span style="textWhite">Der bisherige Arbeitskampf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">werde wohl ausgeweitet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub144" style="textCenter" region="bottom" begin="00:09:33.280"
+end="00:09:37.520">
+<tt:span style="textWhite">Zuletzt hatten Kabinen-Beschäftigte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum Jahreswechsel gestreikt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub145" style="textCenter" region="bottom" begin="00:09:37.600"
+end="00:09:39.720">
+<tt:span style="textWhite">aber mit überschaubaren Folgen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub146" style="textCenter" region="bottom" begin="00:09:39.840"
+end="00:09:43.880">
+<tt:span style="textWhite">Vor wenigen Tagen scheiterte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Versuch einer Schlichtung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub147" style="textCenter" region="bottom" begin="00:09:47.160"
+end="00:09:50.120">
+<tt:span style="textWhite">Im tschechischen Vejprty</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gab es beim Brand</tt:span>
+</tt:p>
+<tt:p xml:id="sub148" style="textCenter" region="bottom" begin="00:09:50.200"
+end="00:09:54.120">
+<tt:span style="textWhite">in einem Behindertenwohnheim</tt:span>
+<tt:br/>
+<tt:span style="textWhite">8 Tote und 29 Verletzte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub149" style="textCenter" region="bottom" begin="00:09:55.040"
+end="00:09:59.280">
+<tt:span style="textWhite">Das Feuer brach am frühen Morgen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus ungeklärter Ursache aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub150" style="textCenter" region="bottom" begin="00:10:00.520"
+end="00:10:03.600">
+<tt:span style="textWhite">Auch Rettungskräfte aus Sachsen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">rückten aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub151" style="textCenter" region="bottom" begin="00:10:03.680"
+end="00:10:07.480">
+<tt:span style="textWhite">Der tschechische Premier Babis</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sprach von einer Tragödie</tt:span>
+</tt:p>
+<tt:p xml:id="sub152" style="textCenter" region="bottom" begin="00:10:07.560"
+end="00:10:10.640">
+<tt:span style="textWhite">und drückte den Angehörigen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sein Beileid aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub153" style="textCenter" region="bottom" begin="00:10:12.640"
+end="00:10:15.320">
+<tt:span style="textWhite">Im Haus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Berliner Wannsee-Konferenz</tt:span>
+</tt:p>
+<tt:p xml:id="sub154" style="textCenter" region="bottom" begin="00:10:15.400"
+end="00:10:18.200">
+<tt:span style="textWhite">wurde die neue Dauerausstellung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eröffnet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub155" style="textCenter" region="bottom" begin="00:10:18.280"
+end="00:10:21.320">
+<tt:span style="textWhite">Am 20. Januar 1942</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurde dort von den Nazis</tt:span>
+</tt:p>
+<tt:p xml:id="sub156" style="textCenter" region="bottom" begin="00:10:21.400"
+end="00:10:24.360">
+<tt:span style="textWhite">die "Endlösung der Judenfrage"</tt:span>
+<tt:br/>
+<tt:span style="textWhite">beschlossen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub157" style="textCenter" region="bottom" begin="00:10:25.440"
+end="00:10:28.000">
+<tt:span style="textWhite">Diese Konferenz wurde zum Symbol</tt:span>
+</tt:p>
+<tt:p xml:id="sub158" style="textCenter" region="bottom" begin="00:10:28.080"
+end="00:10:32.320">
+<tt:span style="textWhite">für die kaltblütige Planung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eines systematischen Völkermordes.</tt:span>
+</tt:p>
+<tt:p xml:id="sub159" style="textCenter" region="bottom" begin="00:10:34.600"
+end="00:10:36.200">
+<tt:span style="textWhite">Das Haus am Wannsee</tt:span>
+</tt:p>
+<tt:p xml:id="sub160" style="textCenter" region="bottom" begin="00:10:36.280"
+end="00:10:39.760">
+<tt:span style="textWhite">ist eine der meistbesuchten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Holocaust-Gedenkstätten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub161" style="textCenter" region="bottom" begin="00:10:40.920"
+end="00:10:45.120">
+<tt:span style="textWhite">Eva Fahidi, 94, kam extra aus Ungarn</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zur Ausstellungseröffnung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub162" style="textCenter" region="bottom" begin="00:10:45.800"
+end="00:10:49.080">
+<tt:span style="textWhite">Ihre Familie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurde in Auschwitz ermordet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub163" style="textCenter" region="bottom" begin="00:10:49.160"
+end="00:10:51.080">
+<tt:span style="textWhite">sie überlebte als Einzige.</tt:span>
+</tt:p>
+<tt:p xml:id="sub164" style="textCenter" region="bottom" begin="00:10:52.000"
+end="00:10:55.640">
+<tt:span style="textWhite">Ihre Geschichte möchte sie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">jungen Menschen weitergeben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub165" style="textCenter" region="bottom" begin="00:10:56.320"
+end="00:10:59.280">
+<tt:span style="textYellow">In gewissen Dingen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">hat meine Generation</tt:span>
+</tt:p>
+<tt:p xml:id="sub166" style="textCenter" region="bottom" begin="00:10:59.360"
+end="00:11:03.000">
+<tt:span style="textYellow">ein schärferes Gehör</tt:span>
+<tt:br/>
+<tt:span style="textYellow">als ein anderer Mensch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub167" style="textCenter" region="bottom" begin="00:11:07.360"
+end="00:11:08.640">
+<tt:span style="textYellow">Ich weiß:</tt:span>
+</tt:p>
+<tt:p xml:id="sub168" style="textCenter" region="bottom" begin="00:11:08.720"
+end="00:11:13.040">
+<tt:span style="textYellow">Wenn es anfängt mit "Saujude",</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das endet im Krematorium.</tt:span>
+</tt:p>
+<tt:p xml:id="sub169" style="textCenter" region="bottom" begin="00:11:15.120"
+end="00:11:18.240">
+<tt:span style="textWhite">Den Weg von der Ausgrenzung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hin zum Massenmord</tt:span>
+</tt:p>
+<tt:p xml:id="sub170" style="textCenter" region="bottom" begin="00:11:18.320"
+end="00:11:20.520">
+<tt:span style="textWhite">zeichnet die Ausstellung nach.</tt:span>
+</tt:p>
+<tt:p xml:id="sub171" style="textCenter" region="bottom" begin="00:11:20.640"
+end="00:11:24.160">
+<tt:span style="textWhite">Interaktiv erfahren Besucher</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über die Vorgeschichte</tt:span>
+</tt:p>
+<tt:p xml:id="sub172" style="textCenter" region="bottom" begin="00:11:24.240"
+end="00:11:27.480">
+<tt:span style="textWhite">der Wannsee-Konferenz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und die Schicksale der Opfer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub173" style="textCenter" region="bottom" begin="00:11:27.560"
+end="00:11:32.040">
+<tt:span style="textWhite">Im Mittelpunkt steht das Protokoll</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Besprechung vom Januar 1942.</tt:span>
+</tt:p>
+<tt:p xml:id="sub174" style="textCenter" region="bottom" begin="00:11:32.320"
+end="00:11:33.800">
+<tt:span style="textWhite">Hohe NS-Funktionäre</tt:span>
+</tt:p>
+<tt:p xml:id="sub175" style="textCenter" region="bottom" begin="00:11:33.880"
+end="00:11:38.640">
+<tt:span style="textWhite">wollten die systematische Ermordung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der europäischen Juden organisieren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub176" style="textCenter" region="bottom" begin="00:11:41.000"
+end="00:11:44.040">
+<tt:span style="textYellow">Wannsee steht</tt:span>
+<tt:br/>
+<tt:span style="textYellow">für einen komplexen Vorgang.</tt:span>
+</tt:p>
+<tt:p xml:id="sub177" style="textCenter" region="bottom" begin="00:11:44.120"
+end="00:11:47.160">
+<tt:span style="textYellow">Es geht um die Arbeitsteiligkeit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">des Mordens.</tt:span>
+</tt:p>
+<tt:p xml:id="sub178" style="textCenter" region="bottom" begin="00:11:47.720"
+end="00:11:52.080">
+<tt:span style="textYellow">Es ist 'ne Herausforderung,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das in einer Form darzustellen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub179" style="textCenter" region="bottom" begin="00:11:52.200"
+end="00:11:55.680">
+<tt:span style="textYellow">die sich einem breiten Publikum</tt:span>
+<tt:br/>
+<tt:span style="textYellow">schnell erschließt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub180" style="textCenter" region="bottom" begin="00:11:59.240"
+end="00:12:02.600">
+<tt:span style="textWhite">Auch deshalb</tt:span>
+<tt:br/>
+<tt:span style="textWhite">setzt man auf visuelle Elemente.</tt:span>
+</tt:p>
+<tt:p xml:id="sub181" style="textCenter" region="bottom" begin="00:12:02.720"
+end="00:12:06.960">
+<tt:span style="textWhite">Für Besucher ist die Dauerausstellung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ab morgen geöffnet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub182" style="textCenter" region="bottom" begin="00:12:10.320"
+end="00:12:13.160">
+<tt:span style="textWhite">In der Bundesliga</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hofft Leverkusen weiter</tt:span>
+</tt:p>
+<tt:p xml:id="sub183" style="textCenter" region="bottom" begin="00:12:13.240"
+end="00:12:17.200">
+<tt:span style="textWhite">auf einen internationalen Startplatz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in der nächsten Saison.</tt:span>
+</tt:p>
+<tt:p xml:id="sub184" style="textCenter" region="bottom" begin="00:12:17.280"
+end="00:12:21.360">
+<tt:span style="textWhite">Die Werkself ist nach dem 4:1</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen Paderborn Tabellen-Sechster.</tt:span>
+</tt:p>
+<tt:p xml:id="sub185" style="textCenter" region="bottom" begin="00:12:21.440"
+end="00:12:25.360">
+<tt:span style="textWhite">Im zweiten Sonntagsspiel</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gelang Bayern ein 4:0 bei Hertha.</tt:span>
+</tt:p>
+<tt:p xml:id="sub186" style="textCenter" region="bottom" begin="00:12:27.760"
+end="00:12:29.520">
+<tt:span style="textWhite">München in Feierlaune,</tt:span>
+</tt:p>
+<tt:p xml:id="sub187" style="textCenter" region="bottom" begin="00:12:29.640"
+end="00:12:33.760">
+<tt:span style="textWhite">Spieler und Fans genossen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den deutlichen Sieg in Berlin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub188" style="textCenter" region="bottom" begin="00:12:34.720"
+end="00:12:37.480">
+<tt:span style="textWhite">Alle Tore</tt:span>
+<tt:br/>
+<tt:span style="textWhite">fielen nach dem Seitenwechsel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub189" style="textCenter" region="bottom" begin="00:12:37.760"
+end="00:12:41.960">
+<tt:span style="textWhite">Hertha wehrte sich eine Stunde,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bis Müller die Führung gelang.</tt:span>
+</tt:p>
+<tt:p xml:id="sub190" style="textCenter" region="bottom" begin="00:12:43.400"
+end="00:12:45.680">
+<tt:span style="textWhite">Bayern war besser und aktiver.</tt:span>
+</tt:p>
+<tt:p xml:id="sub191" style="textCenter" region="bottom" begin="00:12:45.760"
+end="00:12:49.800">
+<tt:span style="textWhite">Als Klünter in der 73. Minute</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Goretzka leicht zu Boden zog,</tt:span>
+</tt:p>
+<tt:p xml:id="sub192" style="textCenter" region="bottom" begin="00:12:49.880"
+end="00:12:53.000">
+<tt:span style="textWhite">verwandelte Lewandowski</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den Elfmeter zum 0:2.</tt:span>
+</tt:p>
+<tt:p xml:id="sub193" style="textCenter" region="bottom" begin="00:12:54.000"
+end="00:12:56.320">
+<tt:span style="textWhite">Es war sein 20. Saisontreffer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub194" style="textCenter" region="bottom" begin="00:12:56.400"
+end="00:12:59.280">
+<tt:span style="textWhite">Hertha-Trainer Klinsmann war bedient.</tt:span>
+</tt:p>
+<tt:p xml:id="sub195" style="textCenter" region="bottom" begin="00:13:01.200"
+end="00:13:05.000">
+<tt:span style="textWhite">Kurz darauf ein Doppelschlag -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Vorentscheidung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub196" style="textCenter" region="bottom" begin="00:13:06.440"
+end="00:13:09.040">
+<tt:span style="textWhite">Thiagos erstes Tor der Saison.</tt:span>
+</tt:p>
+<tt:p xml:id="sub197" style="textCenter" region="bottom" begin="00:13:09.480"
+end="00:13:13.560">
+<tt:span style="textWhite">Zum zwölften Mal in der Saison</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bereitete Müller vor,</tt:span>
+</tt:p>
+<tt:p xml:id="sub198" style="textCenter" region="bottom" begin="00:13:14.360"
+end="00:13:17.120">
+<tt:span style="textWhite">Perisic köpfte zum 0:4-Endstand.</tt:span>
+</tt:p>
+<tt:p xml:id="sub199" style="textCenter" region="bottom" begin="00:13:19.560"
+end="00:13:23.120">
+<tt:span style="textWhite">Mit diesem klaren Erfolg</tt:span>
+<tt:br/>
+<tt:span style="textWhite">meldeten sich die Münchener</tt:span>
+</tt:p>
+<tt:p xml:id="sub200" style="textCenter" region="bottom" begin="00:13:23.200"
+end="00:13:26.720">
+<tt:span style="textWhite">im Kampf um die Titelverteidigung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eindrucksvoll zurück.</tt:span>
+</tt:p>
+<tt:p xml:id="sub201" style="textCenter" region="bottom" begin="00:13:28.560"
+end="00:13:29.720">
+<tt:span style="textWhite">Die Tabelle:</tt:span>
+</tt:p>
+<tt:p xml:id="sub202" style="textCenter" region="bottom" begin="00:13:49.680"
+end="00:13:53.800">
+<tt:span style="textWhite">Zweiter Sieg für Bob-Pilot</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Olympiasieger Francesco Friedrich</tt:span>
+</tt:p>
+<tt:p xml:id="sub203" style="textCenter" region="bottom" begin="00:13:53.880"
+end="00:13:55.560">
+<tt:span style="textWhite">beim Weltcup in Innsbruck.</tt:span>
+</tt:p>
+<tt:p xml:id="sub204" style="textCenter" region="bottom" begin="00:13:55.640"
+end="00:13:59.400">
+<tt:span style="textWhite">Nach dem Zweierbob gewann er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch mit dem großen Schlitten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub205" style="textCenter" region="bottom" begin="00:13:59.520"
+end="00:14:02.400">
+<tt:span style="textWhite">Mit entscheidend:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die überragenden Startzeiten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub206" style="textCenter" region="bottom" begin="00:14:02.480"
+end="00:14:06.080">
+<tt:span style="textWhite">Nach zwei Läufen hatte er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">33 Hundertstel Sekunden Vorsprung</tt:span>
+</tt:p>
+<tt:p xml:id="sub207" style="textCenter" region="bottom" begin="00:14:06.160"
+end="00:14:07.680">
+<tt:span style="textWhite">vor Johannes Lochner.</tt:span>
+</tt:p>
+<tt:p xml:id="sub208" style="textCenter" region="bottom" begin="00:14:07.760"
+end="00:14:12.080">
+<tt:span style="textWhite">In gleicher Reihenfolge liegen sie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an der Spitze des Gesamtweltcups.</tt:span>
+</tt:p>
+<tt:p xml:id="sub209" style="textCenter" region="bottom" begin="00:14:12.160"
+end="00:14:15.720">
+<tt:span style="textWhite">Nico Walther stürzte im Auslauf,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">blieb aber unverletzt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub210" style="textCenter" region="bottom" begin="00:14:15.800"
+end="00:14:17.520">
+<tt:span style="textWhite">ebenso seine Anschieber.</tt:span>
+</tt:p>
+<tt:p xml:id="sub211" style="textCenter" region="bottom" begin="00:14:17.600"
+end="00:14:20.840">
+<tt:span style="textWhite">Trotz des Missgeschicks</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurde Walther Tagesvierter.</tt:span>
+</tt:p>
+<tt:p xml:id="sub212" style="textCenter" region="bottom" begin="00:14:22.720"
+end="00:14:25.360">
+<tt:span style="textWhite">Nach Wochen dramatischer Buschbrände</tt:span>
+</tt:p>
+<tt:p xml:id="sub213" style="textCenter" region="bottom" begin="00:14:25.440"
+end="00:14:28.200">
+<tt:span style="textWhite">stellen Unwetter</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Australien vor Probleme.</tt:span>
+</tt:p>
+<tt:p xml:id="sub214" style="textCenter" region="bottom" begin="00:14:28.800"
+end="00:14:33.280">
+<tt:span style="textWhite">Regen, Sturm und Hagel sorgen für</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Überschwemmungen und Zerstörungen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub215" style="textCenter" region="bottom" begin="00:14:33.360"
+end="00:14:35.720">
+<tt:span style="textWhite">Das begünstigt die Löscharbeiten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub216" style="textCenter" region="bottom" begin="00:14:35.800"
+end="00:14:39.000">
+<tt:span style="textWhite">die Behörden aber</tt:span>
+<tt:br/>
+<tt:span style="textWhite">warnten vor Sturzfluten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub217" style="textCenter" region="bottom" begin="00:14:41.040"
+end="00:14:45.520">
+<tt:span style="textWhite">Der Regen erreichte zudem nicht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">alle Brandgebiete an der Ostküste.</tt:span>
+</tt:p>
+<tt:p xml:id="sub218" style="textCenter" region="bottom" begin="00:14:46.080"
+end="00:14:49.760">
+<tt:span style="textWhite">Die Feuer vernichteten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bislang 12 Mio. Hektar Land.</tt:span>
+</tt:p>
+<tt:p xml:id="sub219" style="textCenter" region="bottom" begin="00:14:50.400"
+end="00:14:54.600">
+<tt:span style="textWhite">Das entspricht etwa der Größe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Bayerns und Baden-Württembergs.</tt:span>
+</tt:p>
+<tt:p xml:id="sub220" style="textCenter" region="bottom" begin="00:14:56.040"
+end="00:15:00.360">
+<tt:span style="textWhite">Und nun die Wettervorhersage</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für morgen, Montag, den 20. Januar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub221" style="textCenter" region="bottom" begin="00:15:01.400"
+end="00:15:05.240">
+<tt:span style="textWhite">Ein Hoch dehnt sich zu uns aus,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">das Wetter beruhigt sich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub222" style="textCenter" region="bottom" begin="00:15:05.320"
+end="00:15:07.920">
+<tt:span style="textWhite">Das Hoch bleibt uns länger erhalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub223" style="textCenter" region="bottom" begin="00:15:08.000"
+end="00:15:11.120">
+<tt:span style="textWhite">In der Nacht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">werden Regen- und Schneeschauer</tt:span>
+</tt:p>
+<tt:p xml:id="sub224" style="textCenter" region="bottom" begin="00:15:11.600"
+end="00:15:14.280">
+<tt:span style="textWhite">im Süden und in der Mitte seltener.</tt:span>
+</tt:p>
+<tt:p xml:id="sub225" style="textCenter" region="bottom" begin="00:15:14.360"
+end="00:15:15.760">
+<tt:span style="textWhite">Gebietsweise Nebel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub226" style="textCenter" region="bottom" begin="00:15:15.960"
+end="00:15:17.960">
+<tt:span style="textWhite">Vorsicht wegen Glätte!</tt:span>
+</tt:p>
+<tt:p xml:id="sub227" style="textCenter" region="bottom" begin="00:15:19.840"
+end="00:15:22.240">
+<tt:span style="textWhite">Am Tag Sonne, Wolken und Nebel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub228" style="textCenter" region="bottom" begin="00:15:23.080"
+end="00:15:25.720">
+<tt:span style="textWhite">Im Westen und Süden immer mehr Sonne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub229" style="textCenter" region="bottom" begin="00:15:34.160"
+end="00:15:38.720">
+<tt:span style="textWhite">Am Dienstag regionale Nebelfelder,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sonst Sonne, an den Küsten Wolken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub230" style="textCenter" region="bottom" begin="00:15:39.360"
+end="00:15:42.040">
+<tt:span style="textWhite">Am Mittwoch im Norden örtlich Regen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub231" style="textCenter" region="bottom" begin="00:15:42.120"
+end="00:15:45.240">
+<tt:span style="textWhite">Auch am Donnerstag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Süden am meisten Sonne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub232" style="textCenter" region="bottom" begin="00:15:47.800"
+end="00:15:51.360">
+<tt:span style="textWhite">Ingo Zamperoni</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat um 22.45 Uhr diese Tagesthemen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub233" style="textCenter" region="bottom" begin="00:15:51.440"
+end="00:15:53.760">
+<tt:span style="textWhite">Hoffnung für ein Land im Chaos -</tt:span>
+</tt:p>
+<tt:p xml:id="sub234" style="textCenter" region="bottom" begin="00:15:53.840"
+end="00:15:57.040">
+<tt:span style="textWhite">wie erfolgreich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">war die Libyen-Konferenz?</tt:span>
+</tt:p>
+<tt:p xml:id="sub235" style="textCenter" region="bottom" begin="00:15:57.120"
+end="00:16:01.160">
+<tt:span style="textWhite">In Richtung Europacup -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Leverkusens Start in die Rückrunde.</tt:span>
+</tt:p>
+<tt:p xml:id="sub236" style="textCenter" region="bottom" begin="00:16:03.160"
+end="00:16:05.160">
+<tt:span style="textWhite">Ihnen einen schönen Abend.</tt:span>
+</tt:p>
+<tt:p xml:id="sub237" style="textCenter" region="bottom" begin="00:16:05.240"
+end="00:16:07.320">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2020</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>

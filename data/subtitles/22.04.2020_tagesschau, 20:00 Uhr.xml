@@ -1,0 +1,2226 @@
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ebuttm="urn:ebu:tt:metadata"
+ttp:timeBase="media"
+ttp:cellResolution="50 30"
+xml:lang="de">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style xml:id="defaultStyle"
+tts:fontFamily="Verdana,Arial,Tiresias"
+tts:fontSize="160%"
+tts:lineHeight="125%"/>
+<tt:style xml:id="textBlack"
+tts:color="#000000"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textRed"
+tts:color="#FF0000"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textGreen"
+tts:color="#00FF00"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textYellow"
+tts:color="#FFFF00"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textBlue"
+tts:color="#0000FF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textMagenta"
+tts:color="#FF00FF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCyan"
+tts:color="#00FFFF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textWhite"
+tts:color="#FFFFFF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCenter" tts:textAlign="center"/>
+<tt:style xml:id="textLeft" tts:textAlign="left"/>
+<tt:style xml:id="textRight" tts:textAlign="right"/>
+</tt:styling>
+<tt:layout>
+<tt:region xml:id="top"
+tts:origin="10% 10%"
+tts:extent="80% 80%"
+tts:displayAlign="before"/>
+<tt:region xml:id="bottom"
+tts:origin="10% 10%"
+tts:extent="80% 80%"
+tts:displayAlign="after"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p xml:id="sub0"
+style="textCenter"
+region="bottom"
+begin="00:00:00.040"
+end="00:00:01.560"/>
+<tt:p xml:id="sub1"
+style="textCenter"
+region="bottom"
+begin="00:00:03.040"
+end="00:00:06.880">
+<tt:span style="textWhite">Hier ist das Erste Deutsche Fernsehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub2"
+style="textCenter"
+region="bottom"
+begin="00:00:07.200"
+end="00:00:11.680">
+<tt:span style="textBlue">Diese Sendung wurde vom NDR</tt:span>
+<tt:br/>
+<tt:span style="textBlue">live untertitelt (22.04.2020)</tt:span>
+</tt:p>
+<tt:p xml:id="sub3"
+style="textCenter"
+region="bottom"
+begin="00:00:14.360"
+end="00:00:16.960">
+<tt:span style="textWhite">Heute im Studio: Thorsten Schröder</tt:span>
+</tt:p>
+<tt:p xml:id="sub4"
+style="textCenter"
+region="bottom"
+begin="00:00:18.120"
+end="00:00:21.080">
+<tt:span style="textWhite">Guten Abend,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ich begrüße Sie zur tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub5"
+style="textCenter"
+region="bottom"
+begin="00:00:22.080"
+end="00:00:25.280">
+<tt:span style="textWhite">Auf der Suche</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nach einem Corona-Impfstoff startet</tt:span>
+</tt:p>
+<tt:p xml:id="sub6"
+style="textCenter"
+region="bottom"
+begin="00:00:25.400"
+end="00:00:29.920">
+<tt:span style="textWhite">noch im April erstmals in Deutschland</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine klinische Studie an Menschen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub7"
+style="textCenter"
+region="bottom"
+begin="00:00:30.000"
+end="00:00:34.360">
+<tt:span style="textWhite">Das zuständige Paul-Ehrlich-Institut</tt:span>
+<tt:br/>
+<tt:span style="textWhite">erteilte dem Unternehmen Biontech</tt:span>
+</tt:p>
+<tt:p xml:id="sub8"
+style="textCenter"
+region="bottom"
+begin="00:00:34.440"
+end="00:00:36.000">
+<tt:span style="textWhite">dafür die Genehmigung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub9"
+style="textCenter"
+region="bottom"
+begin="00:00:36.080"
+end="00:00:39.160">
+<tt:span style="textWhite">Experten halten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen Impfstoff für entscheidend,</tt:span>
+</tt:p>
+<tt:p xml:id="sub10"
+style="textCenter"
+region="bottom"
+begin="00:00:39.280"
+end="00:00:41.160">
+<tt:span style="textWhite">um die Pandemie zu stoppen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub11"
+style="textCenter"
+region="bottom"
+begin="00:00:41.240"
+end="00:00:43.640">
+<tt:span style="textWhite">Es wird aber nicht damit gerechnet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub12"
+style="textCenter"
+region="bottom"
+begin="00:00:43.720"
+end="00:00:47.000">
+<tt:span style="textWhite">dass ein Wirkstoff</tt:span>
+<tt:br/>
+<tt:span style="textWhite">schnell verfügbar sein wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub13"
+style="textCenter"
+region="bottom"
+begin="00:00:48.080"
+end="00:00:51.920">
+<tt:span style="textWhite">Beim Unternehmen Biontech aus Mainz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">soll der erste Impfstoff</tt:span>
+</tt:p>
+<tt:p xml:id="sub14"
+style="textCenter"
+region="bottom"
+begin="00:00:52.000"
+end="00:00:54.120">
+<tt:span style="textWhite">gegen Covid-19 entwickelt werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub15"
+style="textCenter"
+region="bottom"
+begin="00:00:54.200"
+end="00:00:57.480">
+<tt:span style="textWhite">Ein wichtiger Schritt:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">klinische Studien am Menschen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub16"
+style="textCenter"
+region="bottom"
+begin="00:00:57.560"
+end="00:00:59.480">
+<tt:span style="textWhite">Die wurden heute freigegeben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub17"
+style="textCenter"
+region="bottom"
+begin="00:00:59.560"
+end="00:01:03.480">
+<tt:span style="textWhite">vom Bundesinstitut für Impfstoffe,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dem Paul-Ehrlich-Institut.</tt:span>
+</tt:p>
+<tt:p xml:id="sub18"
+style="textCenter"
+region="bottom"
+begin="00:01:04.160"
+end="00:01:08.640">
+<tt:span style="textYellow">Wir haben damit erst die fünfte</tt:span>
+<tt:br/>
+<tt:span style="textYellow">klinische Prüfung weltweit</tt:span>
+</tt:p>
+<tt:p xml:id="sub19"
+style="textCenter"
+region="bottom"
+begin="00:01:09.080"
+end="00:01:12.000">
+<tt:span style="textYellow">zur der Entwicklung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">eines Impfstoffs.</tt:span>
+</tt:p>
+<tt:p xml:id="sub20"
+style="textCenter"
+region="bottom"
+begin="00:01:12.200"
+end="00:01:14.440">
+<tt:span style="textYellow">Das ist schon ein Meilenstein.</tt:span>
+</tt:p>
+<tt:p xml:id="sub21"
+style="textCenter"
+region="bottom"
+begin="00:01:14.600"
+end="00:01:18.480">
+<tt:span style="textWhite">Vier Varianten seines</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Impfstoffkandidaten wird Biontech</tt:span>
+</tt:p>
+<tt:p xml:id="sub22"
+style="textCenter"
+region="bottom"
+begin="00:01:18.640"
+end="00:01:20.760">
+<tt:span style="textWhite">in den kommenden Monaten testen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub23"
+style="textCenter"
+region="bottom"
+begin="00:01:20.920"
+end="00:01:24.400">
+<tt:span style="textWhite">An 200 gesunden Probanden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zwischen 18 und 55 Jahren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub24"
+style="textCenter"
+region="bottom"
+begin="00:01:24.520"
+end="00:01:28.000">
+<tt:span style="textWhite">Die Hoffnung:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein Mittel gegen das Corona-Virus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub25"
+style="textCenter"
+region="bottom"
+begin="00:01:28.120"
+end="00:01:31.920">
+<tt:span style="textWhite">An vorderster Stelle muss aber</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dessen Verträglichkeit stehen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub26"
+style="textCenter"
+region="bottom"
+begin="00:01:32.000"
+end="00:01:33.880">
+<tt:span style="textWhite">mahnt der Gesundheitsminister.</tt:span>
+</tt:p>
+<tt:p xml:id="sub27"
+style="textCenter"
+region="bottom"
+begin="00:01:33.960"
+end="00:01:37.840">
+<tt:span style="textYellow">Denn eins ist sehr wichtig</tt:span>
+<tt:br/>
+<tt:span style="textYellow">bei einer Injektion in den Körper:</tt:span>
+</tt:p>
+<tt:p xml:id="sub28"
+style="textCenter"
+region="bottom"
+begin="00:01:37.920"
+end="00:01:40.840">
+<tt:span style="textYellow">Dass Sicherheit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">an oberster Stelle stehen muss.</tt:span>
+</tt:p>
+<tt:p xml:id="sub29"
+style="textCenter"
+region="bottom"
+begin="00:01:41.040"
+end="00:01:45.280">
+<tt:span style="textWhite">Der Wirkstoff soll genetische</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Informationen des Erregers enthalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub30"
+style="textCenter"
+region="bottom"
+begin="00:01:45.440"
+end="00:01:47.640">
+<tt:span style="textWhite">Im Körper werden daraus Proteine,</tt:span>
+</tt:p>
+<tt:p xml:id="sub31"
+style="textCenter"
+region="bottom"
+begin="00:01:47.800"
+end="00:01:50.760">
+<tt:span style="textWhite">gegen die das Immunsystem</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Abwehrstoffe bildet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub32"
+style="textCenter"
+region="bottom"
+begin="00:01:50.840"
+end="00:01:53.880">
+<tt:span style="textWhite">Bei Biontech</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein bereits genutztes Prinzip.</tt:span>
+</tt:p>
+<tt:p xml:id="sub33"
+style="textCenter"
+region="bottom"
+begin="00:01:54.080"
+end="00:01:57.120">
+<tt:span style="textYellow">Für eine Impfstoff-Therapie</tt:span>
+<tt:br/>
+<tt:span style="textYellow">bei Krebs.</tt:span>
+</tt:p>
+<tt:p xml:id="sub34"
+style="textCenter"
+region="bottom"
+begin="00:01:57.280"
+end="00:01:59.760">
+<tt:span style="textYellow">Das ist jetzt umgelenkt worden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub35"
+style="textCenter"
+region="bottom"
+begin="00:02:11.360"
+end="00:02:15.440">
+<tt:span style="textWhite">Sind die Daten positiv,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sollen die Tests im Herbst und Winter</tt:span>
+</tt:p>
+<tt:p xml:id="sub36"
+style="textCenter"
+region="bottom"
+begin="00:02:15.520"
+end="00:02:18.760">
+<tt:span style="textWhite">auf Tausende oder Zehntausende</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ausgeweitet werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub37"
+style="textCenter"
+region="bottom"
+begin="00:02:18.840"
+end="00:02:21.880">
+<tt:span style="textWhite">Auf einen Impfstoff</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hofft man schon dieses Jahr,</tt:span>
+</tt:p>
+<tt:p xml:id="sub38"
+style="textCenter"
+region="bottom"
+begin="00:02:21.960"
+end="00:02:24.080">
+<tt:span style="textWhite">doch 2021 sei realistischer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub39"
+style="textCenter"
+region="bottom"
+begin="00:02:25.800"
+end="00:02:28.720">
+<tt:span style="textYellow">Ich denke, dass man</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in der ersten Hälfte 2021</tt:span>
+</tt:p>
+<tt:p xml:id="sub40"
+style="textCenter"
+region="bottom"
+begin="00:02:28.800"
+end="00:02:32.120">
+<tt:span style="textYellow">mit einem Impfstoff rechnen kann,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">der zugelassen ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub41"
+style="textCenter"
+region="bottom"
+begin="00:02:32.200"
+end="00:02:35.720">
+<tt:span style="textYellow">Es geht ja nicht nur darum,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">diesen Impfstoff zu prüfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub42"
+style="textCenter"
+region="bottom"
+begin="00:02:35.880"
+end="00:02:39.440">
+<tt:span style="textYellow">Er soll der breiten Bevölkerung,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">nicht nur in Deutschland,</tt:span>
+</tt:p>
+<tt:p xml:id="sub43"
+style="textCenter"
+region="bottom"
+begin="00:02:39.520"
+end="00:02:42.880">
+<tt:span style="textYellow">sondern auch weltweit,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zur Verfügung gestellt werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub44"
+style="textCenter"
+region="bottom"
+begin="00:02:42.960"
+end="00:02:44.400">
+<tt:span style="textWhite">Ein wirksamer Impfstoff:</tt:span>
+</tt:p>
+<tt:p xml:id="sub45"
+style="textCenter"
+region="bottom"
+begin="00:02:44.480"
+end="00:02:47.840">
+<tt:span style="textWhite">Die große Hoffnung,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">um die Corona-Pandemie zu beenden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub46"
+style="textCenter"
+region="bottom"
+begin="00:02:49.000"
+end="00:02:52.480">
+<tt:span style="textWhite">Ein Interview mit dem Leiter</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Paul-Ehrlich-Instituts</tt:span>
+</tt:p>
+<tt:p xml:id="sub47"
+style="textCenter"
+region="bottom"
+begin="00:02:52.560"
+end="00:02:54.280">
+<tt:span style="textWhite">finden Sie bei tagesschau.de</tt:span>
+</tt:p>
+<tt:p xml:id="sub48"
+style="textCenter"
+region="bottom"
+begin="00:02:54.360"
+end="00:02:58.600">
+<tt:span style="textWhite">Mehr zur Entwicklung der Pandemie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch in einem ARD Extra.</tt:span>
+</tt:p>
+<tt:p xml:id="sub49"
+style="textCenter"
+region="bottom"
+begin="00:02:58.680"
+end="00:03:02.240">
+<tt:span style="textBlue">ARD Extra 20.15 Uhr in DGS</tt:span>
+<tt:br/>
+<tt:span style="textBlue">auf daserste.de und über HbbTV</tt:span>
+</tt:p>
+<tt:p xml:id="sub50"
+style="textCenter"
+region="bottom"
+begin="00:03:03.200"
+end="00:03:06.200">
+<tt:span style="textWhite">Unter Einhaltung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Schutz- und Abstandsregeln</tt:span>
+</tt:p>
+<tt:p xml:id="sub51"
+style="textCenter"
+region="bottom"
+begin="00:03:06.280"
+end="00:03:08.640">
+<tt:span style="textWhite">hat heute auch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Bundestag beraten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub52"
+style="textCenter"
+region="bottom"
+begin="00:03:08.720"
+end="00:03:13.080">
+<tt:span style="textWhite">Debattiert wurde unter anderem über</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die momentane Belastung von Eltern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub53"
+style="textCenter"
+region="bottom"
+begin="00:03:13.160"
+end="00:03:16.680">
+<tt:span style="textWhite">Die Bundesregierung will erreichen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dass Mütter und Väter</tt:span>
+</tt:p>
+<tt:p xml:id="sub54"
+style="textCenter"
+region="bottom"
+begin="00:03:16.760"
+end="00:03:20.720">
+<tt:span style="textWhite">wegen der aktuellen Lage keine</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Nachteile beim Elterngeld haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub55"
+style="textCenter"
+region="bottom"
+begin="00:03:20.840"
+end="00:03:25.400">
+<tt:span style="textWhite">Die Opposition forderte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mehr Unterstützung für Eltern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub56"
+style="textCenter"
+region="bottom"
+begin="00:03:26.280"
+end="00:03:28.640">
+<tt:span style="textWhite">Das Kinderzimmer als Klassenzimmer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub57"
+style="textCenter"
+region="bottom"
+begin="00:03:28.720"
+end="00:03:32.080">
+<tt:span style="textWhite">Eltern haben derzeit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">viele unterschiedliche Probleme.</tt:span>
+</tt:p>
+<tt:p xml:id="sub58"
+style="textCenter"
+region="bottom"
+begin="00:03:32.160"
+end="00:03:36.320">
+<tt:span style="textWhite">Eine Frage immer wieder: Wie kommen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wir finanziell über die Runden?</tt:span>
+</tt:p>
+<tt:p xml:id="sub59"
+style="textCenter"
+region="bottom"
+begin="00:03:36.400"
+end="00:03:38.440">
+<tt:span style="textWhite">Die Regierungskoalition reagiert</tt:span>
+</tt:p>
+<tt:p xml:id="sub60"
+style="textCenter"
+region="bottom"
+begin="00:03:38.520"
+end="00:03:42.200">
+<tt:span style="textWhite">und anderem mit flexibleren Regeln</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für das Elterngeld.</tt:span>
+</tt:p>
+<tt:p xml:id="sub61"
+style="textCenter"
+region="bottom"
+begin="00:03:42.560"
+end="00:03:46.760">
+<tt:span style="textYellow">Was wir jetzt machen, muss zielgenau</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und bedarfsorientiert sein</tt:span>
+</tt:p>
+<tt:p xml:id="sub62"
+style="textCenter"
+region="bottom"
+begin="00:03:46.920"
+end="00:03:49.800">
+<tt:span style="textYellow">und möglichst früh</tt:span>
+<tt:br/>
+<tt:span style="textYellow">eingeleitet werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub63"
+style="textCenter"
+region="bottom"
+begin="00:03:51.160"
+end="00:03:55.600">
+<tt:span style="textYellow">Was wir machen mit der Reform</tt:span>
+<tt:br/>
+<tt:span style="textYellow">des Elterngeldes, ist richtig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub64"
+style="textCenter"
+region="bottom"
+begin="00:03:56.440"
+end="00:03:57.680">
+<tt:span style="textWhite">Konkret geplant:</tt:span>
+</tt:p>
+<tt:p xml:id="sub65"
+style="textCenter"
+region="bottom"
+begin="00:04:03.520"
+end="00:04:07.920">
+<tt:span style="textWhite">Für Eltern mit weniger Einkommen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum Beispiel wegen Kurzarbeit, gilt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub66"
+style="textCenter"
+region="bottom"
+begin="00:04:08.000"
+end="00:04:12.080">
+<tt:span style="textWhite">Die Einkommensverluste werden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei der Berechnung des Elterngeldes</tt:span>
+</tt:p>
+<tt:p xml:id="sub67"
+style="textCenter"
+region="bottom"
+begin="00:04:12.160"
+end="00:04:13.200">
+<tt:span style="textWhite">ausgeklammert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub68"
+style="textCenter"
+region="bottom"
+begin="00:04:13.280"
+end="00:04:17.080">
+<tt:span style="textWhite">Auch der Partnerschaftsbonus,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">beide Elternteile in Teilzeit,</tt:span>
+</tt:p>
+<tt:p xml:id="sub69"
+style="textCenter"
+region="bottom"
+begin="00:04:17.160"
+end="00:04:21.520">
+<tt:span style="textWhite">soll nicht entfallen, wenn sie mehr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">oder weniger arbeiten als geplant.</tt:span>
+</tt:p>
+<tt:p xml:id="sub70"
+style="textCenter"
+region="bottom"
+begin="00:04:21.600"
+end="00:04:24.440">
+<tt:span style="textWhite">Die Pandemie soll nicht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zu Nachteilen führen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub71"
+style="textCenter"
+region="bottom"
+begin="00:04:24.520"
+end="00:04:26.200">
+<tt:span style="textWhite">Die Opposition will mehr.</tt:span>
+</tt:p>
+<tt:p xml:id="sub72"
+style="textCenter"
+region="bottom"
+begin="00:04:26.280"
+end="00:04:29.160">
+<tt:span style="textWhite">Grüne und Linke fordern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein Corona-Elterngeld</tt:span>
+</tt:p>
+<tt:p xml:id="sub73"
+style="textCenter"
+region="bottom"
+begin="00:04:29.240"
+end="00:04:32.040">
+<tt:span style="textWhite">und Entlastung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für überforderte Familien.</tt:span>
+</tt:p>
+<tt:p xml:id="sub74"
+style="textCenter"
+region="bottom"
+begin="00:04:32.200"
+end="00:04:37.000">
+<tt:span style="textYellow">Kleinkinder betreuen, mit der Großen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Mathe im Homeschooling machen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub75"
+style="textCenter"
+region="bottom"
+begin="00:04:37.200"
+end="00:04:40.680">
+<tt:span style="textYellow">an der Videokonferenz</tt:span>
+<tt:br/>
+<tt:span style="textYellow">im Homeoffice teilnehmen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub76"
+style="textCenter"
+region="bottom"
+begin="00:04:40.840"
+end="00:04:43.240">
+<tt:span style="textYellow">Das kann man ein paar Tage machen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub77"
+style="textCenter"
+region="bottom"
+begin="00:04:43.400"
+end="00:04:46.240">
+<tt:span style="textYellow">aber diese Tage</tt:span>
+<tt:br/>
+<tt:span style="textYellow">dauern schon zu lange.</tt:span>
+</tt:p>
+<tt:p xml:id="sub78"
+style="textCenter"
+region="bottom"
+begin="00:04:47.800"
+end="00:04:51.800">
+<tt:span style="textGreen">Wir brauchen dringend</tt:span>
+<tt:br/>
+<tt:span style="textGreen">ein flexibles Corona-Elterngeld,</tt:span>
+</tt:p>
+<tt:p xml:id="sub79"
+style="textCenter"
+region="bottom"
+begin="00:04:51.960"
+end="00:04:56.640">
+<tt:span style="textGreen">das es allen Eltern ermöglicht,</tt:span>
+<tt:br/>
+<tt:span style="textGreen">ihre Arbeitszeit zu reduzieren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub80"
+style="textCenter"
+region="bottom"
+begin="00:04:56.840"
+end="00:05:00.080">
+<tt:span style="textGreen">Dafür erhalten Eltern</tt:span>
+<tt:br/>
+<tt:span style="textGreen">eine Lohnfortzahlung</tt:span>
+</tt:p>
+<tt:p xml:id="sub81"
+style="textCenter"
+region="bottom"
+begin="00:05:00.600"
+end="00:05:03.160">
+<tt:span style="textGreen">für die gesamte Dauer der Krise.</tt:span>
+</tt:p>
+<tt:p xml:id="sub82"
+style="textCenter"
+region="bottom"
+begin="00:05:03.720"
+end="00:05:05.120">
+<tt:span style="textWhite">Schon jetzt möglich:</tt:span>
+</tt:p>
+<tt:p xml:id="sub83"
+style="textCenter"
+region="bottom"
+begin="00:05:05.280"
+end="00:05:09.240">
+<tt:span style="textWhite">Wer wegen geschlossener Schulen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">oder Kita Kinder betreuen muss,</tt:span>
+</tt:p>
+<tt:p xml:id="sub84"
+style="textCenter"
+region="bottom"
+begin="00:05:09.360"
+end="00:05:13.440">
+<tt:span style="textWhite">bekommt 67 % des Nettolohns -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aber nur für sechs Wochen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub85"
+style="textCenter"
+region="bottom"
+begin="00:05:13.680"
+end="00:05:17.320">
+<tt:span style="textYellow">Abzüglich der Osterferien</tt:span>
+<tt:br/>
+<tt:span style="textYellow">läuft das noch bis Mitte Mai.</tt:span>
+</tt:p>
+<tt:p xml:id="sub86"
+style="textCenter"
+region="bottom"
+begin="00:05:17.400"
+end="00:05:20.320">
+<tt:span style="textYellow">Ich will an dieser Stelle</tt:span>
+<tt:br/>
+<tt:span style="textYellow">allen Eltern sagen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub87"
+style="textCenter"
+region="bottom"
+begin="00:05:20.400"
+end="00:05:24.560">
+<tt:span style="textYellow">Wir arbeiten daran, über Mitte Mai</tt:span>
+<tt:br/>
+<tt:span style="textYellow">hinaus eine Regelung zu finden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub88"
+style="textCenter"
+region="bottom"
+begin="00:05:24.720"
+end="00:05:26.800">
+<tt:span style="textWhite">So das Versprechen der Regierung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub89"
+style="textCenter"
+region="bottom"
+begin="00:05:26.880"
+end="00:05:30.040">
+<tt:span style="textWhite">Die Opposition wird genau prüfen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">was daraus wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub90"
+style="textCenter"
+region="bottom"
+begin="00:05:31.520"
+end="00:05:34.120">
+<tt:span style="textWhite">Über weitere Hilfen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in der Corona-Krise</tt:span>
+</tt:p>
+<tt:p xml:id="sub91"
+style="textCenter"
+region="bottom"
+begin="00:05:34.200"
+end="00:05:37.560">
+<tt:span style="textWhite">berät seit dem Nachmittag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch der Koalitionsausschuss.</tt:span>
+</tt:p>
+<tt:p xml:id="sub92"
+style="textCenter"
+region="bottom"
+begin="00:05:37.640"
+end="00:05:40.800">
+<tt:span style="textWhite">Es soll um Unterstützung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für klamme Kommunen gehen</tt:span>
+</tt:p>
+<tt:p xml:id="sub93"
+style="textCenter"
+region="bottom"
+begin="00:05:40.920"
+end="00:05:42.560">
+<tt:span style="textWhite">und für die Gastronomie.</tt:span>
+</tt:p>
+<tt:p xml:id="sub94"
+style="textCenter"
+region="bottom"
+begin="00:05:42.640"
+end="00:05:44.120">
+<tt:span style="textWhite">Die SPD forderte zudem,</tt:span>
+</tt:p>
+<tt:p xml:id="sub95"
+style="textCenter"
+region="bottom"
+begin="00:05:44.200"
+end="00:05:47.560">
+<tt:span style="textWhite">das Kurzarbeitergeld</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für Hunderttausende zu erhöhen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub96"
+style="textCenter"
+region="bottom"
+begin="00:05:47.720"
+end="00:05:50.440">
+<tt:span style="textWhite">Auch die geplante Rückkehr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum Schulbetrieb</tt:span>
+</tt:p>
+<tt:p xml:id="sub97"
+style="textCenter"
+region="bottom"
+begin="00:05:50.600"
+end="00:05:52.560">
+<tt:span style="textWhite">dürfte zur Sprache kommen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub98"
+style="textCenter"
+region="bottom"
+begin="00:05:54.080"
+end="00:05:58.320">
+<tt:span style="textWhite">Zur Sitzung des Koalitionsausschusses</tt:span>
+<tt:br/>
+<tt:span style="textWhite">live aus Berlin Tina Hassel:</tt:span>
+</tt:p>
+<tt:p xml:id="sub99"
+style="textCenter"
+region="bottom"
+begin="00:05:59.360"
+end="00:06:02.480">
+<tt:span style="textCyan">In der ersten Phase</tt:span>
+<tt:br/>
+<tt:span style="textCyan">der Krisenbewältigung</tt:span>
+</tt:p>
+<tt:p xml:id="sub100"
+style="textCenter"
+region="bottom"
+begin="00:06:02.680"
+end="00:06:05.920">
+<tt:span style="textCyan">gab es</tt:span>
+<tt:br/>
+<tt:span style="textCyan">eine geräuschlose Zusammenarbeit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub101"
+style="textCenter"
+region="bottom"
+begin="00:06:06.560"
+end="00:06:09.200">
+<tt:span style="textCyan">Nun könnte es</tt:span>
+<tt:br/>
+<tt:span style="textCyan">weniger harmonisch werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub102"
+style="textCenter"
+region="bottom"
+begin="00:06:09.280"
+end="00:06:10.800">
+<tt:span style="textCyan">Die SPD ist verschnupft:</tt:span>
+</tt:p>
+<tt:p xml:id="sub103"
+style="textCenter"
+region="bottom"
+begin="00:06:10.920"
+end="00:06:15.280">
+<tt:span style="textCyan">Ihr Herzensprojekt, die Grundrente,</tt:span>
+<tt:br/>
+<tt:span style="textCyan">war heute doch nicht im Bundestag.</tt:span>
+</tt:p>
+<tt:p xml:id="sub104"
+style="textCenter"
+region="bottom"
+begin="00:06:15.320"
+end="00:06:18.480">
+<tt:span style="textCyan">Umso wichtiger ist ihr</tt:span>
+<tt:br/>
+<tt:span style="textCyan">die befristete Aufstockung</tt:span>
+</tt:p>
+<tt:p xml:id="sub105"
+style="textCenter"
+region="bottom"
+begin="00:06:18.560"
+end="00:06:21.560">
+<tt:span style="textCyan">des Kurzarbeitergeldes</tt:span>
+<tt:br/>
+<tt:span style="textCyan">von 60 auf 80 % des Lohns.</tt:span>
+</tt:p>
+<tt:p xml:id="sub106"
+style="textCenter"
+region="bottom"
+begin="00:06:21.680"
+end="00:06:24.280">
+<tt:span style="textCyan">Die CSU ist dafür offen,</tt:span>
+<tt:br/>
+<tt:span style="textCyan">die CDU gespalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub107"
+style="textCenter"
+region="bottom"
+begin="00:06:24.360"
+end="00:06:27.240">
+<tt:span style="textCyan">Als Kompromiss wird</tt:span>
+<tt:br/>
+<tt:span style="textCyan">eine Staffelung diskutiert,</tt:span>
+</tt:p>
+<tt:p xml:id="sub108"
+style="textCenter"
+region="bottom"
+begin="00:06:27.360"
+end="00:06:29.880">
+<tt:span style="textCyan">um einkommensschwachen Familien</tt:span>
+<tt:br/>
+<tt:span style="textCyan">zu helfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub109"
+style="textCenter"
+region="bottom"
+begin="00:06:29.960"
+end="00:06:31.200">
+<tt:span style="textCyan">Einig ist man sich,</tt:span>
+</tt:p>
+<tt:p xml:id="sub110"
+style="textCenter"
+region="bottom"
+begin="00:06:31.280"
+end="00:06:34.840">
+<tt:span style="textCyan">dass Restaurants, Bars und Cafes</tt:span>
+<tt:br/>
+<tt:span style="textCyan">unterstützt werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub111"
+style="textCenter"
+region="bottom"
+begin="00:06:35.000"
+end="00:06:38.760">
+<tt:span style="textCyan">Die CSU will dafür</tt:span>
+<tt:br/>
+<tt:span style="textCyan">die Mehrwertsteuer senken auf 7 %.</tt:span>
+</tt:p>
+<tt:p xml:id="sub112"
+style="textCenter"
+region="bottom"
+begin="00:06:38.920"
+end="00:06:43.680">
+<tt:span style="textCyan">Die SPD möchte nicht, dass</tt:span>
+<tt:br/>
+<tt:span style="textCyan">auch große Ketten davon profitieren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub113"
+style="textCenter"
+region="bottom"
+begin="00:06:43.920"
+end="00:06:46.800">
+<tt:span style="textCyan">Strittig ist,</tt:span>
+<tt:br/>
+<tt:span style="textCyan">wie man Studenten helfen kann,</tt:span>
+</tt:p>
+<tt:p xml:id="sub114"
+style="textCenter"
+region="bottom"
+begin="00:06:46.880"
+end="00:06:49.160">
+<tt:span style="textCyan">die wegen Corona ihre Jobs verloren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub115"
+style="textCenter"
+region="bottom"
+begin="00:06:49.240"
+end="00:06:50.240">
+<tt:span style="textCyan">Oder Kommunen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub116"
+style="textCenter"
+region="bottom"
+begin="00:06:50.320"
+end="00:06:54.320">
+<tt:span style="textCyan">denen Milliardenverlusten drohen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">wegen fehlender Steuereinnahmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub117"
+style="textCenter"
+region="bottom"
+begin="00:06:54.400"
+end="00:06:58.200">
+<tt:span style="textCyan">Die SPD will mehr Geld in die Hand</tt:span>
+<tt:br/>
+<tt:span style="textCyan">nehmen, die Union bremst:</tt:span>
+</tt:p>
+<tt:p xml:id="sub118"
+style="textCenter"
+region="bottom"
+begin="00:06:58.280"
+end="00:07:00.440">
+<tt:span style="textCyan">Es dürften lange Gespräche werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub119"
+style="textCenter"
+region="bottom"
+begin="00:07:00.600"
+end="00:07:02.400">
+<tt:span style="textCyan">Zurück zu Thorsten Schröder.</tt:span>
+</tt:p>
+<tt:p xml:id="sub120"
+style="textCenter"
+region="bottom"
+begin="00:07:03.480"
+end="00:07:06.360">
+<tt:span style="textWhite">Die EU-Außenminister</tt:span>
+<tt:br/>
+<tt:span style="textWhite">haben per Videokonferenz</tt:span>
+</tt:p>
+<tt:p xml:id="sub121"
+style="textCenter"
+region="bottom"
+begin="00:07:06.440"
+end="00:07:10.440">
+<tt:span style="textWhite">über die Lage der Flüchtlinge</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Bürgerkriegsland Libyen beraten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub122"
+style="textCenter"
+region="bottom"
+begin="00:07:10.480"
+end="00:07:13.920">
+<tt:span style="textWhite">In der EU herrscht Sorge,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Tausende Menschen könnten sich</tt:span>
+</tt:p>
+<tt:p xml:id="sub123"
+style="textCenter"
+region="bottom"
+begin="00:07:14.000"
+end="00:07:17.720">
+<tt:span style="textWhite">inmitten der Corona-Krise</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf den Weg nach Europa machen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub124"
+style="textCenter"
+region="bottom"
+begin="00:07:17.880"
+end="00:07:20.800">
+<tt:span style="textWhite">Das Bundeskabinett in Berlin</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gab grünes Licht</tt:span>
+</tt:p>
+<tt:p xml:id="sub125"
+style="textCenter"
+region="bottom"
+begin="00:07:20.960"
+end="00:07:24.640">
+<tt:span style="textWhite">für die deutsche Beteiligung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an der EU-Mission Irini.</tt:span>
+</tt:p>
+<tt:p xml:id="sub126"
+style="textCenter"
+region="bottom"
+begin="00:07:24.840"
+end="00:07:28.560">
+<tt:span style="textWhite">Damit soll das Waffenembargo</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen Libyen überwacht werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub127"
+style="textCenter"
+region="bottom"
+begin="00:07:29.760"
+end="00:07:32.120">
+<tt:span style="textWhite">Start frei für die P3-C Orion.</tt:span>
+</tt:p>
+<tt:p xml:id="sub128"
+style="textCenter"
+region="bottom"
+begin="00:07:32.280"
+end="00:07:36.520">
+<tt:span style="textWhite">So einen Seefernaufklärer will</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Regierung zur Verfügung stellen</tt:span>
+</tt:p>
+<tt:p xml:id="sub129"
+style="textCenter"
+region="bottom"
+begin="00:07:36.680"
+end="00:07:38.960">
+<tt:span style="textWhite">für die EU-Marineoperation Irini.</tt:span>
+</tt:p>
+<tt:p xml:id="sub130"
+style="textCenter"
+region="bottom"
+begin="00:07:39.120"
+end="00:07:41.920">
+<tt:span style="textWhite">Bis zu 300 deutsche Soldaten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sollen helfen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub131"
+style="textCenter"
+region="bottom"
+begin="00:07:42.000"
+end="00:07:44.680">
+<tt:span style="textWhite">das Waffenembargo für Libyen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zu überwachen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub132"
+style="textCenter"
+region="bottom"
+begin="00:07:44.880"
+end="00:07:47.800">
+<tt:span style="textWhite">Die Operation</tt:span>
+<tt:br/>
+<tt:span style="textWhite">löst den EU-Einsatz Sophia ab.</tt:span>
+</tt:p>
+<tt:p xml:id="sub133"
+style="textCenter"
+region="bottom"
+begin="00:07:47.960"
+end="00:07:49.480">
+<tt:span style="textWhite">Mit einem Unterschied:</tt:span>
+</tt:p>
+<tt:p xml:id="sub134"
+style="textCenter"
+region="bottom"
+begin="00:07:49.640"
+end="00:07:54.040">
+<tt:span style="textWhite">Beteiligte Schiffe sollen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">keine Flüchtlinge aus Seenot retten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub135"
+style="textCenter"
+region="bottom"
+begin="00:07:54.200"
+end="00:07:57.800">
+<tt:span style="textYellow">Wir haben die Mission</tt:span>
+<tt:br/>
+<tt:span style="textYellow">binnen kürzester Zeit beschlossen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub136"
+style="textCenter"
+region="bottom"
+begin="00:07:57.960"
+end="00:08:01.120">
+<tt:span style="textYellow">Obwohl uns das viele</tt:span>
+<tt:br/>
+<tt:span style="textYellow">nicht zugetraut haben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub137"
+style="textCenter"
+region="bottom"
+begin="00:08:01.280"
+end="00:08:03.160">
+<tt:span style="textYellow">haben wir als EU gezeigt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub138"
+style="textCenter"
+region="bottom"
+begin="00:08:03.320"
+end="00:08:05.960">
+<tt:span style="textYellow">Wir sind bereit,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Verantwortung zu nehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub139"
+style="textCenter"
+region="bottom"
+begin="00:08:06.040"
+end="00:08:09.840">
+<tt:span style="textWhite">Nicht nur Waffen und die mit ihnen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">geführten Kämpfe in Libyen</tt:span>
+</tt:p>
+<tt:p xml:id="sub140"
+style="textCenter"
+region="bottom"
+begin="00:08:09.920"
+end="00:08:13.880">
+<tt:span style="textWhite">bereiten den Ministern Sorgen –</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch die humanitäre Situation.</tt:span>
+</tt:p>
+<tt:p xml:id="sub141"
+style="textCenter"
+region="bottom"
+begin="00:08:14.040"
+end="00:08:16.040">
+<tt:span style="textWhite">Aktuelle Bilder gibt es nicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub142"
+style="textCenter"
+region="bottom"
+begin="00:08:16.120"
+end="00:08:20.000">
+<tt:span style="textWhite">Mehr als 500.000 Flüchtlinge</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sollen sich in Libyen aufhalten –</tt:span>
+</tt:p>
+<tt:p xml:id="sub143"
+style="textCenter"
+region="bottom"
+begin="00:08:20.080"
+end="00:08:22.600">
+<tt:span style="textWhite">in schon jetzt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">katastrophalen Bedingungen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub144"
+style="textCenter"
+region="bottom"
+begin="00:08:22.720"
+end="00:08:26.840">
+<tt:span style="textWhite">Die Gefahr durch Corona könnte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine neue Flüchtlingswelle auslösen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub145"
+style="textCenter"
+region="bottom"
+begin="00:08:26.920"
+end="00:08:29.280">
+<tt:span style="textWhite">Vor allem Malta</tt:span>
+<tt:br/>
+<tt:span style="textWhite">fordert schnelle Hilfe,</tt:span>
+</tt:p>
+<tt:p xml:id="sub146"
+style="textCenter"
+region="bottom"
+begin="00:08:29.360"
+end="00:08:31.680">
+<tt:span style="textWhite">um eine Katastrophe zu vermeiden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub147"
+style="textCenter"
+region="bottom"
+begin="00:08:45.320"
+end="00:08:47.320">
+<tt:span style="textWhite">Die Idee fand Unterstützung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub148"
+style="textCenter"
+region="bottom"
+begin="00:08:47.480"
+end="00:08:51.680">
+<tt:span style="textWhite">Doch Deutschland erklärte,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Voraussetzung sei eine Waffenruhe.</tt:span>
+</tt:p>
+<tt:p xml:id="sub149"
+style="textCenter"
+region="bottom"
+begin="00:08:52.480"
+end="00:08:55.560">
+<tt:span style="textCyan">In der Corona-Krise</tt:span>
+<tt:br/>
+<tt:span style="textCyan">gerät schnell aus dem Blick,</tt:span>
+</tt:p>
+<tt:p xml:id="sub150"
+style="textCenter"
+region="bottom"
+begin="00:08:55.640"
+end="00:08:58.640">
+<tt:span style="textCyan">was sich jenseits des Mittelmeers</tt:span>
+<tt:br/>
+<tt:span style="textCyan">zusammenbraut.</tt:span>
+</tt:p>
+<tt:p xml:id="sub151"
+style="textCenter"
+region="bottom"
+begin="00:08:58.800"
+end="00:09:02.200">
+<tt:span style="textCyan">Auch wenn die EU helfen möchte –</tt:span>
+<tt:br/>
+<tt:span style="textCyan">ein Problem bleibt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub152"
+style="textCenter"
+region="bottom"
+begin="00:09:02.360"
+end="00:09:05.920">
+<tt:span style="textCyan">Sie hat in Libyen keinen Partner</tt:span>
+<tt:br/>
+<tt:span style="textCyan">für die Umsetzung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub153"
+style="textCenter"
+region="bottom"
+begin="00:09:07.800"
+end="00:09:11.320">
+<tt:span style="textWhite">Das Bundeskabinett hat</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für die rund 21 Millionen Rentner</tt:span>
+</tt:p>
+<tt:p xml:id="sub154"
+style="textCenter"
+region="bottom"
+begin="00:09:11.480"
+end="00:09:15.200">
+<tt:span style="textWhite">eine Erhöhung ihrer Altersbezüge</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum 1. Juli beschlossen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub155"
+style="textCenter"
+region="bottom"
+begin="00:09:15.360"
+end="00:09:19.960">
+<tt:span style="textWhite">Grundlage für die jährliche Anpassung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist die Lohnentwicklung 2019.</tt:span>
+</tt:p>
+<tt:p xml:id="sub156"
+style="textCenter"
+region="bottom"
+begin="00:09:27.720"
+end="00:09:31.520">
+<tt:span style="textWhite">Damit nähern sich die Ost-Bezüge</tt:span>
+<tt:br/>
+<tt:span style="textWhite">weiter den West-Renten an.</tt:span>
+</tt:p>
+<tt:p xml:id="sub157"
+style="textCenter"
+region="bottom"
+begin="00:09:32.520"
+end="00:09:37.040">
+<tt:span style="textWhite">Die Hamburger Finanzbehörde fordert</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von der Warburg Bank laut Spiegel</tt:span>
+</tt:p>
+<tt:p xml:id="sub158"
+style="textCenter"
+region="bottom"
+begin="00:09:37.120"
+end="00:09:41.680">
+<tt:span style="textWhite">mehr als 160 Mio. Euro unrechtmäßig</tt:span>
+<tt:br/>
+<tt:span style="textWhite">erstattete Steuern zurück:</tt:span>
+</tt:p>
+<tt:p xml:id="sub159"
+style="textCenter"
+region="bottom"
+begin="00:09:42.120"
+end="00:09:46.320">
+<tt:span style="textWhite">Es geht um "Cum-Ex-Geschäfte"</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in den Jahren 2007 bis 2009.</tt:span>
+</tt:p>
+<tt:p xml:id="sub160"
+style="textCenter"
+region="bottom"
+begin="00:09:47.000"
+end="00:09:50.000">
+<tt:span style="textWhite">Die Warburg Bank</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kündigte rechtliche Schritte</tt:span>
+</tt:p>
+<tt:p xml:id="sub161"
+style="textCenter"
+region="bottom"
+begin="00:09:50.080"
+end="00:09:52.040">
+<tt:span style="textWhite">gegen die Steuerbescheide an.</tt:span>
+</tt:p>
+<tt:p xml:id="sub162"
+style="textCenter"
+region="bottom"
+begin="00:09:52.120"
+end="00:09:55.080">
+<tt:span style="textWhite">Bei Cum-Ex-Geschäften</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ließen sich Aktienhändler</tt:span>
+</tt:p>
+<tt:p xml:id="sub163"
+style="textCenter"
+region="bottom"
+begin="00:09:55.160"
+end="00:09:58.560">
+<tt:span style="textWhite">nie gezahlte Kapitalertragssteuern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vom Fiskus erstatten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub164"
+style="textCenter"
+region="bottom"
+begin="00:09:58.640"
+end="00:10:01.760">
+<tt:span style="textWhite">Dem Staat entstanden so</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Schäden in Milliardenhöhe.</tt:span>
+</tt:p>
+<tt:p xml:id="sub165"
+style="textCenter"
+region="bottom"
+begin="00:10:02.920"
+end="00:10:05.800">
+<tt:span style="textWhite">Vor dem Verteidigungsausschuss</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Bundestages</tt:span>
+</tt:p>
+<tt:p xml:id="sub166"
+style="textCenter"
+region="bottom"
+begin="00:10:05.880"
+end="00:10:09.600">
+<tt:span style="textWhite">musste Ministerin Kramp-Karrenbauer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Rede und Antwort stehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub167"
+style="textCenter"
+region="bottom"
+begin="00:10:09.680"
+end="00:10:13.480">
+<tt:span style="textWhite">Es ging um ihre Pläne,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">veraltete Tornado-Kampfflugzeuge</tt:span>
+</tt:p>
+<tt:p xml:id="sub168"
+style="textCenter"
+region="bottom"
+begin="00:10:13.640"
+end="00:10:18.360">
+<tt:span style="textWhite">durch neue Eurofighter und</tt:span>
+<tt:br/>
+<tt:span style="textWhite">amerikanische F-18-Jets zu ersetzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub169"
+style="textCenter"
+region="bottom"
+begin="00:10:19.800"
+end="00:10:24.640">
+<tt:span style="textWhite">Die Opposition und die SPD werfen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Verteidigungsministerin vor,</tt:span>
+</tt:p>
+<tt:p xml:id="sub170"
+style="textCenter"
+region="bottom"
+begin="00:10:24.800"
+end="00:10:29.000">
+<tt:span style="textWhite">den Bundestag nicht vorab</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über ihre Pläne informiert zu haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub171"
+style="textCenter"
+region="bottom"
+begin="00:10:30.080"
+end="00:10:33.240">
+<tt:span style="textWhite">Zwei Stunden stellt sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Ministerin den Fragen</tt:span>
+</tt:p>
+<tt:p xml:id="sub172"
+style="textCenter"
+region="bottom"
+begin="00:10:33.320"
+end="00:10:34.960">
+<tt:span style="textWhite">im Verteidigungsausschuss.</tt:span>
+</tt:p>
+<tt:p xml:id="sub173"
+style="textCenter"
+region="bottom"
+begin="00:10:35.040"
+end="00:10:36.280">
+<tt:span style="textWhite">Sie muss begründen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub174"
+style="textCenter"
+region="bottom"
+begin="00:10:36.360"
+end="00:10:40.520">
+<tt:span style="textWhite">warum sie als Ersatz für die Tornados</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine Mischlösung favorisiert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub175"
+style="textCenter"
+region="bottom"
+begin="00:10:40.600"
+end="00:10:44.040">
+<tt:span style="textWhite">Danach will die Bundeswehr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bis zu 93 neue Eurofighter</tt:span>
+</tt:p>
+<tt:p xml:id="sub176"
+style="textCenter"
+region="bottom"
+begin="00:10:44.240"
+end="00:10:48.040">
+<tt:span style="textWhite">von Airbus kaufen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aber auch 45 F-18 Jets von Boeing.</tt:span>
+</tt:p>
+<tt:p xml:id="sub177"
+style="textCenter"
+region="bottom"
+begin="00:10:49.040"
+end="00:10:53.520">
+<tt:span style="textYellow">Das ist keine Auswahlentscheidung,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die schon getroffen ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub178"
+style="textCenter"
+region="bottom"
+begin="00:10:55.040"
+end="00:10:59.640">
+<tt:span style="textYellow">Die Entscheidung kann übrigens</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das Ministerium nicht treffen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub179"
+style="textCenter"
+region="bottom"
+begin="00:10:59.920"
+end="00:11:01.480">
+<tt:span style="textYellow">nur das Parlament.</tt:span>
+</tt:p>
+<tt:p xml:id="sub180"
+style="textCenter"
+region="bottom"
+begin="00:11:02.040"
+end="00:11:05.440">
+<tt:span style="textYellow">Es ist ein Vorschlag,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">den das Fachressort,</tt:span>
+</tt:p>
+<tt:p xml:id="sub181"
+style="textCenter"
+region="bottom"
+begin="00:11:06.320"
+end="00:11:09.160">
+<tt:span style="textYellow">das Verteidigungsministerium, macht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub182"
+style="textCenter"
+region="bottom"
+begin="00:11:09.920"
+end="00:11:12.240">
+<tt:span style="textWhite">Ein Kompromiss, so die Ministerin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub183"
+style="textCenter"
+region="bottom"
+begin="00:11:12.400"
+end="00:11:16.400">
+<tt:span style="textWhite">Für die NATO-Bündniszusagen braucht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Bundeswehr ein Kampfjet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub184"
+style="textCenter"
+region="bottom"
+begin="00:11:16.520"
+end="00:11:20.720">
+<tt:span style="textWhite">das US-Atomwaffen transportieren</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und elektronische Kampfführung kann.</tt:span>
+</tt:p>
+<tt:p xml:id="sub185"
+style="textCenter"
+region="bottom"
+begin="00:11:20.880"
+end="00:11:23.520">
+<tt:span style="textWhite">Die Interessen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">europäischer Rüstungskonzerne</tt:span>
+</tt:p>
+<tt:p xml:id="sub186"
+style="textCenter"
+region="bottom"
+begin="00:11:23.600"
+end="00:11:25.960">
+<tt:span style="textWhite">will Deutschland aber auch bedienen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub187"
+style="textCenter"
+region="bottom"
+begin="00:11:26.040"
+end="00:11:27.520">
+<tt:span style="textWhite">Die SPD ist skeptisch,</tt:span>
+</tt:p>
+<tt:p xml:id="sub188"
+style="textCenter"
+region="bottom"
+begin="00:11:27.600"
+end="00:11:30.920">
+<tt:span style="textWhite">fühlt sich in die Entscheidung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nicht eingebunden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub189"
+style="textCenter"
+region="bottom"
+begin="00:11:31.080"
+end="00:11:34.400">
+<tt:span style="textYellow">Ich hätte mir gewünscht,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wie wir es vereinbart haben:</tt:span>
+</tt:p>
+<tt:p xml:id="sub190"
+style="textCenter"
+region="bottom"
+begin="00:11:34.560"
+end="00:11:38.960">
+<tt:span style="textYellow">Dass wir die Ergebnisse der Prüfung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">koalitionsintern diskutieren können,</tt:span>
+</tt:p>
+<tt:p xml:id="sub191"
+style="textCenter"
+region="bottom"
+begin="00:11:39.040"
+end="00:11:43.080">
+<tt:span style="textYellow">um mit einer gemeinsamen Haltung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">an die Öffentlichkeit zu gehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub192"
+style="textCenter"
+region="bottom"
+begin="00:11:43.160"
+end="00:11:45.360">
+<tt:span style="textWhite">Dabei dränge die Zeit, so die FDP.</tt:span>
+</tt:p>
+<tt:p xml:id="sub193"
+style="textCenter"
+region="bottom"
+begin="00:11:45.480"
+end="00:11:49.680">
+<tt:span style="textWhite">Schließlich könnten die Tornados</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nur noch bis 2030 betrieben werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub194"
+style="textCenter"
+region="bottom"
+begin="00:11:50.040"
+end="00:11:53.960">
+<tt:span style="textYellow">Es muss sofort etwas passieren,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wenn wir Daten und Fakten haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub195"
+style="textCenter"
+region="bottom"
+begin="00:11:54.120"
+end="00:11:58.520">
+<tt:span style="textYellow">Die sind deswegen noch nicht da,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">weil die Regierung nicht einig ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub196"
+style="textCenter"
+region="bottom"
+begin="00:11:58.680"
+end="00:12:02.320">
+<tt:span style="textWhite">Bis zur Einigung muss die Ministerin</tt:span>
+<tt:br/>
+<tt:span style="textWhite">beim Koalitionspartner</tt:span>
+</tt:p>
+<tt:p xml:id="sub197"
+style="textCenter"
+region="bottom"
+begin="00:12:02.400"
+end="00:12:04.720">
+<tt:span style="textWhite">wohl noch Überzeugungsarbeit leisten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub198"
+style="textCenter"
+region="bottom"
+begin="00:12:04.800"
+end="00:12:07.080">
+<tt:span style="textCyan">Wieder knirscht es in der Koalition.</tt:span>
+</tt:p>
+<tt:p xml:id="sub199"
+style="textCenter"
+region="bottom"
+begin="00:12:07.200"
+end="00:12:09.440">
+<tt:span style="textCyan">Die SPD hat</tt:span>
+<tt:br/>
+<tt:span style="textCyan">bei der Tornado-Nachfolge</tt:span>
+</tt:p>
+<tt:p xml:id="sub200"
+style="textCenter"
+region="bottom"
+begin="00:12:09.520"
+end="00:12:11.680">
+<tt:span style="textCyan">grundsätzliche Fragen aufgeworfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub201"
+style="textCenter"
+region="bottom"
+begin="00:12:11.840"
+end="00:12:13.320">
+<tt:span style="textCyan">Dabei ist Eile geboten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub202"
+style="textCenter"
+region="bottom"
+begin="00:12:13.480"
+end="00:12:17.680">
+<tt:span style="textCyan">denn erst nach einer Entscheidung</tt:span>
+<tt:br/>
+<tt:span style="textCyan">können Kauf-Verhandlungen beginnen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub203"
+style="textCenter"
+region="bottom"
+begin="00:12:18.800"
+end="00:12:23.120">
+<tt:span style="textWhite">Fußballverantwortliche und Fans</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hoffen auf eine zeitnahe Fortsetzung</tt:span>
+</tt:p>
+<tt:p xml:id="sub204"
+style="textCenter"
+region="bottom"
+begin="00:12:23.200"
+end="00:12:24.640">
+<tt:span style="textWhite">der Bundesliga-Saison.</tt:span>
+</tt:p>
+<tt:p xml:id="sub205"
+style="textCenter"
+region="bottom"
+begin="00:12:24.720"
+end="00:12:27.720">
+<tt:span style="textWhite">Vor der DFL-Mitgliederversammlung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurden Details</tt:span>
+</tt:p>
+<tt:p xml:id="sub206"
+style="textCenter"
+region="bottom"
+begin="00:12:27.800"
+end="00:12:29.920">
+<tt:span style="textWhite">aus einem Hygiene-Konzept bekannt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub207"
+style="textCenter"
+region="bottom"
+begin="00:12:30.000"
+end="00:12:33.800">
+<tt:span style="textWhite">Damit will die Profi-Liga</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen Spielbetrieb vor leeren Rängen</tt:span>
+</tt:p>
+<tt:p xml:id="sub208"
+style="textCenter"
+region="bottom"
+begin="00:12:33.880"
+end="00:12:34.960">
+<tt:span style="textWhite">möglich machen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub209"
+style="textCenter"
+region="bottom"
+begin="00:12:35.040"
+end="00:12:36.840">
+<tt:span style="textWhite">Der Vorstoß ist umstritten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub210"
+style="textCenter"
+region="bottom"
+begin="00:12:36.880"
+end="00:12:40.680">
+<tt:span style="textWhite">u.a. wegen der notwendigen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">regelmäßigen Tests für die Profis.</tt:span>
+</tt:p>
+<tt:p xml:id="sub211"
+style="textCenter"
+region="bottom"
+begin="00:12:41.880"
+end="00:12:46.000">
+<tt:span style="textWhite">Die DFL will unbedingt weitermachen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">es geht vor allem ums Geld.</tt:span>
+</tt:p>
+<tt:p xml:id="sub212"
+style="textCenter"
+region="bottom"
+begin="00:12:46.160"
+end="00:12:49.920">
+<tt:span style="textWhite">Über 300 Millionen Euro an TV-Geldern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stehen noch aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub213"
+style="textCenter"
+region="bottom"
+begin="00:12:50.080"
+end="00:12:54.680">
+<tt:span style="textWhite">Geschätzte 750 Millionen würde</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein Saisonabbruch insgesamt kosten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub214"
+style="textCenter"
+region="bottom"
+begin="00:12:54.840"
+end="00:12:58.400">
+<tt:span style="textWhite">Deshalb hat die DFL</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein Hygienekonzept erarbeitet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub215"
+style="textCenter"
+region="bottom"
+begin="00:12:58.520"
+end="00:12:59.640">
+<tt:span style="textWhite">Dort steht:</tt:span>
+</tt:p>
+<tt:p xml:id="sub216"
+style="textCenter"
+region="bottom"
+begin="00:13:13.760"
+end="00:13:18.120">
+<tt:span style="textWhite">Unter Einhaltung dieses Konzepts</tt:span>
+<tt:br/>
+<tt:span style="textWhite">könnte sich der Gesundheitsminister</tt:span>
+</tt:p>
+<tt:p xml:id="sub217"
+style="textCenter"
+region="bottom"
+begin="00:13:18.280"
+end="00:13:22.480">
+<tt:span style="textWhite">eine Fortsetzung der Bundesliga</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ab dem 9. Mai vorstellen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub218"
+style="textCenter"
+region="bottom"
+begin="00:13:23.320"
+end="00:13:25.920">
+<tt:span style="textYellow">Wenn es gelingen kann</tt:span>
+<tt:br/>
+<tt:span style="textYellow">bei minimiertem,</tt:span>
+</tt:p>
+<tt:p xml:id="sub219"
+style="textCenter"
+region="bottom"
+begin="00:13:26.080"
+end="00:13:29.040">
+<tt:span style="textYellow">so gut wie ausgeschlossenem</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Infektionsrisiko,</tt:span>
+</tt:p>
+<tt:p xml:id="sub220"
+style="textCenter"
+region="bottom"
+begin="00:13:29.200"
+end="00:13:32.480">
+<tt:span style="textYellow">kann das sicherlich gehen -</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das muss man bewerten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub221"
+style="textCenter"
+region="bottom"
+begin="00:13:32.680"
+end="00:13:36.400">
+<tt:span style="textWhite">Bei der Aufnahme des Spielbetriebs</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wären allerdings</tt:span>
+</tt:p>
+<tt:p xml:id="sub222"
+style="textCenter"
+region="bottom"
+begin="00:13:36.560"
+end="00:13:39.680">
+<tt:span style="textWhite">alle beteiligten Personen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ständig zu testen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub223"
+style="textCenter"
+region="bottom"
+begin="00:13:39.840"
+end="00:13:43.280">
+<tt:span style="textWhite">Bis Saisonende</tt:span>
+<tt:br/>
+<tt:span style="textWhite">würden so 20.000 Tests gebraucht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub224"
+style="textCenter"
+region="bottom"
+begin="00:13:43.440"
+end="00:13:46.360">
+<tt:span style="textWhite">Das Robert Koch-Institut</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kritisiert dies.</tt:span>
+</tt:p>
+<tt:p xml:id="sub225"
+style="textCenter"
+region="bottom"
+begin="00:13:47.640"
+end="00:13:50.920">
+<tt:span style="textYellow">Ich sehe nicht,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">warum bestimmte Gruppen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub226"
+style="textCenter"
+region="bottom"
+begin="00:13:52.400"
+end="00:13:57.000">
+<tt:span style="textYellow">ob Sportler oder andere</tt:span>
+<tt:br/>
+<tt:span style="textYellow">von gesellschaftlichem Interesse,</tt:span>
+</tt:p>
+<tt:p xml:id="sub227"
+style="textCenter"
+region="bottom"
+begin="00:13:58.280"
+end="00:14:01.080">
+<tt:span style="textYellow">routinemäßig gescreent</tt:span>
+<tt:br/>
+<tt:span style="textYellow">werden sollten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub228"
+style="textCenter"
+region="bottom"
+begin="00:14:01.240"
+end="00:14:04.840">
+<tt:span style="textGreen">Wenn wir im Abstand</tt:span>
+<tt:br/>
+<tt:span style="textGreen">von wenigen Tagen Fußballer testen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub229"
+style="textCenter"
+region="bottom"
+begin="00:14:04.920"
+end="00:14:08.120">
+<tt:span style="textGreen">könnten wir auch Pflegekräfte</tt:span>
+<tt:br/>
+<tt:span style="textGreen">so testen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub230"
+style="textCenter"
+region="bottom"
+begin="00:14:09.280"
+end="00:14:11.520">
+<tt:span style="textWhite">Die DFL berät morgen noch mal.</tt:span>
+</tt:p>
+<tt:p xml:id="sub231"
+style="textCenter"
+region="bottom"
+begin="00:14:11.680"
+end="00:14:15.880">
+<tt:span style="textWhite">Die Entscheidung über</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Wiederaufnahme des Spielbetriebs</tt:span>
+</tt:p>
+<tt:p xml:id="sub232"
+style="textCenter"
+region="bottom"
+begin="00:14:16.040"
+end="00:14:18.000">
+<tt:span style="textWhite">wird sich noch hinziehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub233"
+style="textCenter"
+region="bottom"
+begin="00:14:19.800"
+end="00:14:21.120">
+<tt:span style="textWhite">Die Lottozahlen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub234"
+style="textCenter"
+region="bottom"
+begin="00:14:38.680"
+end="00:14:42.880">
+<tt:span style="textWhite">Die Wettervorhersage für morgen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Donnerstag, den 23. April:</tt:span>
+</tt:p>
+<tt:p xml:id="sub235"
+style="textCenter"
+region="bottom"
+begin="00:14:44.280"
+end="00:14:47.160">
+<tt:span style="textWhite">Hoher Luftdruck</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sorgt weiter für Sonnenschein.</tt:span>
+</tt:p>
+<tt:p xml:id="sub236"
+style="textCenter"
+region="bottom"
+begin="00:14:47.320"
+end="00:14:49.760">
+<tt:span style="textWhite">Der trocken-kühle Ostwind flaut ab.</tt:span>
+</tt:p>
+<tt:p xml:id="sub237"
+style="textCenter"
+region="bottom"
+begin="00:14:49.920"
+end="00:14:51.680">
+<tt:span style="textWhite">Heute Nacht ist es klar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub238"
+style="textCenter"
+region="bottom"
+begin="00:14:51.840"
+end="00:14:54.760">
+<tt:span style="textWhite">Morgen gibt's wieder</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bis zu 14 Stunden Sonne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub239"
+style="textCenter"
+region="bottom"
+begin="00:14:54.920"
+end="00:14:57.800">
+<tt:span style="textWhite">Über den Norden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ziehen dünne Schleierwolken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub240"
+style="textCenter"
+region="bottom"
+begin="00:14:57.960"
+end="00:15:02.280">
+<tt:span style="textWhite">Über dem südlichen Bergland können</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch mal Quellwolken auftauchen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub241"
+style="textCenter"
+region="bottom"
+begin="00:15:02.440"
+end="00:15:04.040">
+<tt:span style="textWhite">Es bleibt aber trocken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub242"
+style="textCenter"
+region="bottom"
+begin="00:15:10.440"
+end="00:15:13.520">
+<tt:span style="textWhite">An der Ostsee morgen bei Seewind</tt:span>
+<tt:br/>
+<tt:span style="textWhite">weiterhin kühl,</tt:span>
+</tt:p>
+<tt:p xml:id="sub243"
+style="textCenter"
+region="bottom"
+begin="00:15:13.600"
+end="00:15:15.880">
+<tt:span style="textWhite">im Westen und Südwesten sommerlich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub244"
+style="textCenter"
+region="bottom"
+begin="00:15:16.080"
+end="00:15:17.640">
+<tt:span style="textWhite">Am Freitag meist sonnig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub245"
+style="textCenter"
+region="bottom"
+begin="00:15:17.800"
+end="00:15:21.240">
+<tt:span style="textWhite">Im östlichen Bergland und im Süden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch dichtere Wolken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub246"
+style="textCenter"
+region="bottom"
+begin="00:15:21.400"
+end="00:15:24.680">
+<tt:span style="textWhite">Vom Schwarzwald bis zu den Alpen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einzelne Schauer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub247"
+style="textCenter"
+region="bottom"
+begin="00:15:24.840"
+end="00:15:28.480">
+<tt:span style="textWhite">Am Wochenende werden die Wolken</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gebietsweise zahlreicher.</tt:span>
+</tt:p>
+<tt:p xml:id="sub248"
+style="textCenter"
+region="bottom"
+begin="00:15:28.640"
+end="00:15:31.960">
+<tt:span style="textWhite">Aber nennenswerte Regenmengen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bringen sie nicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub249"
+style="textCenter"
+region="bottom"
+begin="00:15:33.040"
+end="00:15:37.000">
+<tt:span style="textWhite">Um 22.55 Uhr hat Caren Miosga</tt:span>
+<tt:br/>
+<tt:span style="textWhite">diese Tagesthemen für Sie:</tt:span>
+</tt:p>
+<tt:p xml:id="sub250"
+style="textCenter"
+region="bottom"
+begin="00:15:37.240"
+end="00:15:40.240">
+<tt:span style="textWhite">Weitere Hilfen in der Corona-Krise:</tt:span>
+</tt:p>
+<tt:p xml:id="sub251"
+style="textCenter"
+region="bottom"
+begin="00:15:40.800"
+end="00:15:43.560">
+<tt:span style="textWhite">Worauf einigt sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Koalitionsausschuss?</tt:span>
+</tt:p>
+<tt:p xml:id="sub252"
+style="textCenter"
+region="bottom"
+begin="00:15:43.720"
+end="00:15:47.080">
+<tt:span style="textWhite">Und - aus dem Blick:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Kampf gegen den Klimawandel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub253"
+style="textCenter"
+region="bottom"
+begin="00:15:48.120"
+end="00:15:49.480">
+<tt:span style="textWhite">Nun das ARD Extra.</tt:span>
+</tt:p>
+<tt:p xml:id="sub254"
+style="textCenter"
+region="bottom"
+begin="00:15:49.640"
+end="00:15:51.720">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2020</tt:span>
+</tt:p>
+<tt:p xml:id="sub255"
+style="textCenter"
+region="bottom"
+begin="00:15:51.840"
+end="00:15:55.480">
+<tt:span style="textBlue">ARD Extra 20.15 Uhr in DGS</tt:span>
+<tt:br/>
+<tt:span style="textBlue">auf daserste.de und über HbbTV</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>

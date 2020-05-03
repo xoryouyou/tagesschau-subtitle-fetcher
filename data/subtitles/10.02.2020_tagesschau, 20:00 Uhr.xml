@@ -1,0 +1,1952 @@
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ebuttm="urn:ebu:tt:metadata"
+ttp:timeBase="media"
+ttp:cellResolution="50 30"
+xml:lang="de">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style xml:id="defaultStyle"
+tts:fontFamily="Verdana,Arial,Tiresias"
+tts:fontSize="160%"
+tts:lineHeight="125%"/>
+<tt:style xml:id="textBlack"
+tts:color="#000000"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textRed"
+tts:color="#FF0000"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textGreen"
+tts:color="#00FF00"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textYellow"
+tts:color="#FFFF00"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textBlue"
+tts:color="#0000FF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textMagenta"
+tts:color="#FF00FF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCyan"
+tts:color="#00FFFF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textWhite"
+tts:color="#FFFFFF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCenter" tts:textAlign="center"/>
+<tt:style xml:id="textLeft" tts:textAlign="left"/>
+<tt:style xml:id="textRight" tts:textAlign="right"/>
+</tt:styling>
+<tt:layout>
+<tt:region xml:id="top"
+tts:origin="10% 10%"
+tts:extent="80% 80%"
+tts:displayAlign="before"/>
+<tt:region xml:id="bottom"
+tts:origin="10% 10%"
+tts:extent="80% 80%"
+tts:displayAlign="after"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p xml:id="sub0"
+style="textCenter"
+region="bottom"
+begin="00:00:00.040"
+end="00:00:01.040"/>
+<tt:p xml:id="sub1"
+style="textCenter"
+region="bottom"
+begin="00:00:03.040"
+end="00:00:06.720">
+<tt:span style="textWhite">Hier ist das Erste Deutsche Fernsehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub2"
+style="textCenter"
+region="bottom"
+begin="00:00:06.800"
+end="00:00:11.480">
+<tt:span style="textBlue">Herzlich willkommen zur Live-</tt:span>
+<tt:br/>
+<tt:span style="textBlue">Untertitelung des NDR (10.02.2020)</tt:span>
+</tt:p>
+<tt:p xml:id="sub3"
+style="textCenter"
+region="bottom"
+begin="00:00:11.560"
+end="00:00:13.720">
+<tt:span style="textWhite">Heute im Studio: Linda Zervakis</tt:span>
+</tt:p>
+<tt:p xml:id="sub4"
+style="textCenter"
+region="bottom"
+begin="00:00:17.200"
+end="00:00:20.600">
+<tt:span style="textWhite">Guten Abend,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ich begrüße Sie zur tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub5"
+style="textCenter"
+region="bottom"
+begin="00:00:23.720"
+end="00:00:26.920">
+<tt:span style="textWhite">Nach nur 14 Monaten im Amt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als CDU-Vorsitzende</tt:span>
+</tt:p>
+<tt:p xml:id="sub6"
+style="textCenter"
+region="bottom"
+begin="00:00:27.000"
+end="00:00:30.520">
+<tt:span style="textWhite">hat Kramp-Karrenbauer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ihren Rückzug angekündigt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub7"
+style="textCenter"
+region="bottom"
+begin="00:00:30.600"
+end="00:00:33.440">
+<tt:span style="textWhite">Sie verzichte auf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Kanzlerkandidatur</tt:span>
+</tt:p>
+<tt:p xml:id="sub8"
+style="textCenter"
+region="bottom"
+begin="00:00:33.520"
+end="00:00:36.880">
+<tt:span style="textWhite">und trete mittelfristig</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als Parteichefin zurück.</tt:span>
+</tt:p>
+<tt:p xml:id="sub9"
+style="textCenter"
+region="bottom"
+begin="00:00:36.960"
+end="00:00:40.480">
+<tt:span style="textWhite">Als einen Grund nannte sie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">das ungeklärte Verhältnis</tt:span>
+</tt:p>
+<tt:p xml:id="sub10"
+style="textCenter"
+region="bottom"
+begin="00:00:40.520"
+end="00:00:43.720">
+<tt:span style="textWhite">von Teilen der CDU zur AfD</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und zur Linken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub11"
+style="textCenter"
+region="bottom"
+begin="00:00:46.360"
+end="00:00:48.000">
+<tt:span style="textWhite">Ein Richtungsstreit,</tt:span>
+</tt:p>
+<tt:p xml:id="sub12"
+style="textCenter"
+region="bottom"
+begin="00:00:48.040"
+end="00:00:52.280">
+<tt:span style="textWhite">der den anstehenden Machtkampf in</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Kanzlerfrage zu überlagern droht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub13"
+style="textCenter"
+region="bottom"
+begin="00:00:53.320"
+end="00:00:57.480">
+<tt:span style="textWhite">Parteichefin und Kanzlerin -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zwei Personen, beide im CDU-Vorstand.</tt:span>
+</tt:p>
+<tt:p xml:id="sub14"
+style="textCenter"
+region="bottom"
+begin="00:00:57.560"
+end="00:00:58.960">
+<tt:span style="textWhite">Was entspannt wirkt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub15"
+style="textCenter"
+region="bottom"
+begin="00:00:59.080"
+end="00:01:02.960">
+<tt:span style="textWhite">ist einer der Gründe für Annegret</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Kramp-Karrenbauers Rückzug.</tt:span>
+</tt:p>
+<tt:p xml:id="sub16"
+style="textCenter"
+region="bottom"
+begin="00:01:03.040"
+end="00:01:06.040">
+<tt:span style="textWhite">Die Trennung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Parteivorsitz und Kanzlerschaft</tt:span>
+</tt:p>
+<tt:p xml:id="sub17"
+style="textCenter"
+region="bottom"
+begin="00:01:06.120"
+end="00:01:07.680">
+<tt:span style="textWhite">habe die CDU geschwächt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub18"
+style="textCenter"
+region="bottom"
+begin="00:01:07.760"
+end="00:01:10.120">
+<tt:span style="textWhite">Sie wolle beides</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wieder zusammenführen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub19"
+style="textCenter"
+region="bottom"
+begin="00:01:10.200"
+end="00:01:13.440">
+<tt:span style="textWhite">im Amt bleiben, bis die</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Kanzlerkandidatur geklärt sei.</tt:span>
+</tt:p>
+<tt:p xml:id="sub20"
+style="textCenter"
+region="bottom"
+begin="00:01:13.520"
+end="00:01:18.520">
+<tt:span style="textYellow">Für mich ist klar, dass ich mit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">meinem Verzicht auf die Kandidatur</tt:span>
+</tt:p>
+<tt:p xml:id="sub21"
+style="textCenter"
+region="bottom"
+begin="00:01:18.600"
+end="00:01:21.960">
+<tt:span style="textYellow">diesen Prozess</tt:span>
+<tt:br/>
+<tt:span style="textYellow">freier gestalten kann.</tt:span>
+</tt:p>
+<tt:p xml:id="sub22"
+style="textCenter"
+region="bottom"
+begin="00:01:22.600"
+end="00:01:25.960">
+<tt:span style="textYellow">Alles, was dazu notwendig ist,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">kann ich angehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub23"
+style="textCenter"
+region="bottom"
+begin="00:01:26.040"
+end="00:01:28.120">
+<tt:span style="textYellow">Ohne dass man mir unterstellt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub24"
+style="textCenter"
+region="bottom"
+begin="00:01:28.200"
+end="00:01:30.560">
+<tt:span style="textYellow">dass ich dies</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in eigenem Interesse tue.</tt:span>
+</tt:p>
+<tt:p xml:id="sub25"
+style="textCenter"
+region="bottom"
+begin="00:01:31.680"
+end="00:01:35.520">
+<tt:span style="textWhite">Eine Parteivorsitzende mit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Verfallsdatum - wie die Kanzlerin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub26"
+style="textCenter"
+region="bottom"
+begin="00:01:35.840"
+end="00:01:38.840">
+<tt:span style="textWhite">Die dankt Kramp-Karrenbauer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">v.a. für eins:</tt:span>
+</tt:p>
+<tt:p xml:id="sub27"
+style="textCenter"
+region="bottom"
+begin="00:01:39.840"
+end="00:01:44.560">
+<tt:span style="textYellow">Die Zusammenarbeit mit CDU und CSU,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das war ein wichtiger Punkt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub28"
+style="textCenter"
+region="bottom"
+begin="00:01:48.120"
+end="00:01:51.360">
+<tt:span style="textYellow">Wir hatten ja</tt:span>
+<tt:br/>
+<tt:span style="textYellow">bekanntermaßen Schwierigkeiten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub29"
+style="textCenter"
+region="bottom"
+begin="00:01:51.680"
+end="00:01:55.160">
+<tt:span style="textWhite">Der CSU-Chef betont,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sein Platz bleibe in München.</tt:span>
+</tt:p>
+<tt:p xml:id="sub30"
+style="textCenter"
+region="bottom"
+begin="00:01:55.240"
+end="00:01:58.040">
+<tt:span style="textWhite">Die CDU müsse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">schnell für Stabilität sorgen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub31"
+style="textCenter"
+region="bottom"
+begin="00:01:58.160"
+end="00:01:59.680">
+<tt:span style="textWhite">Gemeinsam mit der CDU:</tt:span>
+</tt:p>
+<tt:p xml:id="sub32"
+style="textCenter"
+region="bottom"
+begin="00:01:59.760"
+end="00:02:02.560">
+<tt:span style="textYellow">Die Entscheidung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">über die Kanzlerkandidatur</tt:span>
+</tt:p>
+<tt:p xml:id="sub33"
+style="textCenter"
+region="bottom"
+begin="00:02:02.640"
+end="00:02:05.200">
+<tt:span style="textYellow">wird nicht nur</tt:span>
+<tt:br/>
+<tt:span style="textYellow">vom CDU-Parteitag getroffen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub34"
+style="textCenter"
+region="bottom"
+begin="00:02:05.280"
+end="00:02:07.200">
+<tt:span style="textYellow">Sondern natürlich mit der CSU.</tt:span>
+</tt:p>
+<tt:p xml:id="sub35"
+style="textCenter"
+region="bottom"
+begin="00:02:07.320"
+end="00:02:10.640">
+<tt:span style="textYellow">Ich bin gespannt, welche Zeitachsen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">da definiert werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub36"
+style="textCenter"
+region="bottom"
+begin="00:02:10.720"
+end="00:02:16.360">
+<tt:span style="textYellow">Ein halbes Jahr Schönheitswettbewerb</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wird nicht mehr Stabilität bringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub37"
+style="textCenter"
+region="bottom"
+begin="00:02:17.640"
+end="00:02:22.320">
+<tt:span style="textWhite">Mögliche Nachfolger meiden die</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Kameras - oder geben sich Wortkarg:</tt:span>
+</tt:p>
+<tt:p xml:id="sub38"
+style="textCenter"
+region="bottom"
+begin="00:02:27.080"
+end="00:02:32.400">
+<tt:span style="textYellow">Wir diskutieren die Lage der Partei</tt:span>
+<tt:br/>
+<tt:span style="textYellow">hinter verschlossenen Türen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub39"
+style="textCenter"
+region="bottom"
+begin="00:02:35.800"
+end="00:02:39.000">
+<tt:span style="textGreen">Der Kurs der Union muss</tt:span>
+<tt:br/>
+<tt:span style="textGreen">ein Kurs der Mitte bleiben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub40"
+style="textCenter"
+region="bottom"
+begin="00:02:39.080"
+end="00:02:42.720">
+<tt:span style="textGreen">Es darf niemand Regierungschef</tt:span>
+<tt:br/>
+<tt:span style="textGreen">werden mit Stimmen der AfD.</tt:span>
+</tt:p>
+<tt:p xml:id="sub41"
+style="textCenter"
+region="bottom"
+begin="00:02:44.040"
+end="00:02:47.080">
+<tt:span style="textWhite">Die Parteivorsitzende</tt:span>
+<tt:br/>
+<tt:span style="textWhite">betont heute noch einmal</tt:span>
+</tt:p>
+<tt:p xml:id="sub42"
+style="textCenter"
+region="bottom"
+begin="00:02:47.160"
+end="00:02:49.440">
+<tt:span style="textWhite">die Abgrenzung zur Linkspartei.</tt:span>
+</tt:p>
+<tt:p xml:id="sub43"
+style="textCenter"
+region="bottom"
+begin="00:02:49.520"
+end="00:02:52.800">
+<tt:span style="textWhite">Nach Thüringen droht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in der CDU nun ein Machtvakuum.</tt:span>
+</tt:p>
+<tt:p xml:id="sub44"
+style="textCenter"
+region="bottom"
+begin="00:02:54.360"
+end="00:02:59.120">
+<tt:span style="textWhite">Der Rückzug Kramp-Karrenbauers löste</tt:span>
+<tt:br/>
+<tt:span style="textWhite">unterschiedliche Reaktionen aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub45"
+style="textCenter"
+region="bottom"
+begin="00:02:59.200"
+end="00:03:03.320">
+<tt:span style="textWhite">Begrüßt wurde er bei der AfD,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wo Fraktionsvorsitzender Gauland</tt:span>
+</tt:p>
+<tt:p xml:id="sub46"
+style="textCenter"
+region="bottom"
+begin="00:03:03.400"
+end="00:03:07.360">
+<tt:span style="textWhite">Chancen für eine Annäherung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von CDU und AfD sieht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub47"
+style="textCenter"
+region="bottom"
+begin="00:03:07.440"
+end="00:03:12.240">
+<tt:span style="textWhite">Vor einem solchen Rechtsruck warnten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Politiker von Linkspartei und Grünen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub48"
+style="textCenter"
+region="bottom"
+begin="00:03:12.320"
+end="00:03:16.120">
+<tt:span style="textWhite">Es gehe darum, eine Brandmauer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen die AfD hochzuhalten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub49"
+style="textCenter"
+region="bottom"
+begin="00:03:16.200"
+end="00:03:18.320">
+<tt:span style="textWhite">forderte Grünen-Chefin Baerbock.</tt:span>
+</tt:p>
+<tt:p xml:id="sub50"
+style="textCenter"
+region="bottom"
+begin="00:03:18.400"
+end="00:03:23.880">
+<tt:span style="textWhite">Auch SPD-Chef Walter-Borjans forderte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine Abgrenzung der CDU nach rechts.</tt:span>
+</tt:p>
+<tt:p xml:id="sub51"
+style="textCenter"
+region="bottom"
+begin="00:03:26.600"
+end="00:03:28.520">
+<tt:span style="textWhite">Führungssuche kennen sie.</tt:span>
+</tt:p>
+<tt:p xml:id="sub52"
+style="textCenter"
+region="bottom"
+begin="00:03:28.600"
+end="00:03:32.720">
+<tt:span style="textWhite">Das SPD-Spitzenduo wurde selbst</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nach langem Casting gewählt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub53"
+style="textCenter"
+region="bottom"
+begin="00:03:33.320"
+end="00:03:37.480">
+<tt:span style="textWhite">Dass Kramp-Karrenbauer abtreten will,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dafür haben beide Respekt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub54"
+style="textCenter"
+region="bottom"
+begin="00:03:37.520"
+end="00:03:40.920">
+<tt:span style="textWhite">Doch sie habe rechten Kräfte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zu viel Raum gelassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub55"
+style="textCenter"
+region="bottom"
+begin="00:03:42.600"
+end="00:03:45.840">
+<tt:span style="textYellow">Die CDU muss das Verhältnis</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu Rechtsextremisten klären.</tt:span>
+</tt:p>
+<tt:p xml:id="sub56"
+style="textCenter"
+region="bottom"
+begin="00:03:46.880"
+end="00:03:48.520">
+<tt:span style="textYellow">Sie muss auch klären,</tt:span>
+</tt:p>
+<tt:p xml:id="sub57"
+style="textCenter"
+region="bottom"
+begin="00:03:48.600"
+end="00:03:51.680">
+<tt:span style="textYellow">wie es um die Werteunion</tt:span>
+<tt:br/>
+<tt:span style="textYellow">bestellt ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub58"
+style="textCenter"
+region="bottom"
+begin="00:03:53.640"
+end="00:03:57.680">
+<tt:span style="textYellow">Die will sich offenbar</tt:span>
+<tt:br/>
+<tt:span style="textYellow">diesen Kräften zum Teil öffnen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub59"
+style="textCenter"
+region="bottom"
+begin="00:03:58.160"
+end="00:04:02.120">
+<tt:span style="textWhite">Mit Rechtsextremisten meint</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der SPD-Vorsitzende wohl auch ihn,</tt:span>
+</tt:p>
+<tt:p xml:id="sub60"
+style="textCenter"
+region="bottom"
+begin="00:04:02.200"
+end="00:04:04.120">
+<tt:span style="textWhite">AfD-Chef Tino Chrupalla.</tt:span>
+</tt:p>
+<tt:p xml:id="sub61"
+style="textCenter"
+region="bottom"
+begin="00:04:04.320"
+end="00:04:07.440">
+<tt:span style="textWhite">Der weiß, dass</tt:span>
+<tt:br/>
+<tt:span style="textWhite">unterschiedliche Ansichten in der CDU</tt:span>
+</tt:p>
+<tt:p xml:id="sub62"
+style="textCenter"
+region="bottom"
+begin="00:04:07.560"
+end="00:04:11.560">
+<tt:span style="textWhite">über den Umgang mit der AfD mit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zur heutigen Entscheidung führten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub63"
+style="textCenter"
+region="bottom"
+begin="00:04:11.960"
+end="00:04:14.560">
+<tt:span style="textYellow">Es gibt in der CDU</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Diskussionsbedarf.</tt:span>
+</tt:p>
+<tt:p xml:id="sub64"
+style="textCenter"
+region="bottom"
+begin="00:04:14.640"
+end="00:04:16.400">
+<tt:span style="textYellow">Das werden wir abwarten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub65"
+style="textCenter"
+region="bottom"
+begin="00:04:16.520"
+end="00:04:19.400">
+<tt:span style="textYellow">Wir gucken, in welche Richtung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sie sich bewegt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub66"
+style="textCenter"
+region="bottom"
+begin="00:04:19.480"
+end="00:04:23.200">
+<tt:span style="textYellow">Wieder bürgerlich-konservativ</tt:span>
+<tt:br/>
+<tt:span style="textYellow">oder links-grün-ideologisch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub67"
+style="textCenter"
+region="bottom"
+begin="00:04:23.280"
+end="00:04:26.560">
+<tt:span style="textWhite">Was die AfD angeht,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist man bei der FDP der Meinung,</tt:span>
+</tt:p>
+<tt:p xml:id="sub68"
+style="textCenter"
+region="bottom"
+begin="00:04:26.640"
+end="00:04:29.400">
+<tt:span style="textWhite">die richtigen Schlüsse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gezogen zu haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub69"
+style="textCenter"
+region="bottom"
+begin="00:04:29.840"
+end="00:04:33.720">
+<tt:span style="textWhite">Statt Rücktritt Angriff</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vom Parteichef - gegen die CDU.</tt:span>
+</tt:p>
+<tt:p xml:id="sub70"
+style="textCenter"
+region="bottom"
+begin="00:04:33.800"
+end="00:04:36.320">
+<tt:span style="textYellow">Für uns war Mittwoch ein Fiasko,</tt:span>
+</tt:p>
+<tt:p xml:id="sub71"
+style="textCenter"
+region="bottom"
+begin="00:04:37.040"
+end="00:04:40.000">
+<tt:span style="textYellow">das zu einer notwendigen Klärung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">geführt hat.</tt:span>
+</tt:p>
+<tt:p xml:id="sub72"
+style="textCenter"
+region="bottom"
+begin="00:04:40.240"
+end="00:04:42.840">
+<tt:span style="textYellow">Noch nicht einmal ohne Absicht</tt:span>
+</tt:p>
+<tt:p xml:id="sub73"
+style="textCenter"
+region="bottom"
+begin="00:04:43.400"
+end="00:04:47.520">
+<tt:span style="textYellow">möchten wir mit der AfD</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in Verbindung gebracht werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub74"
+style="textCenter"
+region="bottom"
+begin="00:04:49.000"
+end="00:04:51.520">
+<tt:span style="textYellow">Das sieht in der CDU nicht jeder so.</tt:span>
+</tt:p>
+<tt:p xml:id="sub75"
+style="textCenter"
+region="bottom"
+begin="00:04:52.160"
+end="00:04:54.960">
+<tt:span style="textWhite">Die Koalition in Berlin wackelt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub76"
+style="textCenter"
+region="bottom"
+begin="00:04:57.880"
+end="00:05:01.320">
+<tt:span style="textYellow">Ob es Neuwahlen geben wird,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ist unklar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub77"
+style="textCenter"
+region="bottom"
+begin="00:05:02.640"
+end="00:05:07.760">
+<tt:span style="textYellow">Wir werden heute sofort ein</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Bundeswahlkampfbüro einrichten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub78"
+style="textCenter"
+region="bottom"
+begin="00:05:12.360"
+end="00:05:16.000">
+<tt:span style="textWhite">Von Neuwahlen sprechen sie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei den anderen Parteien nicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub79"
+style="textCenter"
+region="bottom"
+begin="00:05:16.080"
+end="00:05:18.320">
+<tt:span style="textWhite">Alle sind heute überrascht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub80"
+style="textCenter"
+region="bottom"
+begin="00:05:21.760"
+end="00:05:24.680">
+<tt:span style="textWhite">Zum angekündigten Rückzug</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der CDU-Vorsitzenden</tt:span>
+</tt:p>
+<tt:p xml:id="sub81"
+style="textCenter"
+region="bottom"
+begin="00:05:24.760"
+end="00:05:27.000">
+<tt:span style="textWhite">jetzt Tina Hassel live aus Berlin.</tt:span>
+</tt:p>
+<tt:p xml:id="sub82"
+style="textCenter"
+region="bottom"
+begin="00:05:27.800"
+end="00:05:30.720">
+<tt:span style="textCyan">Annegret Kramp-Karrenbauer</tt:span>
+<tt:br/>
+<tt:span style="textCyan">hat eingestanden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub83"
+style="textCenter"
+region="bottom"
+begin="00:05:30.800"
+end="00:05:34.680">
+<tt:span style="textCyan">dass sie nicht mehr über die</tt:span>
+<tt:br/>
+<tt:span style="textCyan">Autorität verfügt, die CDU zu einen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub84"
+style="textCenter"
+region="bottom"
+begin="00:05:35.360"
+end="00:05:38.920">
+<tt:span style="textCyan">Sie zieht die Konsequenzen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">aus ihrem Autoritätsverslust,</tt:span>
+</tt:p>
+<tt:p xml:id="sub85"
+style="textCenter"
+region="bottom"
+begin="00:05:38.960"
+end="00:05:42.160">
+<tt:span style="textCyan">der schon lange</tt:span>
+<tt:br/>
+<tt:span style="textCyan">vor dem Eklat in Thüringen begann.</tt:span>
+</tt:p>
+<tt:p xml:id="sub86"
+style="textCenter"
+region="bottom"
+begin="00:05:42.240"
+end="00:05:43.960">
+<tt:span style="textCyan">Damit ist auch Merkels Plan</tt:span>
+</tt:p>
+<tt:p xml:id="sub87"
+style="textCenter"
+region="bottom"
+begin="00:05:44.040"
+end="00:05:46.840">
+<tt:span style="textCyan">für den geordneten Machtübergang</tt:span>
+<tt:br/>
+<tt:span style="textCyan">gescheitert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub88"
+style="textCenter"
+region="bottom"
+begin="00:05:46.920"
+end="00:05:48.800">
+<tt:span style="textCyan">Genauso wie das Experiment,</tt:span>
+</tt:p>
+<tt:p xml:id="sub89"
+style="textCenter"
+region="bottom"
+begin="00:05:48.840"
+end="00:05:52.560">
+<tt:span style="textCyan">Parteivorsitz und Kanzleramt</tt:span>
+<tt:br/>
+<tt:span style="textCyan">nicht in eine Hand zu legen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub90"
+style="textCenter"
+region="bottom"
+begin="00:05:52.680"
+end="00:05:56.720">
+<tt:span style="textCyan">Jetzt ist die CDU-Chefin nur noch</tt:span>
+<tt:br/>
+<tt:span style="textCyan">eine politische Verwalterin,</tt:span>
+</tt:p>
+<tt:p xml:id="sub91"
+style="textCenter"
+region="bottom"
+begin="00:05:56.800"
+end="00:06:00.600">
+<tt:span style="textCyan">die den Richtungsstreit, den sie</tt:span>
+<tt:br/>
+<tt:span style="textCyan">nicht lösen konnte, moderiert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub92"
+style="textCenter"
+region="bottom"
+begin="00:06:00.680"
+end="00:06:02.600">
+<tt:span style="textCyan">Bis ihr Nachfolger feststeht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub93"
+style="textCenter"
+region="bottom"
+begin="00:06:02.720"
+end="00:06:06.680">
+<tt:span style="textCyan">Ob sich die CDU damit wirklich</tt:span>
+<tt:br/>
+<tt:span style="textCyan">bis zum Dezember Zeit lassen kann,</tt:span>
+</tt:p>
+<tt:p xml:id="sub94"
+style="textCenter"
+region="bottom"
+begin="00:06:06.760"
+end="00:06:09.280">
+<tt:span style="textCyan">fragen besorgte Stimmen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">aus der Union.</tt:span>
+</tt:p>
+<tt:p xml:id="sub95"
+style="textCenter"
+region="bottom"
+begin="00:06:09.360"
+end="00:06:13.280">
+<tt:span style="textCyan">SPD, Grüne und Linke warnen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">vor einem Rechtsruck in der CDU.</tt:span>
+</tt:p>
+<tt:p xml:id="sub96"
+style="textCenter"
+region="bottom"
+begin="00:06:13.360"
+end="00:06:17.480">
+<tt:span style="textCyan">Und die AfD macht sich bereit,</tt:span>
+<tt:br/>
+<tt:span style="textCyan">die Kanzlerin ins Visier zu nehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub97"
+style="textCenter"
+region="bottom"
+begin="00:06:17.560"
+end="00:06:19.720">
+<tt:span style="textCyan">Union und SPD</tt:span>
+<tt:br/>
+<tt:span style="textCyan">haben sich heute</tt:span>
+</tt:p>
+<tt:p xml:id="sub98"
+style="textCenter"
+region="bottom"
+begin="00:06:19.800"
+end="00:06:22.880">
+<tt:span style="textCyan">zur Fortsetzung</tt:span>
+<tt:br/>
+<tt:span style="textCyan">der Großen Koalition bekannt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub99"
+style="textCenter"
+region="bottom"
+begin="00:06:22.960"
+end="00:06:25.200">
+<tt:span style="textCyan">Zurück zu Linda Zervakis.</tt:span>
+</tt:p>
+<tt:p xml:id="sub100"
+style="textCenter"
+region="bottom"
+begin="00:06:28.040"
+end="00:06:29.960">
+<tt:span style="textWhite">In Thüringen bleibt die Lage</tt:span>
+</tt:p>
+<tt:p xml:id="sub101"
+style="textCenter"
+region="bottom"
+begin="00:06:30.040"
+end="00:06:33.840">
+<tt:span style="textWhite">angesichts der Mehrheits-Verhältnisse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Landtag verfahren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub102"
+style="textCenter"
+region="bottom"
+begin="00:06:33.920"
+end="00:06:35.880">
+<tt:span style="textWhite">Bodo Ramelow von der Linkspartei</tt:span>
+</tt:p>
+<tt:p xml:id="sub103"
+style="textCenter"
+region="bottom"
+begin="00:06:35.960"
+end="00:06:39.160">
+<tt:span style="textWhite">will sich zum Ministerpräsidenten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wählen lassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub104"
+style="textCenter"
+region="bottom"
+begin="00:06:39.240"
+end="00:06:43.360">
+<tt:span style="textWhite">Da eine rot-rot-grüne Koalition nicht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über eine Mehrheit verfügt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub105"
+style="textCenter"
+region="bottom"
+begin="00:06:43.440"
+end="00:06:46.240">
+<tt:span style="textWhite">setzt er auf Stimmen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus der CDU-Fraktion.</tt:span>
+</tt:p>
+<tt:p xml:id="sub106"
+style="textCenter"
+region="bottom"
+begin="00:06:46.320"
+end="00:06:50.480">
+<tt:span style="textWhite">Kommende Woche soll es Gespräche</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit den Christdemokraten geben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub107"
+style="textCenter"
+region="bottom"
+begin="00:06:50.600"
+end="00:06:54.440">
+<tt:span style="textWhite">Die Union hat bislang eine</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aktive Unterstützung ausgeschlossen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub108"
+style="textCenter"
+region="bottom"
+begin="00:06:55.520"
+end="00:06:57.800">
+<tt:span style="textWhite">Erstmals seit der Wahlniederlage</tt:span>
+</tt:p>
+<tt:p xml:id="sub109"
+style="textCenter"
+region="bottom"
+begin="00:06:57.880"
+end="00:07:01.080">
+<tt:span style="textWhite">zeigt Ramelow sich heute</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in der Öffentlichkeit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub110"
+style="textCenter"
+region="bottom"
+begin="00:07:01.160"
+end="00:07:04.280">
+<tt:span style="textWhite">Er ist Ex- und</tt:span>
+<tt:br/>
+<tt:span style="textWhite">- wenn es nach seiner Partei geht -</tt:span>
+</tt:p>
+<tt:p xml:id="sub111"
+style="textCenter"
+region="bottom"
+begin="00:07:04.360"
+end="00:07:07.120">
+<tt:span style="textWhite">bald wieder Ministerpräsident</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Thüringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub112"
+style="textCenter"
+region="bottom"
+begin="00:07:07.200"
+end="00:07:10.400">
+<tt:span style="textWhite">Die Linksfraktion will ihn</tt:span>
+<tt:br/>
+<tt:span style="textWhite">erneut zur Wahl stellen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub113"
+style="textCenter"
+region="bottom"
+begin="00:07:10.480"
+end="00:07:13.080">
+<tt:span style="textYellow">Ich bin bereit,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Verantwortung zu nehmen</tt:span>
+</tt:p>
+<tt:p xml:id="sub114"
+style="textCenter"
+region="bottom"
+begin="00:07:13.200"
+end="00:07:16.520">
+<tt:span style="textYellow">und ich strecke auch die Hände aus</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Richtung CDU und FDP.</tt:span>
+</tt:p>
+<tt:p xml:id="sub115"
+style="textCenter"
+region="bottom"
+begin="00:07:16.600"
+end="00:07:19.280">
+<tt:span style="textYellow">Wir müssen zu</tt:span>
+<tt:br/>
+<tt:span style="textYellow">einem gemeinsamen Weg kommen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub116"
+style="textCenter"
+region="bottom"
+begin="00:07:19.360"
+end="00:07:21.600">
+<tt:span style="textYellow">damit dieses Land</tt:span>
+<tt:br/>
+<tt:span style="textYellow">handlungsfähig ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub117"
+style="textCenter"
+region="bottom"
+begin="00:07:21.720"
+end="00:07:24.120">
+<tt:span style="textYellow">Damit dieses Land beweisen kann:</tt:span>
+</tt:p>
+<tt:p xml:id="sub118"
+style="textCenter"
+region="bottom"
+begin="00:07:24.160"
+end="00:07:27.000">
+<tt:span style="textYellow">Wir sind in schwieriger Situation</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in der Lage,</tt:span>
+</tt:p>
+<tt:p xml:id="sub119"
+style="textCenter"
+region="bottom"
+begin="00:07:27.080"
+end="00:07:30.480">
+<tt:span style="textYellow">im Parlament</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu geordneten Mehrheiten zu kommen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub120"
+style="textCenter"
+region="bottom"
+begin="00:07:30.720"
+end="00:07:33.160">
+<tt:span style="textWhite">Rot-Rot-Grün fehlen vier Stimmen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub121"
+style="textCenter"
+region="bottom"
+begin="00:07:33.240"
+end="00:07:36.680">
+<tt:span style="textWhite">um Ramelow erneut</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum Ministerpräsidenten zu wählen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub122"
+style="textCenter"
+region="bottom"
+begin="00:07:36.760"
+end="00:07:39.720">
+<tt:span style="textWhite">Das Bündnis ist</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf CDU oder FDP angewiesen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub123"
+style="textCenter"
+region="bottom"
+begin="00:07:39.800"
+end="00:07:43.120">
+<tt:span style="textWhite">Das CDU-Bundespräsidium</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hatte am Freitag bestätigt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub124"
+style="textCenter"
+region="bottom"
+begin="00:07:43.240"
+end="00:07:47.600">
+<tt:span style="textWhite">dass die Partei nicht für einen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Kandidaten der Linken stimmen wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub125"
+style="textCenter"
+region="bottom"
+begin="00:07:47.680"
+end="00:07:51.440">
+<tt:span style="textWhite">Deshalb ist für den Landesverband</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine Zustimmung für Ramelow</tt:span>
+</tt:p>
+<tt:p xml:id="sub126"
+style="textCenter"
+region="bottom"
+begin="00:07:51.520"
+end="00:07:52.600">
+<tt:span style="textWhite">keine Option.</tt:span>
+</tt:p>
+<tt:p xml:id="sub127"
+style="textCenter"
+region="bottom"
+begin="00:07:52.680"
+end="00:07:54.280">
+<tt:span style="textYellow">Die Lage ist kompliziert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub128"
+style="textCenter"
+region="bottom"
+begin="00:07:54.360"
+end="00:07:57.360">
+<tt:span style="textYellow">Wir haben vom Bund</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Unvereinbarkeitsbeschlüsse,</tt:span>
+</tt:p>
+<tt:p xml:id="sub129"
+style="textCenter"
+region="bottom"
+begin="00:07:57.440"
+end="00:07:59.720">
+<tt:span style="textYellow">die uns in eine Zwangsjacke stecken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub130"
+style="textCenter"
+region="bottom"
+begin="00:07:59.800"
+end="00:08:01.520">
+<tt:span style="textYellow">Wir können nicht Mehrheiten</tt:span>
+</tt:p>
+<tt:p xml:id="sub131"
+style="textCenter"
+region="bottom"
+begin="00:08:01.600"
+end="00:08:05.480">
+<tt:span style="textYellow">auf der einen oder anderen Seite</tt:span>
+<tt:br/>
+<tt:span style="textYellow">organisieren oder da mithelfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub132"
+style="textCenter"
+region="bottom"
+begin="00:08:05.560"
+end="00:08:08.600">
+<tt:span style="textWhite">Diese Unvereinbarkeitsbeschlüsse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit Linken und AfD</tt:span>
+</tt:p>
+<tt:p xml:id="sub133"
+style="textCenter"
+region="bottom"
+begin="00:08:08.680"
+end="00:08:12.000">
+<tt:span style="textWhite">müssten beim nächsten Bundesparteitag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">diskutiert werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub134"
+style="textCenter"
+region="bottom"
+begin="00:08:12.080"
+end="00:08:14.720">
+<tt:span style="textWhite">Das Landesvorsitzende Mohring</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kündigte an,</tt:span>
+</tt:p>
+<tt:p xml:id="sub135"
+style="textCenter"
+region="bottom"
+begin="00:08:14.760"
+end="00:08:18.400">
+<tt:span style="textWhite">die Thüringer CDU-Mitglieder</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zur Basiskonferenz einzuladen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub136"
+style="textCenter"
+region="bottom"
+begin="00:08:18.480"
+end="00:08:22.560">
+<tt:span style="textWhite">Dort solle über die Rolle der CDU</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als Volkspartei diskutiert werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub137"
+style="textCenter"
+region="bottom"
+begin="00:08:22.640"
+end="00:08:24.880">
+<tt:span style="textWhite">Wie es kurzfristig weitergehen kann,</tt:span>
+</tt:p>
+<tt:p xml:id="sub138"
+style="textCenter"
+region="bottom"
+begin="00:08:24.960"
+end="00:08:28.240">
+<tt:span style="textWhite">darüber wollen Rot-Rot-Grün und CDU</tt:span>
+<tt:br/>
+<tt:span style="textWhite">am Montag sprechen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub139"
+style="textCenter"
+region="bottom"
+begin="00:08:29.360"
+end="00:08:33.280">
+<tt:span style="textWhite">Zu den Gründen ihres Rückzugs</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nimmt Kramp-Karrenbauer Stellung:</tt:span>
+</tt:p>
+<tt:p xml:id="sub140"
+style="textCenter"
+region="bottom"
+begin="00:08:33.360"
+end="00:08:36.560">
+<tt:span style="textWhite">In einem Brennpunkt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Anschluss an diese tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub141"
+style="textCenter"
+region="bottom"
+begin="00:08:36.640"
+end="00:08:40.360">
+<tt:span style="textBlue">Brennpunkt 20.15 Uhr in DGS</tt:span>
+<tt:br/>
+<tt:span style="textBlue">auf daserste.de und über HbbTV</tt:span>
+</tt:p>
+<tt:p xml:id="sub142"
+style="textCenter"
+region="bottom"
+begin="00:08:46.080"
+end="00:08:50.800">
+<tt:span style="textWhite">Unter den gestern aus Wuhan nach</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Berlin zurückgekehrten 20 Menschen</tt:span>
+</tt:p>
+<tt:p xml:id="sub143"
+style="textCenter"
+region="bottom"
+begin="00:08:50.880"
+end="00:08:54.560">
+<tt:span style="textWhite">wurden bei ersten Tests</tt:span>
+<tt:br/>
+<tt:span style="textWhite">keine Corona-Infektion nachgewiesen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub144"
+style="textCenter"
+region="bottom"
+begin="00:08:54.640"
+end="00:08:56.760">
+<tt:span style="textWhite">Sie bleiben unter Quarantäne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub145"
+style="textCenter"
+region="bottom"
+begin="00:08:56.800"
+end="00:08:59.760">
+<tt:span style="textWhite">Die EU-Gesundheitsminister</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wollen am Donnerstag</tt:span>
+</tt:p>
+<tt:p xml:id="sub146"
+style="textCenter"
+region="bottom"
+begin="00:08:59.840"
+end="00:09:04.480">
+<tt:span style="textWhite">über weitere Schutzmaßnahmen beraten,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wie einheitliche Einreisekontrollen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub147"
+style="textCenter"
+region="bottom"
+begin="00:09:04.560"
+end="00:09:09.160">
+<tt:span style="textWhite">An den Folgen der Erkrankung starben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bislang mehr als 900 Menschen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub148"
+style="textCenter"
+region="bottom"
+begin="00:09:10.920"
+end="00:09:12.480">
+<tt:span style="textWhite">die meisten in China.</tt:span>
+</tt:p>
+<tt:p xml:id="sub149"
+style="textCenter"
+region="bottom"
+begin="00:09:12.560"
+end="00:09:15.280">
+<tt:span style="textWhite">Als infiziert registriert</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurden etwa 40.000.</tt:span>
+</tt:p>
+<tt:p xml:id="sub150"
+style="textCenter"
+region="bottom"
+begin="00:09:17.480"
+end="00:09:20.560">
+<tt:span style="textWhite">In Irland zeichnet sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein politischer Umbruch ab.</tt:span>
+</tt:p>
+<tt:p xml:id="sub151"
+style="textCenter"
+region="bottom"
+begin="00:09:20.640"
+end="00:09:25.000">
+<tt:span style="textWhite">Nach dem überraschenden Wahlerfolg</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der linksgerichteten Partei Sinn Fein</tt:span>
+</tt:p>
+<tt:p xml:id="sub152"
+style="textCenter"
+region="bottom"
+begin="00:09:25.120"
+end="00:09:28.760">
+<tt:span style="textWhite">kommen harte Koalitionsverhandlungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf das Land zu.</tt:span>
+</tt:p>
+<tt:p xml:id="sub153"
+style="textCenter"
+region="bottom"
+begin="00:09:28.840"
+end="00:09:32.800">
+<tt:span style="textWhite">Sinn Fein galt lange</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als politischer Arm der IRA.</tt:span>
+</tt:p>
+<tt:p xml:id="sub154"
+style="textCenter"
+region="bottom"
+begin="00:09:33.720"
+end="00:09:37.680">
+<tt:span style="textWhite">Sollte es zur Regierungsbeteiligung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kommen, will sich Sinn Fein</tt:span>
+</tt:p>
+<tt:p xml:id="sub155"
+style="textCenter"
+region="bottom"
+begin="00:09:37.760"
+end="00:09:41.560">
+<tt:span style="textWhite">für ein Referendum über</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Irlands Wiedervereinigung einsetzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub156"
+style="textCenter"
+region="bottom"
+begin="00:09:44.160"
+end="00:09:48.520">
+<tt:span style="textWhite">"Sabine" hat in Deutschland weniger</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Schäden angerichtet als befürchtet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub157"
+style="textCenter"
+region="bottom"
+begin="00:09:48.600"
+end="00:09:52.120">
+<tt:span style="textWhite">In der Nacht war der Sturm</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Richtung Süden gezogen</tt:span>
+</tt:p>
+<tt:p xml:id="sub158"
+style="textCenter"
+region="bottom"
+begin="00:09:52.200"
+end="00:09:54.680">
+<tt:span style="textWhite">und hatte vormittags Bayern erreicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub159"
+style="textCenter"
+region="bottom"
+begin="00:09:54.760"
+end="00:09:57.120">
+<tt:span style="textWhite">Flug- und Zugverbindungen fielen aus,</tt:span>
+</tt:p>
+<tt:p xml:id="sub160"
+style="textCenter"
+region="bottom"
+begin="00:09:57.200"
+end="00:09:59.800">
+<tt:span style="textWhite">Zehntausende Haushalte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">waren ohne Strom.</tt:span>
+</tt:p>
+<tt:p xml:id="sub161"
+style="textCenter"
+region="bottom"
+begin="00:09:59.840"
+end="00:10:03.760">
+<tt:span style="textWhite">In mehreren Bundesländern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">blieben Schulen zu.</tt:span>
+</tt:p>
+<tt:p xml:id="sub162"
+style="textCenter"
+region="bottom"
+begin="00:10:07.840"
+end="00:10:10.720">
+<tt:span style="textWhite">Orkanartige Böen in ganz Deutschland.</tt:span>
+</tt:p>
+<tt:p xml:id="sub163"
+style="textCenter"
+region="bottom"
+begin="00:10:10.800"
+end="00:10:14.360">
+<tt:span style="textWhite">Nirgendwo stürmt es so</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wie im Schwarzwald.</tt:span>
+</tt:p>
+<tt:p xml:id="sub164"
+style="textCenter"
+region="bottom"
+begin="00:10:18.400"
+end="00:10:20.120">
+<tt:span style="textWhite">177 km/h in der Früh.</tt:span>
+</tt:p>
+<tt:p xml:id="sub165"
+style="textCenter"
+region="bottom"
+begin="00:10:23.520"
+end="00:10:27.720">
+<tt:span style="textWhite">Die Nordseeküste hat da</tt:span>
+<tt:br/>
+<tt:span style="textWhite">das Schlimmste wohl hinter sich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub166"
+style="textCenter"
+region="bottom"
+begin="00:10:27.800"
+end="00:10:31.560">
+<tt:span style="textWhite">Die Bahn kann die Züge</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wieder anrollen lassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub167"
+style="textCenter"
+region="bottom"
+begin="00:10:35.320"
+end="00:10:38.240">
+<tt:span style="textYellow">Es war richtig,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">den Zugverkehr einzustellen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub168"
+style="textCenter"
+region="bottom"
+begin="00:10:38.320"
+end="00:10:42.040">
+<tt:span style="textYellow">Das versetzt uns in die Lage,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ihn geregelt wieder aufzunehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub169"
+style="textCenter"
+region="bottom"
+begin="00:10:43.000"
+end="00:10:44.920">
+<tt:span style="textWhite">Im Süden dauert das länger.</tt:span>
+</tt:p>
+<tt:p xml:id="sub170"
+style="textCenter"
+region="bottom"
+begin="00:10:45.000"
+end="00:10:48.880">
+<tt:span style="textWhite">Bis in den Mittag hinein geht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">am Münchner Hauptbahnhof nichts.</tt:span>
+</tt:p>
+<tt:p xml:id="sub171"
+style="textCenter"
+region="bottom"
+begin="00:10:48.960"
+end="00:10:53.600">
+<tt:span style="textWhite">Noch stärker beeinträchtigt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">war der Flughafen München.</tt:span>
+</tt:p>
+<tt:p xml:id="sub172"
+style="textCenter"
+region="bottom"
+begin="00:10:55.360"
+end="00:10:58.400">
+<tt:span style="textWhite">Bis 17 Uhr wurden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">alle Starts abgesagt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub173"
+style="textCenter"
+region="bottom"
+begin="00:10:58.480"
+end="00:11:02.400">
+<tt:span style="textWhite">80.000 Stromausfälle werden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Bayern gemeldet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub174"
+style="textCenter"
+region="bottom"
+begin="00:11:07.280"
+end="00:11:11.040">
+<tt:span style="textWhite">wie hier halten viele Masten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den Böen nicht stand.</tt:span>
+</tt:p>
+<tt:p xml:id="sub175"
+style="textCenter"
+region="bottom"
+begin="00:11:11.880"
+end="00:11:15.680">
+<tt:span style="textWhite">Genau wie dieser Kran,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der auf den Frankfurter Dom stürzt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub176"
+style="textCenter"
+region="bottom"
+begin="00:11:15.760"
+end="00:11:18.600">
+<tt:span style="textWhite">Glück im Unglück:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Niemand wird verletzt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub177"
+style="textCenter"
+region="bottom"
+begin="00:11:18.680"
+end="00:11:21.240">
+<tt:span style="textWhite">Nicht überall geht es</tt:span>
+<tt:br/>
+<tt:span style="textWhite">so glimpflich ab.</tt:span>
+</tt:p>
+<tt:p xml:id="sub178"
+style="textCenter"
+region="bottom"
+begin="00:11:21.280"
+end="00:11:24.520">
+<tt:span style="textWhite">In Saarbrücken schwebt eine Frau</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Lebensgefahr,</tt:span>
+</tt:p>
+<tt:p xml:id="sub179"
+style="textCenter"
+region="bottom"
+begin="00:11:24.600"
+end="00:11:28.040">
+<tt:span style="textWhite">die von einem umgestürzten Baum</tt:span>
+<tt:br/>
+<tt:span style="textWhite">am Kopf getroffen wurde.</tt:span>
+</tt:p>
+<tt:p xml:id="sub180"
+style="textCenter"
+region="bottom"
+begin="00:11:28.120"
+end="00:11:32.160">
+<tt:span style="textWhite">In meisten Fällen haben die</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Einsatzkräfte es mit Sachschäden tun.</tt:span>
+</tt:p>
+<tt:p xml:id="sub181"
+style="textCenter"
+region="bottom"
+begin="00:11:32.280"
+end="00:11:35.400">
+<tt:span style="textWhite">Deren Höhe lässt sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">noch nicht beziffern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub182"
+style="textCenter"
+region="bottom"
+begin="00:11:35.480"
+end="00:11:38.800">
+<tt:span style="textWhite">Der Wind soll nach einer Pause</tt:span>
+<tt:br/>
+<tt:span style="textWhite">noch einmal aufdrehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub183"
+style="textCenter"
+region="bottom"
+begin="00:11:38.920"
+end="00:11:40.560">
+<tt:span style="textWhite">In Hamburg hat am Abend</tt:span>
+</tt:p>
+<tt:p xml:id="sub184"
+style="textCenter"
+region="bottom"
+begin="00:11:40.640"
+end="00:11:43.240">
+<tt:span style="textWhite">eine Sturmflut</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den Fischmarkt überschwemmt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub185"
+style="textCenter"
+region="bottom"
+begin="00:11:44.520"
+end="00:11:48.440">
+<tt:span style="textWhite">In Großbritannien wütete das</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Orkantief unter dem Namen "Ciara".</tt:span>
+</tt:p>
+<tt:p xml:id="sub186"
+style="textCenter"
+region="bottom"
+begin="00:11:48.520"
+end="00:11:50.840">
+<tt:span style="textWhite">Beeinträchtigt war der Flugverkehr.</tt:span>
+</tt:p>
+<tt:p xml:id="sub187"
+style="textCenter"
+region="bottom"
+begin="00:11:50.920"
+end="00:11:54.080">
+<tt:span style="textWhite">In London versuchte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">diese Maschine der British Airways</tt:span>
+</tt:p>
+<tt:p xml:id="sub188"
+style="textCenter"
+region="bottom"
+begin="00:11:54.160"
+end="00:11:56.080">
+<tt:span style="textWhite">zweimal vergeblich die Landung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub189"
+style="textCenter"
+region="bottom"
+begin="00:11:56.160"
+end="00:11:59.640">
+<tt:span style="textWhite">Die Böen erreichten Geschwindigkeiten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von bis zu 160 km/h.</tt:span>
+</tt:p>
+<tt:p xml:id="sub190"
+style="textCenter"
+region="bottom"
+begin="00:11:59.720"
+end="00:12:03.480">
+<tt:span style="textWhite">In einigen Regionen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">fiel in 24 Stunden so viel Regen</tt:span>
+</tt:p>
+<tt:p xml:id="sub191"
+style="textCenter"
+region="bottom"
+begin="00:12:03.560"
+end="00:12:05.600">
+<tt:span style="textWhite">wie sonst in 1,5 Monaten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub192"
+style="textCenter"
+region="bottom"
+begin="00:12:06.240"
+end="00:12:09.800">
+<tt:span style="textWhite">20.000 Haushalte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">waren zeitweise ohne Strom.</tt:span>
+</tt:p>
+<tt:p xml:id="sub193"
+style="textCenter"
+region="bottom"
+begin="00:12:09.880"
+end="00:12:12.520">
+<tt:span style="textWhite">Meteorologen warnen nun</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vor Schnee und Eis.</tt:span>
+</tt:p>
+<tt:p xml:id="sub194"
+style="textCenter"
+region="bottom"
+begin="00:12:13.920"
+end="00:12:16.960">
+<tt:span style="textWhite">In der Nacht wurden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Oscars verliehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub195"
+style="textCenter"
+region="bottom"
+begin="00:12:17.040"
+end="00:12:19.280">
+<tt:span style="textWhite">Der Preis</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für den besten Film</tt:span>
+</tt:p>
+<tt:p xml:id="sub196"
+style="textCenter"
+region="bottom"
+begin="00:12:19.360"
+end="00:12:24.280">
+<tt:span style="textWhite">ging an die Satire "Parasite"</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Südkoreaners Boong Joon-ho.</tt:span>
+</tt:p>
+<tt:p xml:id="sub197"
+style="textCenter"
+region="bottom"
+begin="00:12:25.160"
+end="00:12:30.320">
+<tt:span style="textWhite">Erstmals wurde die Auszeichnung an</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen fremdsprachigen Film vergeben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub198"
+style="textCenter"
+region="bottom"
+begin="00:12:30.440"
+end="00:12:34.760">
+<tt:span style="textWhite">Beste Hauptdarstellerin wurde Renee</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Zellweger für ihre Rolle in "Judy".</tt:span>
+</tt:p>
+<tt:p xml:id="sub199"
+style="textCenter"
+region="bottom"
+begin="00:12:34.840"
+end="00:12:37.960">
+<tt:span style="textWhite">Bester Hauptdarsteller</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Joaquin Phoenix</tt:span>
+</tt:p>
+<tt:p xml:id="sub200"
+style="textCenter"
+region="bottom"
+begin="00:12:38.080"
+end="00:12:40.520">
+<tt:span style="textWhite">für seine Darstellung in "Joker".</tt:span>
+</tt:p>
+<tt:p xml:id="sub201"
+style="textCenter"
+region="bottom"
+begin="00:12:43.520"
+end="00:12:47.160">
+<tt:span style="textWhite">Die Wettervorhersage für morgen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Dienstag, den 11. Februar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub202"
+style="textCenter"
+region="bottom"
+begin="00:12:48.160"
+end="00:12:50.920">
+<tt:span style="textWhite">Entwarnung kann</tt:span>
+<tt:br/>
+<tt:span style="textWhite">noch nicht gegeben werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub203"
+style="textCenter"
+region="bottom"
+begin="00:12:51.000"
+end="00:12:54.680">
+<tt:span style="textWhite">Beachten Sie auch die Warnungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Deutschen Wetterdiensts:</tt:span>
+</tt:p>
+<tt:p xml:id="sub204"
+style="textCenter"
+region="bottom"
+begin="00:12:54.800"
+end="00:12:57.000">
+<tt:span style="textWhite">Ein neues Sturmfeld</tt:span>
+<tt:br/>
+<tt:span style="textWhite">rollt auf uns zu:</tt:span>
+</tt:p>
+<tt:p xml:id="sub205"
+style="textCenter"
+region="bottom"
+begin="00:12:57.080"
+end="00:13:00.400">
+<tt:span style="textWhite">Dann schwere Sturmböen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in den Höhenlagen Orkanböen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub206"
+style="textCenter"
+region="bottom"
+begin="00:13:00.480"
+end="00:13:02.880">
+<tt:span style="textWhite">Dazu kräftige Schauer und Gewitter.</tt:span>
+</tt:p>
+<tt:p xml:id="sub207"
+style="textCenter"
+region="bottom"
+begin="00:13:02.960"
+end="00:13:06.880">
+<tt:span style="textWhite">Am Tag Regen, Schnee- und</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Graupelschauer, stellenweise Glätte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub208"
+style="textCenter"
+region="bottom"
+begin="00:13:06.960"
+end="00:13:09.720">
+<tt:span style="textWhite">Auch tagsüber Sturm- und Orkanböen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub209"
+style="textCenter"
+region="bottom"
+begin="00:13:16.440"
+end="00:13:19.920">
+<tt:span style="textWhite">Auch am Mittwoch ist es windig,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Nordosten stürmisch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub210"
+style="textCenter"
+region="bottom"
+begin="00:13:20.000"
+end="00:13:23.400">
+<tt:span style="textWhite">Dabei Sonne, Wolken,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Regen- oder Graupelschauer,</tt:span>
+</tt:p>
+<tt:p xml:id="sub211"
+style="textCenter"
+region="bottom"
+begin="00:13:23.480"
+end="00:13:25.320">
+<tt:span style="textWhite">im Norden kurze Gewitter.</tt:span>
+</tt:p>
+<tt:p xml:id="sub212"
+style="textCenter"
+region="bottom"
+begin="00:13:25.400"
+end="00:13:27.480">
+<tt:span style="textWhite">Am Donnerstag Wetterberuhigung,</tt:span>
+</tt:p>
+<tt:p xml:id="sub213"
+style="textCenter"
+region="bottom"
+begin="00:13:27.560"
+end="00:13:30.640">
+<tt:span style="textWhite">ehe von Westen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">neuer Regen und Wind aufkommen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub214"
+style="textCenter"
+region="bottom"
+begin="00:13:30.720"
+end="00:13:34.320">
+<tt:span style="textWhite">Am Freitag im Osten und Südosten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">noch Regen oder Schneeregen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub215"
+style="textCenter"
+region="bottom"
+begin="00:13:35.880"
+end="00:13:39.680">
+<tt:span style="textWhite">Ingo Zamperoni hat um 21.30 Uhr diese</tt:span>
+<tt:br/>
+<tt:span style="textWhite">tagesthemen für Sie:</tt:span>
+</tt:p>
+<tt:p xml:id="sub216"
+style="textCenter"
+region="bottom"
+begin="00:13:39.760"
+end="00:13:43.640">
+<tt:span style="textWhite">Führung auf Abruf - wie die CDU</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Krise überwinden will:</tt:span>
+</tt:p>
+<tt:p xml:id="sub217"
+style="textCenter"
+region="bottom"
+begin="00:13:43.720"
+end="00:13:45.960">
+<tt:span style="textWhite">Fragen an CDU-Vize Bouffier.</tt:span>
+</tt:p>
+<tt:p xml:id="sub218"
+style="textCenter"
+region="bottom"
+begin="00:13:46.280"
+end="00:13:49.040">
+<tt:span style="textWhite">Dauereinsatz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wegen Sturmtief "Sabine" -</tt:span>
+</tt:p>
+<tt:p xml:id="sub219"
+style="textCenter"
+region="bottom"
+begin="00:13:49.120"
+end="00:13:51.520">
+<tt:span style="textWhite">unterwegs mit der Feuerwehr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Bayern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub220"
+style="textCenter"
+region="bottom"
+begin="00:13:51.600"
+end="00:13:54.360">
+<tt:span style="textWhite">Ich wünsche einen schönen Abend.</tt:span>
+</tt:p>
+<tt:p xml:id="sub221"
+style="textCenter"
+region="bottom"
+begin="00:13:54.600"
+end="00:13:58.920">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2020</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>

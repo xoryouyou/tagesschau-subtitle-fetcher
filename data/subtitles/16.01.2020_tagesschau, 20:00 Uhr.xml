@@ -1,0 +1,1457 @@
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ebuttm="urn:ebu:tt:metadata"
+ttp:timeBase="media"
+ttp:cellResolution="50 30"
+xml:lang="de">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style xml:id="defaultStyle" tts:fontFamily="Verdana,Arial,Tiresias"
+tts:fontSize="160%"
+tts:lineHeight="125%"/>
+<tt:style xml:id="textBlack" tts:color="#000000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textRed" tts:color="#FF0000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textGreen" tts:color="#00FF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textYellow" tts:color="#FFFF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textBlue" tts:color="#0000FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textMagenta" tts:color="#FF00FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCyan" tts:color="#00FFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textWhite" tts:color="#FFFFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCenter" tts:textAlign="center"/>
+<tt:style xml:id="textLeft" tts:textAlign="left"/>
+<tt:style xml:id="textRight" tts:textAlign="right"/>
+</tt:styling>
+<tt:layout>
+<tt:region xml:id="top" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="before"/>
+<tt:region xml:id="bottom" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="after"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p xml:id="sub0" style="textCenter" region="bottom" begin="00:00:00.040"
+end="00:00:01.040"/>
+<tt:p xml:id="sub1" style="textCenter" region="bottom" begin="00:00:03.000"
+end="00:00:07.120">
+<tt:span style="textWhite">Hier ist das Erste Deutsche Fernsehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub2" style="textCenter" region="bottom" begin="00:00:07.200"
+end="00:00:11.640">
+<tt:span style="textBlue">Herzlich willkommen zur Live-</tt:span>
+<tt:br/>
+<tt:span style="textBlue">Untertitelung des NDR (16.01.2020)</tt:span>
+</tt:p>
+<tt:p xml:id="sub3" style="textCenter" region="bottom" begin="00:00:14.560"
+end="00:00:16.640">
+<tt:span style="textWhite">Heute im Studio: Jens Riewa</tt:span>
+</tt:p>
+<tt:p xml:id="sub4" style="textCenter" region="bottom" begin="00:00:17.000"
+end="00:00:20.240">
+<tt:span style="textWhite">Guten Abend,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ich begrüße Sie zur tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub5" style="textCenter" region="bottom" begin="00:00:21.440"
+end="00:00:24.480">
+<tt:span style="textWhite">Nach emotionaler Debatte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat der Bundestag heute</tt:span>
+</tt:p>
+<tt:p xml:id="sub6" style="textCenter" region="bottom" begin="00:00:24.560"
+end="00:00:28.960">
+<tt:span style="textWhite">seine Entscheidung zur Neuregelung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Organspenden getroffen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub7" style="textCenter" region="bottom" begin="00:00:29.480"
+end="00:00:33.880">
+<tt:span style="textWhite">Mit großer Mehrheit wurde</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die "Zustimmungslösung" angenommen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub8" style="textCenter" region="bottom" begin="00:00:33.960"
+end="00:00:35.720">
+<tt:span style="textWhite">Wie bisher gilt damit:</tt:span>
+</tt:p>
+<tt:p xml:id="sub9" style="textCenter" region="bottom" begin="00:00:35.800"
+end="00:00:38.840">
+<tt:span style="textWhite">Wer spenden will,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">muss das aktiv mitteilen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub10" style="textCenter" region="bottom" begin="00:00:38.920"
+end="00:00:42.640">
+<tt:span style="textWhite">Neu ist aber, dass die Bürger</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dazu befragt werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub11" style="textCenter" region="bottom" begin="00:00:42.720"
+end="00:00:46.640">
+<tt:span style="textWhite">Die diskutierte Widerspruchslösung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">fand keine Mehrheit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub12" style="textCenter" region="bottom" begin="00:00:46.720"
+end="00:00:50.720">
+<tt:span style="textWhite">Ziel der Reform ist es,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Zahl der Organspenden zu erhöhen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub13" style="textCenter" region="bottom" begin="00:00:51.920"
+end="00:00:56.000">
+<tt:span style="textWhite">Warum beim Thema Organspende</tt:span>
+<tt:br/>
+<tt:span style="textWhite">großer Handlungsbedarf besteht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub14" style="textCenter" region="bottom" begin="00:00:56.080"
+end="00:00:58.480">
+<tt:span style="textWhite">zeigt diese Gegenüberstellung:</tt:span>
+</tt:p>
+<tt:p xml:id="sub15" style="textCenter" region="bottom" begin="00:01:02.200"
+end="00:01:05.560">
+<tt:span style="textWhite">... warten auf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein lebensrettendes Spenderorgan.</tt:span>
+</tt:p>
+<tt:p xml:id="sub16" style="textCenter" region="bottom" begin="00:01:05.640"
+end="00:01:08.680">
+<tt:span style="textWhite">Es spenden aber</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nur 1000 Menschen pro Jahr.</tt:span>
+</tt:p>
+<tt:p xml:id="sub17" style="textCenter" region="bottom" begin="00:01:11.600"
+end="00:01:14.200">
+<tt:span style="textWhite">... weil kein Organ verfügbar ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub18" style="textCenter" region="bottom" begin="00:01:14.320"
+end="00:01:19.080">
+<tt:span style="textWhite">Dabei waren die Spenderzahlen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nach langem Rückgang zuletzt stabil.</tt:span>
+</tt:p>
+<tt:p xml:id="sub19" style="textCenter" region="bottom" begin="00:01:19.720"
+end="00:01:22.960">
+<tt:span style="textWhite">2019 waren es aber</tt:span>
+<tt:br/>
+<tt:span style="textWhite">weniger als im Vorjahr.</tt:span>
+</tt:p>
+<tt:p xml:id="sub20" style="textCenter" region="bottom" begin="00:01:26.200"
+end="00:01:29.600">
+<tt:span style="textWhite">Im EU-Vergleich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">steht Deutschland weit hinten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub21" style="textCenter" region="bottom" begin="00:01:29.720"
+end="00:01:33.480">
+<tt:span style="textWhite">Auf 1 Mio. Einwohner</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kommen nur 11,5 Organspender.</tt:span>
+</tt:p>
+<tt:p xml:id="sub22" style="textCenter" region="bottom" begin="00:01:34.200"
+end="00:01:35.960">
+<tt:span style="textWhite">Vorreiter ist Spanien:</tt:span>
+</tt:p>
+<tt:p xml:id="sub23" style="textCenter" region="bottom" begin="00:01:36.200"
+end="00:01:39.880">
+<tt:span style="textWhite">Kroatien und Portugal folgen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub24" style="textCenter" region="bottom" begin="00:01:44.040"
+end="00:01:48.720">
+<tt:span style="textWhite">Ohne Transplantation wäre er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nicht auf dem Weg in den Bundestag:</tt:span>
+</tt:p>
+<tt:p xml:id="sub25" style="textCenter" region="bottom" begin="00:01:48.800"
+end="00:01:52.800">
+<tt:span style="textWhite">Dennis Günther-Gemeinhardt bekam</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vor zwölf Jahren ein Spenderherz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub26" style="textCenter" region="bottom" begin="00:01:52.920"
+end="00:01:56.240">
+<tt:span style="textWhite">Seither kämpft er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen das oft endlose Warten</tt:span>
+</tt:p>
+<tt:p xml:id="sub27" style="textCenter" region="bottom" begin="00:01:56.320"
+end="00:02:00.160">
+<tt:span style="textWhite">wegen der geringen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Spendenbereitschaft in Deutschland.</tt:span>
+</tt:p>
+<tt:p xml:id="sub28" style="textCenter" region="bottom" begin="00:02:00.240"
+end="00:02:03.680">
+<tt:span style="textYellow">Die Leute</tt:span>
+<tt:br/>
+<tt:span style="textYellow">müssen drauf hingewiesen werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub29" style="textCenter" region="bottom" begin="00:02:03.760"
+end="00:02:06.520">
+<tt:span style="textYellow">Man muss sich</tt:span>
+<tt:br/>
+<tt:span style="textYellow">damit auseinandersetzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub30" style="textCenter" region="bottom" begin="00:02:06.600"
+end="00:02:09.520">
+<tt:span style="textYellow">Leben muss höher bewertet werden</tt:span>
+<tt:br/>
+<tt:span style="textYellow">als Schweigen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub31" style="textCenter" region="bottom" begin="00:02:09.600"
+end="00:02:13.480">
+<tt:span style="textWhite">Er hofft auf den Vorschlag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Gruppe um Minister Spahn:</tt:span>
+</tt:p>
+<tt:p xml:id="sub32" style="textCenter" region="bottom" begin="00:02:13.560"
+end="00:02:15.400">
+<tt:span style="textWhite">Die Widerspruchslösung</tt:span>
+</tt:p>
+<tt:p xml:id="sub33" style="textCenter" region="bottom" begin="00:02:15.520"
+end="00:02:19.320">
+<tt:span style="textWhite">würde zunächst alle Bürger</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als Organspender sehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub34" style="textCenter" region="bottom" begin="00:02:19.440"
+end="00:02:22.280">
+<tt:span style="textWhite">Nur, wer widerspricht,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wäre kein Spender.</tt:span>
+</tt:p>
+<tt:p xml:id="sub35" style="textCenter" region="bottom" begin="00:02:22.560"
+end="00:02:26.240">
+<tt:span style="textYellow">Es geht darum,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">den eigenen Willen zu dokumentieren</tt:span>
+</tt:p>
+<tt:p xml:id="sub36" style="textCenter" region="bottom" begin="00:02:26.360"
+end="00:02:29.280">
+<tt:span style="textYellow">und eine Entscheidung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">herbeizuführen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub37" style="textCenter" region="bottom" begin="00:02:29.360"
+end="00:02:33.920">
+<tt:span style="textYellow">Den Betroffenen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">geht es auch um ihr eigenes Leben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub38" style="textCenter" region="bottom" begin="00:02:35.880"
+end="00:02:38.520">
+<tt:span style="textYellow">Da wird man doch verlangen können,</tt:span>
+</tt:p>
+<tt:p xml:id="sub39" style="textCenter" region="bottom" begin="00:02:38.600"
+end="00:02:41.240">
+<tt:span style="textYellow">dass man sich</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in diesem Land entscheidet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub40" style="textCenter" region="bottom" begin="00:02:41.320"
+end="00:02:44.600">
+<tt:span style="textWhite">Eine grundlegende Lösung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sei schon deshalb angebracht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub41" style="textCenter" region="bottom" begin="00:02:44.680"
+end="00:02:48.440">
+<tt:span style="textWhite">weil Deutschland fleißig Organe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus dem EU-Ausland verpflanzt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub42" style="textCenter" region="bottom" begin="00:02:48.520"
+end="00:02:51.240">
+<tt:span style="textWhite">Es gibt dorthin</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aber kaum welche ab.</tt:span>
+</tt:p>
+<tt:p xml:id="sub43" style="textCenter" region="bottom" begin="00:02:52.400"
+end="00:02:55.920">
+<tt:span style="textYellow">Es ist unethisch,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ein Organ nehmen zu wollen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub44" style="textCenter" region="bottom" begin="00:02:56.040"
+end="00:03:00.320">
+<tt:span style="textYellow">aber nicht Nein sagen zu wollen,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wenn man nicht spenden will.</tt:span>
+</tt:p>
+<tt:p xml:id="sub45" style="textCenter" region="bottom" begin="00:03:00.720"
+end="00:03:02.240">
+<tt:span style="textYellow">Das ist unethisch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub46" style="textCenter" region="bottom" begin="00:03:02.720"
+end="00:03:06.800">
+<tt:span style="textWhite">Aber die Bürger zunächst alle</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zu Organspendern zu erklären,</tt:span>
+</tt:p>
+<tt:p xml:id="sub47" style="textCenter" region="bottom" begin="00:03:06.880"
+end="00:03:10.480">
+<tt:span style="textWhite">gehe zu weit,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">so Abgeordnete um Annalena Baerbock.</tt:span>
+</tt:p>
+<tt:p xml:id="sub48" style="textCenter" region="bottom" begin="00:03:10.560"
+end="00:03:13.280">
+<tt:span style="textWhite">Ihr Vorschlag:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Zustimmungslösung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub49" style="textCenter" region="bottom" begin="00:03:13.360"
+end="00:03:15.960">
+<tt:span style="textWhite">Zu widersprechen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ersetze nicht das Recht</tt:span>
+</tt:p>
+<tt:p xml:id="sub50" style="textCenter" region="bottom" begin="00:03:16.040"
+end="00:03:19.240">
+<tt:span style="textWhite">auf eine freie Entscheidung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">jedes Einzelnen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub51" style="textCenter" region="bottom" begin="00:03:19.320"
+end="00:03:22.320">
+<tt:span style="textYellow">Wir stimmen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">über eine ethische Frage ab:</tt:span>
+</tt:p>
+<tt:p xml:id="sub52" style="textCenter" region="bottom" begin="00:03:22.400"
+end="00:03:24.920">
+<tt:span style="textYellow">Wie kommen wir</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu mehr Transplantationen?</tt:span>
+</tt:p>
+<tt:p xml:id="sub53" style="textCenter" region="bottom" begin="00:03:25.000"
+end="00:03:27.080">
+<tt:span style="textYellow">Wie retten wir mehr Leben?</tt:span>
+</tt:p>
+<tt:p xml:id="sub54" style="textCenter" region="bottom" begin="00:03:27.200"
+end="00:03:29.760">
+<tt:span style="textYellow">Aber auch: Wem gehört der Mensch?</tt:span>
+</tt:p>
+<tt:p xml:id="sub55" style="textCenter" region="bottom" begin="00:03:29.840"
+end="00:03:33.360">
+<tt:span style="textYellow">In unseren Augen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">gehört er nicht der Gesellschaft.</tt:span>
+</tt:p>
+<tt:p xml:id="sub56" style="textCenter" region="bottom" begin="00:03:33.480"
+end="00:03:35.200">
+<tt:span style="textYellow">Er gehört sich selbst.</tt:span>
+</tt:p>
+<tt:p xml:id="sub57" style="textCenter" region="bottom" begin="00:03:35.280"
+end="00:03:37.280">
+<tt:span style="textWhite">Ähnlich sieht das die AfD.</tt:span>
+</tt:p>
+<tt:p xml:id="sub58" style="textCenter" region="bottom" begin="00:03:37.360"
+end="00:03:39.840">
+<tt:span style="textWhite">Als einzige Partei</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ging sie in die Debatte</tt:span>
+</tt:p>
+<tt:p xml:id="sub59" style="textCenter" region="bottom" begin="00:03:39.920"
+end="00:03:42.160">
+<tt:span style="textWhite">mit einem eigenen Fraktionsantrag.</tt:span>
+</tt:p>
+<tt:p xml:id="sub60" style="textCenter" region="bottom" begin="00:03:42.240"
+end="00:03:45.240">
+<tt:span style="textYellow">Das Zwingen zur Entscheidung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ist der falsche Weg.</tt:span>
+</tt:p>
+<tt:p xml:id="sub61" style="textCenter" region="bottom" begin="00:03:45.360"
+end="00:03:49.320">
+<tt:span style="textYellow">Spenden ja, aber nicht</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zur Erklärung gezwungen werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub62" style="textCenter" region="bottom" begin="00:03:49.400"
+end="00:03:53.040">
+<tt:span style="textWhite">Der Bundestag gibt der</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Zustimmungslösung den Vorzug,</tt:span>
+</tt:p>
+<tt:p xml:id="sub63" style="textCenter" region="bottom" begin="00:03:53.160"
+end="00:03:56.200">
+<tt:span style="textWhite">nicht dem Vorschlag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Gesundheitsministers.</tt:span>
+</tt:p>
+<tt:p xml:id="sub64" style="textCenter" region="bottom" begin="00:03:56.320"
+end="00:03:59.360">
+<tt:span style="textWhite">Für den war die Debatte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gesellschaftlich wichtig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub65" style="textCenter" region="bottom" begin="00:03:59.480"
+end="00:04:03.200">
+<tt:span style="textYellow">Es ist ein Gewinn</tt:span>
+<tt:br/>
+<tt:span style="textYellow">für alle auf der Warteliste</tt:span>
+</tt:p>
+<tt:p xml:id="sub66" style="textCenter" region="bottom" begin="00:04:03.280"
+end="00:04:05.360">
+<tt:span style="textYellow">und für ihre Angehörige.</tt:span>
+</tt:p>
+<tt:p xml:id="sub67" style="textCenter" region="bottom" begin="00:04:05.440"
+end="00:04:09.920">
+<tt:span style="textYellow">Die Debatte hat Aufmerksamkeit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in der Gesellschaft geschaffen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub68" style="textCenter" region="bottom" begin="00:04:10.000"
+end="00:04:14.040">
+<tt:span style="textWhite">Betroffene hätten mehr erwartet</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und wirken nachdenklich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub69" style="textCenter" region="bottom" begin="00:04:14.120"
+end="00:04:16.560">
+<tt:span style="textWhite">Dennis Günther-Gemeinhardt hofft,</tt:span>
+</tt:p>
+<tt:p xml:id="sub70" style="textCenter" region="bottom" begin="00:04:16.640"
+end="00:04:20.680">
+<tt:span style="textWhite">dass nun mehr Menschen in freier</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Entscheidung Organspender werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub71" style="textCenter" region="bottom" begin="00:04:21.800"
+end="00:04:25.200">
+<tt:span style="textWhite">Ein Jahr nach der Grundsatzeinigung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum Kohleausstieg</tt:span>
+</tt:p>
+<tt:p xml:id="sub72" style="textCenter" region="bottom" begin="00:04:25.280"
+end="00:04:27.040">
+<tt:span style="textWhite">gibt es einen Zeitplan:</tt:span>
+</tt:p>
+<tt:p xml:id="sub73" style="textCenter" region="bottom" begin="00:04:27.120"
+end="00:04:30.520">
+<tt:span style="textWhite">Bund und Länder</tt:span>
+<tt:br/>
+<tt:span style="textWhite">handelten in der vorigen Nacht aus,</tt:span>
+</tt:p>
+<tt:p xml:id="sub74" style="textCenter" region="bottom" begin="00:04:30.600"
+end="00:04:34.080">
+<tt:span style="textWhite">wann welches Kraftwerk</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stillgelegt werden soll.</tt:span>
+</tt:p>
+<tt:p xml:id="sub75" style="textCenter" region="bottom" begin="00:04:34.160"
+end="00:04:37.440">
+<tt:span style="textWhite">Der erste Block</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wird Ende 2020 abgeschaltet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub76" style="textCenter" region="bottom" begin="00:04:37.520"
+end="00:04:39.600">
+<tt:span style="textWhite">der letzte spätestens 2038.</tt:span>
+</tt:p>
+<tt:p xml:id="sub77" style="textCenter" region="bottom" begin="00:04:40.200"
+end="00:04:44.280">
+<tt:span style="textWhite">Der Bund zahlt 40 Mrd. Euro Hilfen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an betroffene Länder</tt:span>
+</tt:p>
+<tt:p xml:id="sub78" style="textCenter" region="bottom" begin="00:04:44.360"
+end="00:04:47.760">
+<tt:span style="textWhite">und 4,35 Mrd.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als Entschädigung an Betreiber.</tt:span>
+</tt:p>
+<tt:p xml:id="sub79" style="textCenter" region="bottom" begin="00:04:49.360"
+end="00:04:51.920">
+<tt:span style="textWhite">Der Hambacher Forst bleibt erhalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub80" style="textCenter" region="bottom" begin="00:04:53.120"
+end="00:04:56.560">
+<tt:span style="textWhite">Der Wirtschaftsminister</tt:span>
+<tt:br/>
+<tt:span style="textWhite">lobt sich und seine Kollegen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub81" style="textCenter" region="bottom" begin="00:04:56.640"
+end="00:04:59.600">
+<tt:span style="textWhite">Finanzminister Scholz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Umweltministerin Schulze.</tt:span>
+</tt:p>
+<tt:p xml:id="sub82" style="textCenter" region="bottom" begin="00:04:59.680"
+end="00:05:02.680">
+<tt:span style="textWhite">Altmaier spricht von</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einem historischen Durchbruch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub83" style="textCenter" region="bottom" begin="00:05:02.760"
+end="00:05:06.520">
+<tt:span style="textYellow">Wir haben eine Bund-Länder-Einigung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zum Kohleausstieg erzielt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub84" style="textCenter" region="bottom" begin="00:05:06.600"
+end="00:05:09.440">
+<tt:span style="textYellow">Sie schafft Rechtssicherheit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und Planbarkeit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub85" style="textCenter" region="bottom" begin="00:05:09.520"
+end="00:05:12.680">
+<tt:span style="textYellow">Sie stellt sicher,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">dass wir die Klimaziele einhalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub86" style="textCenter" region="bottom" begin="00:05:12.760"
+end="00:05:15.640">
+<tt:span style="textYellow">Trotzdem ist die Versorgung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">gewährleistet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub87" style="textCenter" region="bottom" begin="00:05:15.760"
+end="00:05:18.560">
+<tt:span style="textWhite">Der Fahrplan</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für den Kohleausstieg steht fest.</tt:span>
+</tt:p>
+<tt:p xml:id="sub88" style="textCenter" region="bottom" begin="00:05:18.640"
+end="00:05:21.600">
+<tt:span style="textWhite">Das erste Kraftwerk</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wird schon 2020 abgeschaltet:</tt:span>
+</tt:p>
+<tt:p xml:id="sub89" style="textCenter" region="bottom" begin="00:05:21.680"
+end="00:05:23.080">
+<tt:span style="textWhite">Im Rheinischen Revier.</tt:span>
+</tt:p>
+<tt:p xml:id="sub90" style="textCenter" region="bottom" begin="00:05:23.160"
+end="00:05:25.560">
+<tt:span style="textWhite">Das letzte: 2038 in der Lausitz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub91" style="textCenter" region="bottom" begin="00:05:25.640"
+end="00:05:29.040">
+<tt:span style="textWhite">Dafür darf das neue</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Steinkohlebergwerk Datteln 4</tt:span>
+</tt:p>
+<tt:p xml:id="sub92" style="textCenter" region="bottom" begin="00:05:29.120"
+end="00:05:31.040">
+<tt:span style="textWhite">in NRW in Betrieb gehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub93" style="textCenter" region="bottom" begin="00:05:31.440"
+end="00:05:34.720">
+<tt:span style="textWhite">Das kritisieren Umweltverbände</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und die Grünen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub94" style="textCenter" region="bottom" begin="00:05:34.800"
+end="00:05:38.120">
+<tt:span style="textYellow">Das ist ein seltsames Signal</tt:span>
+<tt:br/>
+<tt:span style="textYellow">für einen Kohleausstieg,</tt:span>
+</tt:p>
+<tt:p xml:id="sub95" style="textCenter" region="bottom" begin="00:05:38.200"
+end="00:05:41.400">
+<tt:span style="textYellow">erst mal ein neues Kohlekraftwerk</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ans Netz zu nehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub96" style="textCenter" region="bottom" begin="00:05:41.480"
+end="00:05:44.160">
+<tt:span style="textWhite">Den ostdeutschen Kohlenländern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">war wichtig:</tt:span>
+</tt:p>
+<tt:p xml:id="sub97" style="textCenter" region="bottom" begin="00:05:44.240"
+end="00:05:47.920">
+<tt:span style="textWhite">Die Strukturhilfen von 40 Mrd. Euro</tt:span>
+<tt:br/>
+<tt:span style="textWhite">werden festgeschrieben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub98" style="textCenter" region="bottom" begin="00:05:48.000"
+end="00:05:52.080">
+<tt:span style="textYellow">Die Bund-Länder-Vereinbarung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">setzt den finanziellen Rahmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub99" style="textCenter" region="bottom" begin="00:05:52.160"
+end="00:05:55.320">
+<tt:span style="textYellow">Auch über</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Legislaturperioden hinaus</tt:span>
+</tt:p>
+<tt:p xml:id="sub100" style="textCenter" region="bottom" begin="00:05:55.400"
+end="00:05:58.560">
+<tt:span style="textYellow">können die Strukturhilfemittel</tt:span>
+<tt:br/>
+<tt:span style="textYellow">fließen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub101" style="textCenter" region="bottom" begin="00:06:01.280"
+end="00:06:04.640">
+<tt:span style="textWhite">Gelder für neue Jobs,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wo bisherige wegfallen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub102" style="textCenter" region="bottom" begin="00:06:04.720"
+end="00:06:07.760">
+<tt:span style="textWhite">für Forschungseinrichtungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">oder auch Bahnstrecken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub103" style="textCenter" region="bottom" begin="00:06:07.840"
+end="00:06:11.280">
+<tt:span style="textYellow">Damit können wir</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Strukturentwicklung betreiben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub104" style="textCenter" region="bottom" begin="00:06:11.360"
+end="00:06:14.000">
+<tt:span style="textYellow">Uns wird das sehr helfen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub105" style="textCenter" region="bottom" begin="00:06:15.720"
+end="00:06:20.280">
+<tt:span style="textYellow">Der Bund will Bundesbehörden und</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Bundeswehr in die Region bringen</tt:span>
+</tt:p>
+<tt:p xml:id="sub106" style="textCenter" region="bottom" begin="00:06:20.360"
+end="00:06:23.440">
+<tt:span style="textYellow">als Faktor</tt:span>
+<tt:br/>
+<tt:span style="textYellow">für Kaufkraft und Beschäftigung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub107" style="textCenter" region="bottom" begin="00:06:23.520"
+end="00:06:27.680">
+<tt:span style="textWhite">Die Kraftwerksbetreiber sollen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">großzügig entschädigt werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub108" style="textCenter" region="bottom" begin="00:06:27.760"
+end="00:06:29.920">
+<tt:span style="textYellow">Die Konzerne sind Gewinner.</tt:span>
+</tt:p>
+<tt:p xml:id="sub109" style="textCenter" region="bottom" begin="00:06:31.520"
+end="00:06:34.840">
+<tt:span style="textYellow">Zahlungen von 4,3 Mrd. Euro</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sind unangemessen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub110" style="textCenter" region="bottom" begin="00:06:35.200"
+end="00:06:38.880">
+<tt:span style="textYellow">wenn man die riesigen Gewinne</tt:span>
+<tt:br/>
+<tt:span style="textYellow">der letzten Jahre sieht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub111" style="textCenter" region="bottom" begin="00:06:39.080"
+end="00:06:42.520">
+<tt:span style="textWhite">Der Gesetzentwurf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">soll im Januar vorgelegt werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub112" style="textCenter" region="bottom" begin="00:06:42.600"
+end="00:06:44.960">
+<tt:span style="textCyan">Die Länder haben gut verhandelt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub113" style="textCenter" region="bottom" begin="00:06:45.080"
+end="00:06:49.120">
+<tt:span style="textCyan">Mit den Strukturhilfen sollen die</tt:span>
+<tt:br/>
+<tt:span style="textCyan">Kohleregionen modernisiert werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub114" style="textCenter" region="bottom" begin="00:06:49.200"
+end="00:06:51.200">
+<tt:span style="textCyan">Doch der Preis ist hoch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub115" style="textCenter" region="bottom" begin="00:06:51.280"
+end="00:06:55.160">
+<tt:span style="textCyan">Die Regierung muss Milliarden</tt:span>
+<tt:br/>
+<tt:span style="textCyan">Entschädigungen zahlen -</tt:span>
+</tt:p>
+<tt:p xml:id="sub116" style="textCenter" region="bottom" begin="00:06:55.400"
+end="00:06:57.480">
+<tt:span style="textCyan">zu Lasten der Steuerzahler.</tt:span>
+</tt:p>
+<tt:p xml:id="sub117" style="textCenter" region="bottom" begin="00:06:59.560"
+end="00:07:04.040">
+<tt:span style="textWhite">Grundrenten-Pläne der Regierung für</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Geringverdiener nehmen Gestalt an.</tt:span>
+</tt:p>
+<tt:p xml:id="sub118" style="textCenter" region="bottom" begin="00:07:04.120"
+end="00:07:06.760">
+<tt:span style="textWhite">Arbeitsminister Heil</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat zur Abstimmung</tt:span>
+</tt:p>
+<tt:p xml:id="sub119" style="textCenter" region="bottom" begin="00:07:06.840"
+end="00:07:10.520">
+<tt:span style="textWhite">einen Gesetzentwurf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an die anderen Ministerien geschickt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub120" style="textCenter" region="bottom" begin="00:07:10.600"
+end="00:07:13.600">
+<tt:span style="textWhite">Er enthält</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nach Infos unseres Hauptstadtstudios</tt:span>
+</tt:p>
+<tt:p xml:id="sub121" style="textCenter" region="bottom" begin="00:07:13.680"
+end="00:07:18.200">
+<tt:span style="textWhite">eine Verbesserung zum zwischen Union</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und SPD ausgehandelten Kompromiss.</tt:span>
+</tt:p>
+<tt:p xml:id="sub122" style="textCenter" region="bottom" begin="00:07:18.280"
+end="00:07:22.760">
+<tt:span style="textWhite">Es soll bereits ab 33 Beitragsjahren</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Zuschläge auf Minirenten geben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub123" style="textCenter" region="bottom" begin="00:07:22.840"
+end="00:07:26.800">
+<tt:span style="textWhite">Voraussetzung für die volle Höhe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bleiben aber 35 Jahre.</tt:span>
+</tt:p>
+<tt:p xml:id="sub124" style="textCenter" region="bottom" begin="00:07:26.880"
+end="00:07:30.120">
+<tt:span style="textWhite">Ab 2021</tt:span>
+<tt:br/>
+<tt:span style="textWhite">soll die Grundrente gezahlt werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub125" style="textCenter" region="bottom" begin="00:07:30.240"
+end="00:07:32.800">
+<tt:span style="textWhite">Profitieren sollen 1,4 Mio. Menschen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub126" style="textCenter" region="bottom" begin="00:07:35.400"
+end="00:07:37.600">
+<tt:span style="textWhite">Kurz vor der Libyen-Konferenz</tt:span>
+</tt:p>
+<tt:p xml:id="sub127" style="textCenter" region="bottom" begin="00:07:37.680"
+end="00:07:42.160">
+<tt:span style="textWhite">traf Außenminister Maas</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den einflussreichen General Haftar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub128" style="textCenter" region="bottom" begin="00:07:43.240"
+end="00:07:46.400">
+<tt:span style="textWhite">Danach sprach Maas</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von positiven Signalen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub129" style="textCenter" region="bottom" begin="00:07:46.720"
+end="00:07:49.960">
+<tt:span style="textWhite">Haftar wolle</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen Waffenstillstand einhalten</tt:span>
+</tt:p>
+<tt:p xml:id="sub130" style="textCenter" region="bottom" begin="00:07:50.160"
+end="00:07:53.480">
+<tt:span style="textWhite">und an der Konferenz in Berlin</tt:span>
+<tt:br/>
+<tt:span style="textWhite">teilnehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub131" style="textCenter" region="bottom" begin="00:07:53.560"
+end="00:07:57.920">
+<tt:span style="textWhite">Haftar ist Gegenspieler</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der schwachen Regierung in Tripolis.</tt:span>
+</tt:p>
+<tt:p xml:id="sub132" style="textCenter" region="bottom" begin="00:07:59.200"
+end="00:08:02.680">
+<tt:span style="textWhite">Seine Truppen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kontrollieren weite Teile Libyens.</tt:span>
+</tt:p>
+<tt:p xml:id="sub133" style="textCenter" region="bottom" begin="00:08:04.680"
+end="00:08:06.200">
+<tt:span style="textWhite">Fahrt durch Libyen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub134" style="textCenter" region="bottom" begin="00:08:06.760"
+end="00:08:10.640">
+<tt:span style="textWhite">Das Land leidet unter Bürgerkrieg</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und politischem Chaos.</tt:span>
+</tt:p>
+<tt:p xml:id="sub135" style="textCenter" region="bottom" begin="00:08:10.720"
+end="00:08:14.320">
+<tt:span style="textWhite">Weite Teile kontrolliert er:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">General Chalifa Haftar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub136" style="textCenter" region="bottom" begin="00:08:14.400"
+end="00:08:17.080">
+<tt:span style="textWhite">Der deutsche Außenminister</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist zu Gast.</tt:span>
+</tt:p>
+<tt:p xml:id="sub137" style="textCenter" region="bottom" begin="00:08:17.200"
+end="00:08:19.560">
+<tt:span style="textWhite">Vorgestern das erste Telefonat,</tt:span>
+</tt:p>
+<tt:p xml:id="sub138" style="textCenter" region="bottom" begin="00:08:19.640"
+end="00:08:23.320">
+<tt:span style="textWhite">jetzt ein Treffen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Haftars Hauptquartier in Bengasi.</tt:span>
+</tt:p>
+<tt:p xml:id="sub139" style="textCenter" region="bottom" begin="00:08:23.720"
+end="00:08:25.800">
+<tt:span style="textWhite">Freundliche Begrüßungsworte,</tt:span>
+</tt:p>
+<tt:p xml:id="sub140" style="textCenter" region="bottom" begin="00:08:25.880"
+end="00:08:29.280">
+<tt:span style="textWhite">bevor sich für drei Stunden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Türen schließen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub141" style="textCenter" region="bottom" begin="00:08:29.680"
+end="00:08:33.560">
+<tt:span style="textWhite">Haftar: ein Militär,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der an militärische Lösungen glaubt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub142" style="textCenter" region="bottom" begin="00:08:33.720"
+end="00:08:37.640">
+<tt:span style="textWhite">Seine Truppen rücken</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf die Hauptstadt Tripolis vor.</tt:span>
+</tt:p>
+<tt:p xml:id="sub143" style="textCenter" region="bottom" begin="00:08:37.760"
+end="00:08:41.800">
+<tt:span style="textWhite">Die international anerkannte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Regierung hat dort ihren Sitz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub144" style="textCenter" region="bottom" begin="00:08:41.880"
+end="00:08:44.760">
+<tt:span style="textWhite">Deren Kämpfer wehren sich,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">so gut es geht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub145" style="textCenter" region="bottom" begin="00:08:45.240"
+end="00:08:46.800">
+<tt:span style="textWhite">Frieden für Libyen?</tt:span>
+</tt:p>
+<tt:p xml:id="sub146" style="textCenter" region="bottom" begin="00:08:46.880"
+end="00:08:49.600">
+<tt:span style="textWhite">Selbst Russland,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Verbündeter Haftars,</tt:span>
+</tt:p>
+<tt:p xml:id="sub147" style="textCenter" region="bottom" begin="00:08:49.680"
+end="00:08:54.560">
+<tt:span style="textWhite">bringt ihn nicht zur Unterschrift</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für einen dauernden Waffenstillstand.</tt:span>
+</tt:p>
+<tt:p xml:id="sub148" style="textCenter" region="bottom" begin="00:08:54.640"
+end="00:08:57.560">
+<tt:span style="textWhite">Maas wirbt in Bengasi für Diplomatie.</tt:span>
+</tt:p>
+<tt:p xml:id="sub149" style="textCenter" region="bottom" begin="00:08:57.640"
+end="00:09:02.360">
+<tt:span style="textWhite">Und General Haftar will nicht nur</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Konferenz in Berlin unterstützen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub150" style="textCenter" region="bottom" begin="00:09:02.440"
+end="00:09:05.960">
+<tt:span style="textYellow">Er hat zugesagt,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">den Waffenstillstand einzuhalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub151" style="textCenter" region="bottom" begin="00:09:06.040"
+end="00:09:10.000">
+<tt:span style="textYellow">Unabhängig davon, dass er</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Waffenstillstandsvereinbarung</tt:span>
+</tt:p>
+<tt:p xml:id="sub152" style="textCenter" region="bottom" begin="00:09:10.080"
+end="00:09:14.160">
+<tt:span style="textYellow">nicht unterschrieben hat -</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das ist außerordentlich wichtig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub153" style="textCenter" region="bottom" begin="00:09:15.240"
+end="00:09:19.480">
+<tt:span style="textWhite">Haftars Gegner im Bürgerkrieg,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Ministerpräsident al-Sarradsch,</tt:span>
+</tt:p>
+<tt:p xml:id="sub154" style="textCenter" region="bottom" begin="00:09:19.560"
+end="00:09:21.640">
+<tt:span style="textWhite">will in Berlin auch teilnehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub155" style="textCenter" region="bottom" begin="00:09:22.120"
+end="00:09:25.440">
+<tt:span style="textCyan">Die Friedenskonferenz in Berlin</tt:span>
+<tt:br/>
+<tt:span style="textCyan">findet statt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub156" style="textCenter" region="bottom" begin="00:09:25.520"
+end="00:09:29.640">
+<tt:span style="textCyan">In Bengasi signalisiert Haftar</tt:span>
+<tt:br/>
+<tt:span style="textCyan">Bereitschaft teilzunehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub157" style="textCenter" region="bottom" begin="00:09:29.720"
+end="00:09:33.360">
+<tt:span style="textCyan">Kleine Schritte</tt:span>
+<tt:br/>
+<tt:span style="textCyan">auf einem langen diplomatischen Weg.</tt:span>
+</tt:p>
+<tt:p xml:id="sub158" style="textCenter" region="bottom" begin="00:09:33.440"
+end="00:09:36.880">
+<tt:span style="textCyan">Deutschland kann sich</tt:span>
+<tt:br/>
+<tt:span style="textCyan">im Libyen-Friedensprozess</tt:span>
+</tt:p>
+<tt:p xml:id="sub159" style="textCenter" region="bottom" begin="00:09:36.960"
+end="00:09:40.640">
+<tt:span style="textCyan">als Vermittler</tt:span>
+<tt:br/>
+<tt:span style="textCyan">im verhakten Konflikt präsentieren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub160" style="textCenter" region="bottom" begin="00:09:42.200"
+end="00:09:45.960">
+<tt:span style="textWhite">Die UN warnen vor einer Hungersnot</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Süden Afrikas.</tt:span>
+</tt:p>
+<tt:p xml:id="sub161" style="textCenter" region="bottom" begin="00:09:46.200"
+end="00:09:51.120">
+<tt:span style="textWhite">Schon jetzt seien 45 Mio. Menschen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf Nahrungsmittelhilfen angewiesen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub162" style="textCenter" region="bottom" begin="00:09:51.200"
+end="00:09:53.680">
+<tt:span style="textWhite">warnt das Welternährungsprogramm.</tt:span>
+</tt:p>
+<tt:p xml:id="sub163" style="textCenter" region="bottom" begin="00:09:53.760"
+end="00:09:56.800">
+<tt:span style="textWhite">Ursachen sind</tt:span>
+<tt:br/>
+<tt:span style="textWhite">laut der UN-Hilfsorganisation</tt:span>
+</tt:p>
+<tt:p xml:id="sub164" style="textCenter" region="bottom" begin="00:09:56.880"
+end="00:10:00.720">
+<tt:span style="textWhite">Dürren, Überschwemmungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und wirtschaftliche Missstände.</tt:span>
+</tt:p>
+<tt:p xml:id="sub165" style="textCenter" region="bottom" begin="00:10:00.800"
+end="00:10:03.880">
+<tt:span style="textWhite">Die Krise habe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein nie dagewesenes Ausmaß erreicht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub166" style="textCenter" region="bottom" begin="00:10:03.960"
+end="00:10:06.240">
+<tt:span style="textWhite">und es drohe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">noch schlimmer zu werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub167" style="textCenter" region="bottom" begin="00:10:06.320"
+end="00:10:07.880">
+<tt:span style="textWhite">Der südliche Teil Afrikas</tt:span>
+</tt:p>
+<tt:p xml:id="sub168" style="textCenter" region="bottom" begin="00:10:07.960"
+end="00:10:11.640">
+<tt:span style="textWhite">erlebt die extremste Trockenperiode</tt:span>
+<tt:br/>
+<tt:span style="textWhite">seit 35 Jahren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub169" style="textCenter" region="bottom" begin="00:10:11.720"
+end="00:10:15.760">
+<tt:span style="textWhite">Besonders betroffen sind</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Simbabwe, Namibia und Mosambik.</tt:span>
+</tt:p>
+<tt:p xml:id="sub170" style="textCenter" region="bottom" begin="00:10:17.520"
+end="00:10:18.680">
+<tt:span style="textWhite">Im US-Senat</tt:span>
+</tt:p>
+<tt:p xml:id="sub171" style="textCenter" region="bottom" begin="00:10:18.760"
+end="00:10:23.080">
+<tt:span style="textWhite">hat das Amtsenthebungsverfahren</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen Präsident Trump begonnen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub172" style="textCenter" region="bottom" begin="00:10:23.160"
+end="00:10:26.880">
+<tt:span style="textWhite">Der führende Anklagevertreter,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Demokrat Adam Schiff,</tt:span>
+</tt:p>
+<tt:p xml:id="sub173" style="textCenter" region="bottom" begin="00:10:26.960"
+end="00:10:29.040">
+<tt:span style="textWhite">verlas die Anklagepunkte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub174" style="textCenter" region="bottom" begin="00:10:29.400"
+end="00:10:33.360">
+<tt:span style="textWhite">Trump werden Machtmissbrauch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und die Behinderung von Ermittlungen</tt:span>
+</tt:p>
+<tt:p xml:id="sub175" style="textCenter" region="bottom" begin="00:10:33.440"
+end="00:10:36.960">
+<tt:span style="textWhite">im Zusammenhang</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der Ukraine-Affäre vorgeworfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub176" style="textCenter" region="bottom" begin="00:10:37.080"
+end="00:10:40.560">
+<tt:span style="textWhite">Er ist der dritte Präsident</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in der Geschichte der USA,</tt:span>
+</tt:p>
+<tt:p xml:id="sub177" style="textCenter" region="bottom" begin="00:10:40.640"
+end="00:10:43.880">
+<tt:span style="textWhite">der sich einem Impeachment-Verfahren</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stellen muss.</tt:span>
+</tt:p>
+<tt:p xml:id="sub178" style="textCenter" region="bottom" begin="00:10:43.960"
+end="00:10:47.360">
+<tt:span style="textWhite">Weil die Republikaner</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Senat die Mehrheit haben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub179" style="textCenter" region="bottom" begin="00:10:47.440"
+end="00:10:50.120">
+<tt:span style="textWhite">gilt eine Amtsenthebung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als unwahrscheinlich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub180" style="textCenter" region="bottom" begin="00:10:51.240"
+end="00:10:54.960">
+<tt:span style="textWhite">Michail Mischustin</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist neuer russischer Regierungschef.</tt:span>
+</tt:p>
+<tt:p xml:id="sub181" style="textCenter" region="bottom" begin="00:10:55.040"
+end="00:10:58.440">
+<tt:span style="textWhite">Die Duma wählte ihn</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit überwältigender Mehrheit</tt:span>
+</tt:p>
+<tt:p xml:id="sub182" style="textCenter" region="bottom" begin="00:10:58.520"
+end="00:11:01.200">
+<tt:span style="textWhite">zum Nachfolger</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Ministerpräsident Medwedew.</tt:span>
+</tt:p>
+<tt:p xml:id="sub183" style="textCenter" region="bottom" begin="00:11:01.320"
+end="00:11:03.880">
+<tt:span style="textWhite">Dieser trat gestern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">überraschend zurück.</tt:span>
+</tt:p>
+<tt:p xml:id="sub184" style="textCenter" region="bottom" begin="00:11:03.960"
+end="00:11:08.360">
+<tt:span style="textWhite">Zuvor kündigte Präsident Putin eine</tt:span>
+<tt:br/>
+<tt:span style="textWhite">grundlegende Verfassungsreform an.</tt:span>
+</tt:p>
+<tt:p xml:id="sub185" style="textCenter" region="bottom" begin="00:11:08.440"
+end="00:11:11.880">
+<tt:span style="textWhite">Mischustin trat bislang</tt:span>
+<tt:br/>
+<tt:span style="textWhite">politisch kaum in Erscheinung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub186" style="textCenter" region="bottom" begin="00:11:11.960"
+end="00:11:14.800">
+<tt:span style="textWhite">Er leitete</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die russische Steuerbehörde.</tt:span>
+</tt:p>
+<tt:p xml:id="sub187" style="textCenter" region="bottom" begin="00:11:14.880"
+end="00:11:18.720">
+<tt:span style="textWhite">Putin hatte den 53-Jährigen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für das neue Amt vorgeschlagen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub188" style="textCenter" region="bottom" begin="00:11:20.000"
+end="00:11:23.560">
+<tt:span style="textWhite">In Frankreich gingen erneut</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Tausende auf die Straße.</tt:span>
+</tt:p>
+<tt:p xml:id="sub189" style="textCenter" region="bottom" begin="00:11:23.640"
+end="00:11:27.960">
+<tt:span style="textWhite">Sie protestieren gegen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Rentenreform der Regierung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub190" style="textCenter" region="bottom" begin="00:11:28.680"
+end="00:11:32.480">
+<tt:span style="textWhite">Ein Punktesystem wie in Deutschland</tt:span>
+<tt:br/>
+<tt:span style="textWhite">soll eingeführt werden</tt:span>
+</tt:p>
+<tt:p xml:id="sub191" style="textCenter" region="bottom" begin="00:11:32.600"
+end="00:11:35.800">
+<tt:span style="textWhite">und die mehr als 40 Rentenkassen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zusammengelegt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub192" style="textCenter" region="bottom" begin="00:11:38.440"
+end="00:11:41.400">
+<tt:span style="textWhite">Rund 30 % der Lokführer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">legte die Arbeit nieder,</tt:span>
+</tt:p>
+<tt:p xml:id="sub193" style="textCenter" region="bottom" begin="00:11:41.520"
+end="00:11:42.960">
+<tt:span style="textWhite">so die Staatsbahn SNCF.</tt:span>
+</tt:p>
+<tt:p xml:id="sub194" style="textCenter" region="bottom" begin="00:11:44.400"
+end="00:11:47.880">
+<tt:span style="textWhite">Chinas Infrastrukturprojekt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">"Neue Seidenstraße"</tt:span>
+</tt:p>
+<tt:p xml:id="sub195" style="textCenter" region="bottom" begin="00:11:47.960"
+end="00:11:52.080">
+<tt:span style="textWhite">bringt europäischen Unternehmen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">weniger Aufträge als erhofft.</tt:span>
+</tt:p>
+<tt:p xml:id="sub196" style="textCenter" region="bottom" begin="00:11:52.160"
+end="00:11:55.840">
+<tt:span style="textWhite">Das ergab eine Umfrage</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der EU-Handelskammer in China.</tt:span>
+</tt:p>
+<tt:p xml:id="sub197" style="textCenter" region="bottom" begin="00:11:55.920"
+end="00:11:58.080">
+<tt:span style="textWhite">Beim Ausbau der Handelswege</tt:span>
+</tt:p>
+<tt:p xml:id="sub198" style="textCenter" region="bottom" begin="00:11:58.160"
+end="00:12:01.600">
+<tt:span style="textWhite">würden vorrangig</tt:span>
+<tt:br/>
+<tt:span style="textWhite">chinesische Firmen eingesetzt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub199" style="textCenter" region="bottom" begin="00:12:01.720"
+end="00:12:05.280">
+<tt:span style="textWhite">Um für das Projekt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den Handel beleben zu können,</tt:span>
+</tt:p>
+<tt:p xml:id="sub200" style="textCenter" region="bottom" begin="00:12:05.360"
+end="00:12:09.960">
+<tt:span style="textWhite">baut China Eisenbahntrassen und Häfen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Asien, Afrika und Europa aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub201" style="textCenter" region="bottom" begin="00:12:11.160"
+end="00:12:14.560">
+<tt:span style="textWhite">Güterzüge rollen mit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">chinesischen Waren nach Duisburg.</tt:span>
+</tt:p>
+<tt:p xml:id="sub202" style="textCenter" region="bottom" begin="00:12:14.640"
+end="00:12:17.480">
+<tt:span style="textWhite">Sie gehören zum Projekt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">"Neue Seidenstraße",</tt:span>
+</tt:p>
+<tt:p xml:id="sub203" style="textCenter" region="bottom" begin="00:12:17.560"
+end="00:12:21.160">
+<tt:span style="textWhite">mit dem Peking Handelsrouten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Märkte erschließen will.</tt:span>
+</tt:p>
+<tt:p xml:id="sub204" style="textCenter" region="bottom" begin="00:12:21.240"
+end="00:12:22.680">
+<tt:span style="textWhite">Neue Schienen, Straßen</tt:span>
+</tt:p>
+<tt:p xml:id="sub205" style="textCenter" region="bottom" begin="00:12:22.760"
+end="00:12:26.800">
+<tt:span style="textWhite">und Häfen von China durch Asien</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Afrika bis nach Europa:</tt:span>
+</tt:p>
+<tt:p xml:id="sub206" style="textCenter" region="bottom" begin="00:12:26.880"
+end="00:12:29.600">
+<tt:span style="textWhite">Ein riesiges Infrastrukturprojekt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub207" style="textCenter" region="bottom" begin="00:12:29.680"
+end="00:12:34.160">
+<tt:span style="textWhite">Dafür investierte China</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in fünf Jahren 90 Mrd. US-Dollar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub208" style="textCenter" region="bottom" begin="00:12:36.240"
+end="00:12:40.360">
+<tt:span style="textWhite">Eine Studie der EU-Handelskammer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in China kritisiert jetzt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub209" style="textCenter" region="bottom" begin="00:12:40.560"
+end="00:12:43.280">
+<tt:span style="textWhite">EU-Unternehmen würden benachteiligt</tt:span>
+</tt:p>
+<tt:p xml:id="sub210" style="textCenter" region="bottom" begin="00:12:43.360"
+end="00:12:46.560">
+<tt:span style="textWhite">bei Aufträgen für</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Seidenstraßeninitiative.</tt:span>
+</tt:p>
+<tt:p xml:id="sub211" style="textCenter" region="bottom" begin="00:12:46.680"
+end="00:12:49.320">
+<tt:span style="textWhite">Englisch: "Belt and Road Initiative".</tt:span>
+</tt:p>
+<tt:p xml:id="sub212" style="textCenter" region="bottom" begin="00:12:49.400"
+end="00:12:52.560">
+<tt:span style="textYellow">Was ist für europäische Industrie</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu holen?</tt:span>
+</tt:p>
+<tt:p xml:id="sub213" style="textCenter" region="bottom" begin="00:12:52.640"
+end="00:12:57.560">
+<tt:span style="textYellow">Das Ergebnis war niederschmetternd:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Nur 20 Firmen waren eingebunden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub214" style="textCenter" region="bottom" begin="00:12:57.840"
+end="00:13:02.440">
+<tt:span style="textYellow">Über 90 % der Produkte und Services</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in Belt-and-Road-Projekten</tt:span>
+</tt:p>
+<tt:p xml:id="sub215" style="textCenter" region="bottom" begin="00:13:02.520"
+end="00:13:06.560">
+<tt:span style="textYellow">kommen von chinesischer Seite -</tt:span>
+<tt:br/>
+<tt:span style="textYellow">für uns springt wenig raus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub216" style="textCenter" region="bottom" begin="00:13:06.800"
+end="00:13:10.520">
+<tt:span style="textWhite">Chinas Führung bevorzuge</tt:span>
+<tt:br/>
+<tt:span style="textWhite">chinesische Unternehmen</tt:span>
+</tt:p>
+<tt:p xml:id="sub217" style="textCenter" region="bottom" begin="00:13:10.600"
+end="00:13:13.240">
+<tt:span style="textWhite">bei Projekten der Neuen Seidenstraße.</tt:span>
+</tt:p>
+<tt:p xml:id="sub218" style="textCenter" region="bottom" begin="00:13:13.320"
+end="00:13:16.280">
+<tt:span style="textWhite">Das kritisieren Beobachter</tt:span>
+<tt:br/>
+<tt:span style="textWhite">seit Langem:</tt:span>
+</tt:p>
+<tt:p xml:id="sub219" style="textCenter" region="bottom" begin="00:13:16.400"
+end="00:13:19.280">
+<tt:span style="textYellow">Wirtschaftlich will Peking</tt:span>
+</tt:p>
+<tt:p xml:id="sub220" style="textCenter" region="bottom" begin="00:13:19.360"
+end="00:13:23.160">
+<tt:span style="textYellow">Märkte für Chinas Unternehmen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">öffnen und sichern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub221" style="textCenter" region="bottom" begin="00:13:23.400"
+end="00:13:27.240">
+<tt:span style="textYellow">Und: Auftragsbücher</tt:span>
+<tt:br/>
+<tt:span style="textYellow">chinesischer Unternehmen füllen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub222" style="textCenter" region="bottom" begin="00:13:27.320"
+end="00:13:30.720">
+<tt:span style="textYellow">Chinas Führung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">will mit der neuen Seidenstraße</tt:span>
+</tt:p>
+<tt:p xml:id="sub223" style="textCenter" region="bottom" begin="00:13:30.800"
+end="00:13:32.680">
+<tt:span style="textYellow">ihre Legitimität stärken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub224" style="textCenter" region="bottom" begin="00:13:32.760"
+end="00:13:36.440">
+<tt:span style="textWhite">Die kommunistische Regierung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stärkt Chinas Wirtschaft</tt:span>
+</tt:p>
+<tt:p xml:id="sub225" style="textCenter" region="bottom" begin="00:13:36.560"
+end="00:13:39.120">
+<tt:span style="textWhite">und auch ihren Führungsanspruch,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">so Eder.</tt:span>
+</tt:p>
+<tt:p xml:id="sub226" style="textCenter" region="bottom" begin="00:13:39.200"
+end="00:13:41.280">
+<tt:span style="textWhite">Die Interessen von EU-Unternehmen</tt:span>
+</tt:p>
+<tt:p xml:id="sub227" style="textCenter" region="bottom" begin="00:13:41.360"
+end="00:13:44.720">
+<tt:span style="textWhite">spielten in Peking</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nur eine nachgeordnete Rolle.</tt:span>
+</tt:p>
+<tt:p xml:id="sub228" style="textCenter" region="bottom" begin="00:13:45.960"
+end="00:13:50.720">
+<tt:span style="textWhite">In Magdeburg wurde heute erinnert</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an die Bombardierung der Stadt 1945.</tt:span>
+</tt:p>
+<tt:p xml:id="sub229" style="textCenter" region="bottom" begin="00:13:50.800"
+end="00:13:53.480">
+<tt:span style="textWhite">Kurz vor Ende des Zweiten Weltkriegs</tt:span>
+</tt:p>
+<tt:p xml:id="sub230" style="textCenter" region="bottom" begin="00:13:53.560"
+end="00:13:56.960">
+<tt:span style="textWhite">war die Innenstadt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">fast komplett zerstört worden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub231" style="textCenter" region="bottom" begin="00:13:57.040"
+end="00:13:58.960">
+<tt:span style="textWhite">Die Gedenkveranstaltung</tt:span>
+</tt:p>
+<tt:p xml:id="sub232" style="textCenter" region="bottom" begin="00:13:59.040"
+end="00:14:02.560">
+<tt:span style="textWhite">ist Auftakt der Aktionswoche</tt:span>
+<tt:br/>
+<tt:span style="textWhite">"Eine Stadt für alle".</tt:span>
+</tt:p>
+<tt:p xml:id="sub233" style="textCenter" region="bottom" begin="00:14:02.640"
+end="00:14:05.800">
+<tt:span style="textWhite">Mit Ausstellungen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Lesungen und Konzerten</tt:span>
+</tt:p>
+<tt:p xml:id="sub234" style="textCenter" region="bottom" begin="00:14:05.880"
+end="00:14:10.440">
+<tt:span style="textWhite">will Magdeburg ein Zeichen setzen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen Rassismus, Hass, Ausgrenzung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub235" style="textCenter" region="bottom" begin="00:14:12.520"
+end="00:14:16.480">
+<tt:span style="textWhite">Die Wettervorhersage für morgen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Freitag, den 17. Januar.</tt:span>
+</tt:p>
+<tt:p xml:id="sub236" style="textCenter" region="bottom" begin="00:14:18.120"
+end="00:14:22.400">
+<tt:span style="textWhite">Ein Hoch sorgt morgen vielerorts</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für frühlingshafte Temperaturen</tt:span>
+</tt:p>
+<tt:p xml:id="sub237" style="textCenter" region="bottom" begin="00:14:22.480"
+end="00:14:23.920">
+<tt:span style="textWhite">und zieht ostwärts.</tt:span>
+</tt:p>
+<tt:p xml:id="sub238" style="textCenter" region="bottom" begin="00:14:24.000"
+end="00:14:28.240">
+<tt:span style="textWhite">Davon profitiert morgen der Osten,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dort sonnig bis zum Abend.</tt:span>
+</tt:p>
+<tt:p xml:id="sub239" style="textCenter" region="bottom" begin="00:14:28.320"
+end="00:14:31.680">
+<tt:span style="textWhite">In der Nacht vielerorts klar,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">örtlich Nebel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub240" style="textCenter" region="bottom" begin="00:14:31.760"
+end="00:14:35.440">
+<tt:span style="textWhite">Sobald der sich gelichtet hat</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist es am Tag zunächst sonnig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub241" style="textCenter" region="bottom" begin="00:14:35.520"
+end="00:14:37.040">
+<tt:span style="textWhite">Das Wetter ändert sich:</tt:span>
+</tt:p>
+<tt:p xml:id="sub242" style="textCenter" region="bottom" begin="00:14:37.120"
+end="00:14:41.800">
+<tt:span style="textWhite">Im Westen werden die Wolken dichter,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sie bringen gebietsweise Regen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub243" style="textCenter" region="bottom" begin="00:14:47.840"
+end="00:14:49.120">
+<tt:span style="textWhite">Es wird kälter.</tt:span>
+</tt:p>
+<tt:p xml:id="sub244" style="textCenter" region="bottom" begin="00:14:49.200"
+end="00:14:53.320">
+<tt:span style="textWhite">Samstag hier und da Regen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Schnee bis in mittlere Lagen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub245" style="textCenter" region="bottom" begin="00:14:53.600"
+end="00:14:57.360">
+<tt:span style="textWhite">Am Sonntag Regen-,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Schneeregen oder Graupelschauer,</tt:span>
+</tt:p>
+<tt:p xml:id="sub246" style="textCenter" region="bottom" begin="00:14:57.440"
+end="00:15:00.840">
+<tt:span style="textWhite">im Bergland Schneeschauer,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an den Alpen schneit es länger.</tt:span>
+</tt:p>
+<tt:p xml:id="sub247" style="textCenter" region="bottom" begin="00:15:00.960"
+end="00:15:02.160">
+<tt:span style="textWhite">Im Norden windig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub248" style="textCenter" region="bottom" begin="00:15:02.240"
+end="00:15:05.000">
+<tt:span style="textWhite">Am Montag ruhiges,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">trockenes Hochdruckwetter.</tt:span>
+</tt:p>
+<tt:p xml:id="sub249" style="textCenter" region="bottom" begin="00:15:06.880"
+end="00:15:10.360">
+<tt:span style="textWhite">Ingo Zamperoni</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat um 22.15 Uhr diese Tagesthemen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub250" style="textCenter" region="bottom" begin="00:15:10.480"
+end="00:15:13.480">
+<tt:span style="textWhite">Das lange Warten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf ein Spenderorgan -</tt:span>
+</tt:p>
+<tt:p xml:id="sub251" style="textCenter" region="bottom" begin="00:15:13.560"
+end="00:15:17.680">
+<tt:span style="textWhite">warum sich der Bundestag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen den Systemwechsel entschied.</tt:span>
+</tt:p>
+<tt:p xml:id="sub252" style="textCenter" region="bottom" begin="00:15:17.760"
+end="00:15:20.320">
+<tt:span style="textWhite">Mehr Schutz für Minderjährige -</tt:span>
+</tt:p>
+<tt:p xml:id="sub253" style="textCenter" region="bottom" begin="00:15:20.400"
+end="00:15:24.400">
+<tt:span style="textWhite">wie sexuelle Belästigung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Internet bekämpft werden soll.</tt:span>
+</tt:p>
+<tt:p xml:id="sub254" style="textCenter" region="bottom" begin="00:15:24.480"
+end="00:15:26.520">
+<tt:span style="textWhite">Ihnen einen schönen Abend.</tt:span>
+</tt:p>
+<tt:p xml:id="sub255" style="textCenter" region="bottom" begin="00:15:26.640"
+end="00:15:28.880">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2020</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>

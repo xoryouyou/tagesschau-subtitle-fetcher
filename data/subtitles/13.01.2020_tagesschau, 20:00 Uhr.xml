@@ -1,0 +1,1351 @@
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ebuttm="urn:ebu:tt:metadata"
+ttp:timeBase="media"
+ttp:cellResolution="50 30"
+xml:lang="de">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style xml:id="defaultStyle" tts:fontFamily="Verdana,Arial,Tiresias"
+tts:fontSize="160%"
+tts:lineHeight="125%"/>
+<tt:style xml:id="textBlack" tts:color="#000000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textRed" tts:color="#FF0000" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textGreen" tts:color="#00FF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textYellow" tts:color="#FFFF00" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textBlue" tts:color="#0000FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textMagenta" tts:color="#FF00FF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCyan" tts:color="#00FFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textWhite" tts:color="#FFFFFF" tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCenter" tts:textAlign="center"/>
+<tt:style xml:id="textLeft" tts:textAlign="left"/>
+<tt:style xml:id="textRight" tts:textAlign="right"/>
+</tt:styling>
+<tt:layout>
+<tt:region xml:id="top" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="before"/>
+<tt:region xml:id="bottom" tts:origin="10% 10%" tts:extent="80% 80%"
+tts:displayAlign="after"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p xml:id="sub0" style="textCenter" region="bottom" begin="00:00:00.040"
+end="00:00:01.960"/>
+<tt:p xml:id="sub1" style="textCenter" region="bottom" begin="00:00:03.040"
+end="00:00:07.160">
+<tt:span style="textWhite">Hier ist das Erste Deutsche Fernsehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub2" style="textCenter" region="bottom" begin="00:00:07.240"
+end="00:00:11.640">
+<tt:span style="textBlue">Herzlich willkommen zur Live-</tt:span>
+<tt:br/>
+<tt:span style="textBlue">Untertitelung des NDR (13.01.2020)</tt:span>
+</tt:p>
+<tt:p xml:id="sub3" style="textCenter" region="bottom" begin="00:00:15.120"
+end="00:00:17.080">
+<tt:span style="textWhite">Heute im Studio: Jan Hofer</tt:span>
+</tt:p>
+<tt:p xml:id="sub4" style="textCenter" region="bottom" begin="00:00:17.840"
+end="00:00:21.040">
+<tt:span style="textWhite">Guten Abend,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ich begrüße Sie zur tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub5" style="textCenter" region="bottom" begin="00:00:21.640"
+end="00:00:25.960">
+<tt:span style="textWhite">Was soll mit dem Rekordüberschuss</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Bundeshaushalt geschehen?</tt:span>
+</tt:p>
+<tt:p xml:id="sub6" style="textCenter" region="bottom" begin="00:00:26.760"
+end="00:00:30.040">
+<tt:span style="textWhite">13,5 Milliarden Euro</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sind aus 2019 noch übrig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub7" style="textCenter" region="bottom" begin="00:00:30.800"
+end="00:00:33.280">
+<tt:span style="textWhite">Finanzminister Scholz schlägt vor,</tt:span>
+</tt:p>
+<tt:p xml:id="sub8" style="textCenter" region="bottom" begin="00:00:33.400"
+end="00:00:37.080">
+<tt:span style="textWhite">sie für ein staatliches</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Investitionsprogramm zu nutzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub9" style="textCenter" region="bottom" begin="00:00:37.160"
+end="00:00:40.560">
+<tt:span style="textWhite">Etwa in den Bereichen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Infrastruktur und Klimaschutz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub10" style="textCenter" region="bottom" begin="00:00:40.640"
+end="00:00:44.200">
+<tt:span style="textWhite">In der Union wurden Forderungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nach Steuerentlastungen laut.</tt:span>
+</tt:p>
+<tt:p xml:id="sub11" style="textCenter" region="bottom" begin="00:00:45.000"
+end="00:00:46.280">
+<tt:span style="textWhite">Rekordüberschuss.</tt:span>
+</tt:p>
+<tt:p xml:id="sub12" style="textCenter" region="bottom" begin="00:00:46.360"
+end="00:00:50.040">
+<tt:span style="textWhite">Doch der Finanzminister</tt:span>
+<tt:br/>
+<tt:span style="textWhite">muss einen Irrtum offenlegen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub13" style="textCenter" region="bottom" begin="00:00:50.120"
+end="00:00:54.240">
+<tt:span style="textWhite">Vor einem Jahr hatte Scholz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf knappere Kassen eingestimmt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub14" style="textCenter" region="bottom" begin="00:00:54.320"
+end="00:00:58.480">
+<tt:span style="textWhite">Die 13,5 Milliarden müssten jetzt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Investitionen fließen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub15" style="textCenter" region="bottom" begin="00:01:00.840"
+end="00:01:05.640">
+<tt:span style="textYellow">Wir müssen etwas tun für Schulen,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Krankenhäuser, die Infrastruktur.</tt:span>
+</tt:p>
+<tt:p xml:id="sub16" style="textCenter" region="bottom" begin="00:01:05.720"
+end="00:01:08.480">
+<tt:span style="textYellow">Wir müssen den Klimawandel bekämpfen</tt:span>
+</tt:p>
+<tt:p xml:id="sub17" style="textCenter" region="bottom" begin="00:01:08.560"
+end="00:01:12.280">
+<tt:span style="textYellow">und die notwendigen Investitionen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auf den Weg bringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub18" style="textCenter" region="bottom" begin="00:01:13.120"
+end="00:01:17.200">
+<tt:span style="textWhite">Deutschland sieht mancherorts</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nicht aus wie ein reiches Land.</tt:span>
+</tt:p>
+<tt:p xml:id="sub19" style="textCenter" region="bottom" begin="00:01:17.280"
+end="00:01:20.400">
+<tt:span style="textWhite">Doch der Haushalt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wirkt auch deshalb so prall,</tt:span>
+</tt:p>
+<tt:p xml:id="sub20" style="textCenter" region="bottom" begin="00:01:20.480"
+end="00:01:24.800">
+<tt:span style="textWhite">weil bereitgestelltes Geld</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mangels Baukapazität nicht abfließt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub21" style="textCenter" region="bottom" begin="00:01:25.760"
+end="00:01:28.160">
+<tt:span style="textWhite">Hier fordert die FDP Änderungen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub22" style="textCenter" region="bottom" begin="00:01:29.120"
+end="00:01:31.480">
+<tt:span style="textYellow">Wir brauchen den Planungsturbo:</tt:span>
+</tt:p>
+<tt:p xml:id="sub23" style="textCenter" region="bottom" begin="00:01:31.600"
+end="00:01:34.640">
+<tt:span style="textYellow">Wir müssen ran</tt:span>
+<tt:br/>
+<tt:span style="textYellow">an die strukturellen Ursachen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub24" style="textCenter" region="bottom" begin="00:01:34.720"
+end="00:01:38.960">
+<tt:span style="textYellow">weshalb trotz gut ausgestattetem</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Haushalt zu wenig investiert wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub25" style="textCenter" region="bottom" begin="00:01:39.040"
+end="00:01:41.600">
+<tt:span style="textWhite">Grüne und Linke</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sind beim Finanzminister:</tt:span>
+</tt:p>
+<tt:p xml:id="sub26" style="textCenter" region="bottom" begin="00:01:41.680"
+end="00:01:45.200">
+<tt:span style="textWhite">Viel Geld müsse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in die Zukunft der Bürger fließen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub27" style="textCenter" region="bottom" begin="00:01:45.600"
+end="00:01:49.880">
+<tt:span style="textYellow">Der Steuerüberschuss sollte</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in eine "Offensive Schiene" gehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub28" style="textCenter" region="bottom" begin="00:01:49.960"
+end="00:01:53.440">
+<tt:span style="textYellow">Die Schiene muss v.a. auf dem Land</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ausgebaut werden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub29" style="textCenter" region="bottom" begin="00:01:53.560"
+end="00:01:56.920">
+<tt:span style="textYellow">damit man auch jenseits vom Auto</tt:span>
+<tt:br/>
+<tt:span style="textYellow">mobil sein kann.</tt:span>
+</tt:p>
+<tt:p xml:id="sub30" style="textCenter" region="bottom" begin="00:01:57.600"
+end="00:02:01.480">
+<tt:span style="textWhite">Die Union</tt:span>
+<tt:br/>
+<tt:span style="textWhite">will dagegen rasche Steuersenkungen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub31" style="textCenter" region="bottom" begin="00:02:03.920"
+end="00:02:07.360">
+<tt:span style="textYellow">Die Steuereinnahmen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">müssen auch in Zukunft fließen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub32" style="textCenter" region="bottom" begin="00:02:07.400"
+end="00:02:11.560">
+<tt:span style="textYellow">Wir brauchen Wettbewerbsfähigkeit</tt:span>
+<tt:br/>
+<tt:span style="textYellow">über eine Unternehmenssteuerreform.</tt:span>
+</tt:p>
+<tt:p xml:id="sub33" style="textCenter" region="bottom" begin="00:02:11.640"
+end="00:02:14.240">
+<tt:span style="textYellow">Und wir müssen den Bürgern</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Geld zurückgeben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub34" style="textCenter" region="bottom" begin="00:02:14.360"
+end="00:02:17.520">
+<tt:span style="textYellow">damit sie investieren</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und den Konsum ankurbeln können.</tt:span>
+</tt:p>
+<tt:p xml:id="sub35" style="textCenter" region="bottom" begin="00:02:17.640"
+end="00:02:20.480">
+<tt:span style="textWhite">Der Finanzminister</tt:span>
+<tt:br/>
+<tt:span style="textWhite">weicht dieser Forderung aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub36" style="textCenter" region="bottom" begin="00:02:20.560"
+end="00:02:25.360">
+<tt:span style="textWhite">Der Geldsegen hat Potenzial für ein</tt:span>
+<tt:br/>
+<tt:span style="textWhite">neues Kräftemessen in der Koalition.</tt:span>
+</tt:p>
+<tt:p xml:id="sub37" style="textCenter" region="bottom" begin="00:02:26.080"
+end="00:02:30.480">
+<tt:span style="textWhite">In Thüringen könnte eine Regierung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Linkspartei, SPD und Grünen</tt:span>
+</tt:p>
+<tt:p xml:id="sub38" style="textCenter" region="bottom" begin="00:02:30.560"
+end="00:02:33.920">
+<tt:span style="textWhite">in Einzelfragen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf Unterstützung der CDU hoffen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub39" style="textCenter" region="bottom" begin="00:02:34.000"
+end="00:02:36.520">
+<tt:span style="textWhite">Das sagten Unionsvertreter heute zu.</tt:span>
+</tt:p>
+<tt:p xml:id="sub40" style="textCenter" region="bottom" begin="00:02:37.040"
+end="00:02:40.720">
+<tt:span style="textWhite">Eine formelle Zusammenarbeit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">soll es jedoch nicht geben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub41" style="textCenter" region="bottom" begin="00:02:40.800"
+end="00:02:42.840">
+<tt:span style="textWhite">Ähnlich äußerte sich die FDP.</tt:span>
+</tt:p>
+<tt:p xml:id="sub42" style="textCenter" region="bottom" begin="00:02:42.920"
+end="00:02:46.480">
+<tt:span style="textWhite">Die Regierungsbildung ist schwierig,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">weil CDU und FDP</tt:span>
+</tt:p>
+<tt:p xml:id="sub43" style="textCenter" region="bottom" begin="00:02:46.560"
+end="00:02:49.800">
+<tt:span style="textWhite">nicht mit Linkspartei</tt:span>
+<tt:br/>
+<tt:span style="textWhite">oder AfD koalieren wollen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub44" style="textCenter" region="bottom" begin="00:02:51.360"
+end="00:02:54.680">
+<tt:span style="textWhite">Es ist Fingerspitzengefühl gefragt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Erfurt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub45" style="textCenter" region="bottom" begin="00:02:54.760"
+end="00:02:56.720">
+<tt:span style="textWhite">Die Lage ist kompliziert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub46" style="textCenter" region="bottom" begin="00:02:57.040"
+end="00:02:59.840">
+<tt:span style="textWhite">Ministerpräsident Ramelow</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist kurz davor,</tt:span>
+</tt:p>
+<tt:p xml:id="sub47" style="textCenter" region="bottom" begin="00:02:59.920"
+end="00:03:03.120">
+<tt:span style="textWhite">eine rot-rot-grüne</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Minderheitsregierung zu bilden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub48" style="textCenter" region="bottom" begin="00:03:03.200"
+end="00:03:04.960">
+<tt:span style="textWhite">Um Gesetze durchzubringen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub49" style="textCenter" region="bottom" begin="00:03:05.040"
+end="00:03:08.480">
+<tt:span style="textWhite">braucht er mindestens</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vier Stimmen von CDU oder FDP.</tt:span>
+</tt:p>
+<tt:p xml:id="sub50" style="textCenter" region="bottom" begin="00:03:08.560"
+end="00:03:11.160">
+<tt:span style="textWhite">Nach 1,5 Stunden Gespräch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stellen die klar,</tt:span>
+</tt:p>
+<tt:p xml:id="sub51" style="textCenter" region="bottom" begin="00:03:11.240"
+end="00:03:14.160">
+<tt:span style="textWhite">dass sie Rot-Rot-Grün</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nicht unterstützen werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub52" style="textCenter" region="bottom" begin="00:03:14.240"
+end="00:03:15.920">
+<tt:span style="textYellow">Wir haben aber gesagt,</tt:span>
+</tt:p>
+<tt:p xml:id="sub53" style="textCenter" region="bottom" begin="00:03:16.040"
+end="00:03:21.120">
+<tt:span style="textYellow">dass wir für die wichtigen Dinge</tt:span>
+<tt:br/>
+<tt:span style="textYellow">unvoreingenommene Prüfung zusichern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub54" style="textCenter" region="bottom" begin="00:03:21.720"
+end="00:03:26.320">
+<tt:span style="textYellow">Es werden dort Mehrheiten gesichert,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wo Themen notwendig sind,</tt:span>
+</tt:p>
+<tt:p xml:id="sub55" style="textCenter" region="bottom" begin="00:03:27.160"
+end="00:03:29.400">
+<tt:span style="textYellow">weil die das Land voranbringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub56" style="textCenter" region="bottom" begin="00:03:29.480"
+end="00:03:31.920">
+<tt:span style="textGreen">Da kann es bunte Mehrheiten geben,</tt:span>
+</tt:p>
+<tt:p xml:id="sub57" style="textCenter" region="bottom" begin="00:03:32.000"
+end="00:03:34.800">
+<tt:span style="textGreen">die wir kennen</tt:span>
+<tt:br/>
+<tt:span style="textGreen">aus Stadträten und Kreistagen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub58" style="textCenter" region="bottom" begin="00:03:34.880"
+end="00:03:39.120">
+<tt:span style="textGreen">Deshalb müssen wir da neu denken,</tt:span>
+<tt:br/>
+<tt:span style="textGreen">nicht in alten Parteiblöcken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub59" style="textCenter" region="bottom" begin="00:03:39.320"
+end="00:03:41.600">
+<tt:span style="textGreen">Die gute Idee muss nach vorne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub60" style="textCenter" region="bottom" begin="00:03:42.000"
+end="00:03:45.480">
+<tt:span style="textWhite">Bei Sachthemen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">könnte es eine Zusammenarbeit geben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub61" style="textCenter" region="bottom" begin="00:03:45.560"
+end="00:03:49.360">
+<tt:span style="textWhite">Auch Ramelow spricht von</tt:span>
+<tt:br/>
+<tt:span style="textWhite">projektorientierter Regierungsarbeit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub62" style="textCenter" region="bottom" begin="00:03:49.440"
+end="00:03:52.320">
+<tt:span style="textWhite">Er will die Regierungsbildung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vorantreiben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub63" style="textCenter" region="bottom" begin="00:03:52.400"
+end="00:03:55.920">
+<tt:span style="textYellow">Rot-Rot-Grün ist auf der Zielgeraden</tt:span>
+<tt:br/>
+<tt:span style="textYellow">beim Koalitionsvertrag.</tt:span>
+</tt:p>
+<tt:p xml:id="sub64" style="textCenter" region="bottom" begin="00:03:56.000"
+end="00:03:57.600">
+<tt:span style="textYellow">Wir werden nächste Woche</tt:span>
+</tt:p>
+<tt:p xml:id="sub65" style="textCenter" region="bottom" begin="00:03:57.680"
+end="00:04:01.560">
+<tt:span style="textYellow">über die Strukturen einer</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zukünftigen Landesregierung reden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub66" style="textCenter" region="bottom" begin="00:04:01.640"
+end="00:04:06.000">
+<tt:span style="textYellow">Wir werden am 5. oder 6. Februar</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Bodo Ramelow zur Wahl stellen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub67" style="textCenter" region="bottom" begin="00:04:06.800"
+end="00:04:11.360">
+<tt:span style="textWhite">Dafür wäre die Koalition nicht auf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Stimmen der Opposition angewiesen -</tt:span>
+</tt:p>
+<tt:p xml:id="sub68" style="textCenter" region="bottom" begin="00:04:11.440"
+end="00:04:15.840">
+<tt:span style="textWhite">denn im dritten Wahlgang bräuchte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Ramelow nur die meisten Stimmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub69" style="textCenter" region="bottom" begin="00:04:15.920"
+end="00:04:17.360">
+<tt:span style="textWhite">CDU und FDP fordern,</tt:span>
+</tt:p>
+<tt:p xml:id="sub70" style="textCenter" region="bottom" begin="00:04:17.440"
+end="00:04:20.320">
+<tt:span style="textWhite">die Ministerpräsidentenwahl</tt:span>
+<tt:br/>
+<tt:span style="textWhite">später abzuhalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub71" style="textCenter" region="bottom" begin="00:04:20.400"
+end="00:04:24.000">
+<tt:span style="textWhite">Um vorher Gespräche</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über gemeinsame Projekte zu führen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub72" style="textCenter" region="bottom" begin="00:04:24.080"
+end="00:04:28.080">
+<tt:span style="textWhite">Offen bleibt, wie künftig über</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den Landeshaushalt entschieden wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub73" style="textCenter" region="bottom" begin="00:04:28.800"
+end="00:04:31.520">
+<tt:span style="textWhite">Die Tötung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des iranischen Generals Soleimani</tt:span>
+</tt:p>
+<tt:p xml:id="sub74" style="textCenter" region="bottom" begin="00:04:31.600"
+end="00:04:34.760">
+<tt:span style="textWhite">durch die USA</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat Trump in Erklärungsnot gebracht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub75" style="textCenter" region="bottom" begin="00:04:34.840"
+end="00:04:38.160">
+<tt:span style="textWhite">Verteidigungsminister Esper</tt:span>
+<tt:br/>
+<tt:span style="textWhite">widersprach Trumps Aussage,</tt:span>
+</tt:p>
+<tt:p xml:id="sub76" style="textCenter" region="bottom" begin="00:04:38.240"
+end="00:04:43.320">
+<tt:span style="textWhite">Anfang Januar habe es Beweise gegeben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für Angriffspläne auf US-Botschaften.</tt:span>
+</tt:p>
+<tt:p xml:id="sub77" style="textCenter" region="bottom" begin="00:04:43.440"
+end="00:04:47.640">
+<tt:span style="textWhite">Währenddessen hat der Iran</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Vertuschungsvorwürfe zurückgewiesen</tt:span>
+</tt:p>
+<tt:p xml:id="sub78" style="textCenter" region="bottom" begin="00:04:47.720"
+end="00:04:51.440">
+<tt:span style="textWhite">nach dem Abschuss</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einer ukrainischen Passagiermaschine:</tt:span>
+</tt:p>
+<tt:p xml:id="sub79" style="textCenter" region="bottom" begin="00:04:51.520"
+end="00:04:55.720">
+<tt:span style="textWhite">Details zur Absturzursache seien</tt:span>
+<tt:br/>
+<tt:span style="textWhite">erst Tage später bekannt geworden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub80" style="textCenter" region="bottom" begin="00:04:55.800"
+end="00:04:59.640">
+<tt:span style="textWhite">Im Iran hatte es in den vergangenen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Tagen Proteste unter anderem</tt:span>
+</tt:p>
+<tt:p xml:id="sub81" style="textCenter" region="bottom" begin="00:04:59.720"
+end="00:05:02.840">
+<tt:span style="textWhite">gegen die Informationspolitik</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Regierung gegeben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub82" style="textCenter" region="bottom" begin="00:05:03.480"
+end="00:05:07.920">
+<tt:span style="textWhite">Irans Führung erhöht den Druck auf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">regierungskritische Demonstranten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub83" style="textCenter" region="bottom" begin="00:05:08.000"
+end="00:05:10.800">
+<tt:span style="textWhite">Der Chef der Justiz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">droht mit Konsequenzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub84" style="textCenter" region="bottom" begin="00:05:10.880"
+end="00:05:14.680">
+<tt:span style="textWhite">Er bezieht sich dabei auch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf Tweets des US-Präsidenten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub85" style="textCenter" region="bottom" begin="00:05:14.760"
+end="00:05:18.880">
+<tt:span style="textWhite">der der iranischen Protestbewegung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Unterstützung zusicherte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub86" style="textCenter" region="bottom" begin="00:05:19.120"
+end="00:05:23.360">
+<tt:span style="textYellow">Wenn die Amerikaner und andere</tt:span>
+<tt:br/>
+<tt:span style="textYellow">unsere Bevölkerung verwirren,</tt:span>
+</tt:p>
+<tt:p xml:id="sub87" style="textCenter" region="bottom" begin="00:05:23.440"
+end="00:05:26.800">
+<tt:span style="textYellow">wird das die iranische Nation</tt:span>
+<tt:br/>
+<tt:span style="textYellow">nicht erlauben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub88" style="textCenter" region="bottom" begin="00:05:27.520"
+end="00:05:32.480">
+<tt:span style="textWhite">Während gestern in Teheran Tausende</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen die Machthaber demonstrierten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub89" style="textCenter" region="bottom" begin="00:05:32.560"
+end="00:05:35.200">
+<tt:span style="textWhite">ist in Washington</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein Streit entbrannt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub90" style="textCenter" region="bottom" begin="00:05:35.280"
+end="00:05:38.880">
+<tt:span style="textWhite">Wie gerechtfertigt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">war die Tötung General Soleimanis?</tt:span>
+</tt:p>
+<tt:p xml:id="sub91" style="textCenter" region="bottom" begin="00:05:38.960"
+end="00:05:43.600">
+<tt:span style="textWhite">Gab es Geheimdiensterkenntnisse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über bevorstehende Terroranschläge?</tt:span>
+</tt:p>
+<tt:p xml:id="sub92" style="textCenter" region="bottom" begin="00:05:43.640"
+end="00:05:46.640">
+<tt:span style="textWhite">Trump hatte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in einem TV-Interview behauptet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub93" style="textCenter" region="bottom" begin="00:05:46.720"
+end="00:05:50.360">
+<tt:span style="textWhite">gleich vier US-Vertretungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">seien im Visier gewesen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub94" style="textCenter" region="bottom" begin="00:05:51.400"
+end="00:05:55.880">
+<tt:span style="textYellow">Ich kann verraten, ich glaube,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">es wären vier Botschaften gewesen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub95" style="textCenter" region="bottom" begin="00:05:55.960"
+end="00:05:57.800">
+<tt:span style="textYellow">Die in Bagdad wohl zuerst.</tt:span>
+</tt:p>
+<tt:p xml:id="sub96" style="textCenter" region="bottom" begin="00:05:57.880"
+end="00:06:01.880">
+<tt:span style="textYellow">Aber ich denke, vier Botschaften,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">vielleicht auch Militärbasen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub97" style="textCenter" region="bottom" begin="00:06:02.000"
+end="00:06:04.320">
+<tt:span style="textYellow">hätte alles Mögliche sein können.</tt:span>
+</tt:p>
+<tt:p xml:id="sub98" style="textCenter" region="bottom" begin="00:06:04.400"
+end="00:06:07.440">
+<tt:span style="textWhite">So weit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">geht Pentagon-Chef Mark Esper nicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub99" style="textCenter" region="bottom" begin="00:06:07.520"
+end="00:06:09.600">
+<tt:span style="textWhite">Auf Nachfragen sagt er nur:</tt:span>
+</tt:p>
+<tt:p xml:id="sub100" style="textCenter" region="bottom" begin="00:06:10.640"
+end="00:06:14.480">
+<tt:span style="textYellow">Der Präsident hat nicht</tt:span>
+<tt:br/>
+<tt:span style="textYellow">über konkrete Beweise gesprochen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub101" style="textCenter" region="bottom" begin="00:06:14.520"
+end="00:06:17.360">
+<tt:span style="textYellow">er hat nur</tt:span>
+<tt:br/>
+<tt:span style="textYellow">von "wahrscheinlich" gesprochen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub102" style="textCenter" region="bottom" begin="00:06:17.440"
+end="00:06:18.800">
+<tt:span style="textGreen">Es gab also keine?</tt:span>
+</tt:p>
+<tt:p xml:id="sub103" style="textCenter" region="bottom" begin="00:06:19.000"
+end="00:06:22.720">
+<tt:span style="textYellow">Ich habe keine gesehen,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">nicht für vier Botschaften.</tt:span>
+</tt:p>
+<tt:p xml:id="sub104" style="textCenter" region="bottom" begin="00:06:24.840"
+end="00:06:27.920">
+<tt:span style="textWhite">Die Widersprüche</tt:span>
+<tt:br/>
+<tt:span style="textWhite">innerhalb der Trump-Regierung</tt:span>
+</tt:p>
+<tt:p xml:id="sub105" style="textCenter" region="bottom" begin="00:06:28.040"
+end="00:06:31.400">
+<tt:span style="textWhite">sind ein gefundenes Fressen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für die Demokraten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub106" style="textCenter" region="bottom" begin="00:06:31.640"
+end="00:06:34.960">
+<tt:span style="textYellow">Die überspitzen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Geheimdiensterkenntnisse.</tt:span>
+</tt:p>
+<tt:p xml:id="sub107" style="textCenter" region="bottom" begin="00:06:35.040"
+end="00:06:39.280">
+<tt:span style="textYellow">Wenn es um die Rechtfertigung</tt:span>
+<tt:br/>
+<tt:span style="textYellow">eines Krieges mit dem Iran geht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub108" style="textCenter" region="bottom" begin="00:06:39.360"
+end="00:06:41.240">
+<tt:span style="textYellow">dann ist so was gefährlich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub109" style="textCenter" region="bottom" begin="00:06:43.920"
+end="00:06:47.280">
+<tt:span style="textWhite">Die Reaktion des Präsidenten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">heute auf Twitter:</tt:span>
+</tt:p>
+<tt:p xml:id="sub110" style="textCenter" region="bottom" begin="00:06:47.360"
+end="00:06:52.040">
+<tt:span style="textWhite">"Die Lügenpresse und ihre Partner</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei den Demokraten wollen ergründen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub111" style="textCenter" region="bottom" begin="00:06:52.120"
+end="00:06:56.760">
+<tt:span style="textWhite">ob die Anschläge des Terroristen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Soleimani "unmittelbar" bevorstanden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub112" style="textCenter" region="bottom" begin="00:06:56.840"
+end="00:06:59.640">
+<tt:span style="textWhite">Und ob mein Team</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sich darüber einig ist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub113" style="textCenter" region="bottom" begin="00:06:59.760"
+end="00:07:02.400">
+<tt:span style="textWhite">Die Antwort auf beides</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist ein starkes Ja.</tt:span>
+</tt:p>
+<tt:p xml:id="sub114" style="textCenter" region="bottom" begin="00:07:02.480"
+end="00:07:04.520">
+<tt:span style="textWhite">Aber darauf kommt es gar nicht an</tt:span>
+</tt:p>
+<tt:p xml:id="sub115" style="textCenter" region="bottom" begin="00:07:04.600"
+end="00:07:07.600">
+<tt:span style="textWhite">wegen der furchtbaren Vergangenheit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dieses Mannes."</tt:span>
+</tt:p>
+<tt:p xml:id="sub116" style="textCenter" region="bottom" begin="00:07:07.680"
+end="00:07:09.200">
+<tt:span style="textCyan">NBC berichtet inzwischen</tt:span>
+</tt:p>
+<tt:p xml:id="sub117" style="textCenter" region="bottom" begin="00:07:09.280"
+end="00:07:13.400">
+<tt:span style="textCyan">unter Berufung auf fünf jetzige</tt:span>
+<tt:br/>
+<tt:span style="textCyan">und frühere Regierungsmitarbeiter:</tt:span>
+</tt:p>
+<tt:p xml:id="sub118" style="textCenter" region="bottom" begin="00:07:13.480"
+end="00:07:17.840">
+<tt:span style="textCyan">Trump habe die Tötung Soleimanis</tt:span>
+<tt:br/>
+<tt:span style="textCyan">schon vor sieben Monaten genehmigt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub119" style="textCenter" region="bottom" begin="00:07:17.920"
+end="00:07:20.800">
+<tt:span style="textCyan">Dies sei jedoch</tt:span>
+<tt:br/>
+<tt:span style="textCyan">an Bedingungen geknüpft gewesen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub120" style="textCenter" region="bottom" begin="00:07:20.880"
+end="00:07:24.520">
+<tt:span style="textCyan">Dass zuvor ein US-Bürger</tt:span>
+<tt:br/>
+<tt:span style="textCyan">durch iranische Taten zu Tode kommt</tt:span>
+</tt:p>
+<tt:p xml:id="sub121" style="textCenter" region="bottom" begin="00:07:24.600"
+end="00:07:27.760">
+<tt:span style="textCyan">und dass Trump</tt:span>
+<tt:br/>
+<tt:span style="textCyan">den Einsatz abschließend anordnet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub122" style="textCenter" region="bottom" begin="00:07:28.520"
+end="00:07:31.360">
+<tt:span style="textWhite">Angesichts der Spannungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Nahen Osten</tt:span>
+</tt:p>
+<tt:p xml:id="sub123" style="textCenter" region="bottom" begin="00:07:31.400"
+end="00:07:35.200">
+<tt:span style="textWhite">warnte Außenminister Maas</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vor einem Erstarken des IS.</tt:span>
+</tt:p>
+<tt:p xml:id="sub124" style="textCenter" region="bottom" begin="00:07:36.040"
+end="00:07:39.680">
+<tt:span style="textWhite">Bei dem Treffen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit Jordaniens Außenminister Safadi</tt:span>
+</tt:p>
+<tt:p xml:id="sub125" style="textCenter" region="bottom" begin="00:07:39.760"
+end="00:07:43.920">
+<tt:span style="textWhite">ging es auch um die Zukunft</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Bundeswehreinsatzes im Irak.</tt:span>
+</tt:p>
+<tt:p xml:id="sub126" style="textCenter" region="bottom" begin="00:07:44.040"
+end="00:07:48.240">
+<tt:span style="textWhite">Maas warnte den Iran vor weiteren</tt:span>
+<tt:br/>
+<tt:span style="textWhite">destabilisierenden Aktionen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub127" style="textCenter" region="bottom" begin="00:07:48.440"
+end="00:07:51.640">
+<tt:span style="textWhite">Er betonte, der IS sei nicht besiegt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub128" style="textCenter" region="bottom" begin="00:07:53.640"
+end="00:07:58.400">
+<tt:span style="textWhite">In Moskau trafen sich Vertreter</tt:span>
+<tt:br/>
+<tt:span style="textWhite">beider libyscher Konfliktparteien.</tt:span>
+</tt:p>
+<tt:p xml:id="sub129" style="textCenter" region="bottom" begin="00:07:58.480"
+end="00:08:02.120">
+<tt:span style="textWhite">Gemeinsam mit den Außenministern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Russlands und der Türkei</tt:span>
+</tt:p>
+<tt:p xml:id="sub130" style="textCenter" region="bottom" begin="00:08:02.200"
+end="00:08:05.800">
+<tt:span style="textWhite">sprachen sie über die</tt:span>
+<tt:br/>
+<tt:span style="textWhite">seit gestern bestehende Waffenruhe.</tt:span>
+</tt:p>
+<tt:p xml:id="sub131" style="textCenter" region="bottom" begin="00:08:05.880"
+end="00:08:10.240">
+<tt:span style="textWhite">Laut Russlands Außenminister Lawrow</tt:span>
+<tt:br/>
+<tt:span style="textWhite">unterzeichnete Ministerpräsident</tt:span>
+</tt:p>
+<tt:p xml:id="sub132" style="textCenter" region="bottom" begin="00:08:10.320"
+end="00:08:13.560">
+<tt:span style="textWhite">al-Sarradsch ein Papier</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für einen Waffenstillstand.</tt:span>
+</tt:p>
+<tt:p xml:id="sub133" style="textCenter" region="bottom" begin="00:08:13.640"
+end="00:08:15.840">
+<tt:span style="textWhite">Sein Widersacher, General Haftar,</tt:span>
+</tt:p>
+<tt:p xml:id="sub134" style="textCenter" region="bottom" begin="00:08:15.920"
+end="00:08:18.480">
+<tt:span style="textWhite">habe sich Bedenkzeit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bis morgen erbeten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub135" style="textCenter" region="bottom" begin="00:08:18.600"
+end="00:08:22.640">
+<tt:span style="textWhite">Die Bundesregierung will im Januar</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine Libyen-Konferenz abhalten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub136" style="textCenter" region="bottom" begin="00:08:23.600"
+end="00:08:25.600">
+<tt:span style="textWhite">Frankreichs Präsident Macron</tt:span>
+</tt:p>
+<tt:p xml:id="sub137" style="textCenter" region="bottom" begin="00:08:25.680"
+end="00:08:29.320">
+<tt:span style="textWhite">hat fünf Präsidenten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus der Sahel-Region empfangen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub138" style="textCenter" region="bottom" begin="00:08:30.440"
+end="00:08:34.600">
+<tt:span style="textWhite">Er erwartet ein klares Bekenntnis</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum Anti-Terror-Kampf</tt:span>
+</tt:p>
+<tt:p xml:id="sub139" style="textCenter" region="bottom" begin="00:08:34.680"
+end="00:08:36.800">
+<tt:span style="textWhite">von der "G5-Sahel-Gruppe".</tt:span>
+</tt:p>
+<tt:p xml:id="sub140" style="textCenter" region="bottom" begin="00:08:38.760"
+end="00:08:43.120">
+<tt:span style="textWhite">Erst letzte Woche wurden in Niger</tt:span>
+<tt:br/>
+<tt:span style="textWhite">89 Soldaten getötet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub141" style="textCenter" region="bottom" begin="00:08:44.920"
+end="00:08:49.080">
+<tt:span style="textWhite">Die ehemalige Kolonialmacht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat in den Staaten der Sahel-Zone</tt:span>
+</tt:p>
+<tt:p xml:id="sub142" style="textCenter" region="bottom" begin="00:08:49.160"
+end="00:08:51.360">
+<tt:span style="textWhite">etwa 4500 Soldaten stationiert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub143" style="textCenter" region="bottom" begin="00:08:53.920"
+end="00:08:58.560">
+<tt:span style="textWhite">In der syrischen Provinz Idlib bleibt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Lage für die Zivilbevölkerung</tt:span>
+</tt:p>
+<tt:p xml:id="sub144" style="textCenter" region="bottom" begin="00:08:58.680"
+end="00:09:01.640">
+<tt:span style="textWhite">auch nach Inkrafttreten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Waffenruhe kritisch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub145" style="textCenter" region="bottom" begin="00:09:01.720"
+end="00:09:05.880">
+<tt:span style="textWhite">Die Truppen von Präsident Assad</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Russland hatten ihren Vormarsch</tt:span>
+</tt:p>
+<tt:p xml:id="sub146" style="textCenter" region="bottom" begin="00:09:05.920"
+end="00:09:09.480">
+<tt:span style="textWhite">gegen Stellungen der Rebellen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Dezember intensiviert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub147" style="textCenter" region="bottom" begin="00:09:09.560"
+end="00:09:13.000">
+<tt:span style="textWhite">Seitdem sind</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Hunderttausende auf der Flucht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub148" style="textCenter" region="bottom" begin="00:09:13.080"
+end="00:09:15.320">
+<tt:span style="textWhite">Die Provinz ist das letzte Gebiet,</tt:span>
+</tt:p>
+<tt:p xml:id="sub149" style="textCenter" region="bottom" begin="00:09:15.400"
+end="00:09:17.840">
+<tt:span style="textWhite">das noch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Rebellen kontrolliert wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub150" style="textCenter" region="bottom" begin="00:09:19.040"
+end="00:09:22.320">
+<tt:span style="textWhite">Allein gelassen im Matsch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei etwa null Grad.</tt:span>
+</tt:p>
+<tt:p xml:id="sub151" style="textCenter" region="bottom" begin="00:09:22.400"
+end="00:09:26.400">
+<tt:span style="textWhite">Sie flohen vor den Bomben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">syrischer und russischer Kampfjets</tt:span>
+</tt:p>
+<tt:p xml:id="sub152" style="textCenter" region="bottom" begin="00:09:26.480"
+end="00:09:30.320">
+<tt:span style="textWhite">aus dem Süden Idlibs</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in dieses Camp im Norden des Landes.</tt:span>
+</tt:p>
+<tt:p xml:id="sub153" style="textCenter" region="bottom" begin="00:09:31.320"
+end="00:09:33.720">
+<tt:span style="textWhite">2000 Menschen, dicht an dicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub154" style="textCenter" region="bottom" begin="00:09:34.200"
+end="00:09:38.160">
+<tt:span style="textWhite">Es herrschen Not und Mangel,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Krankheiten breiten sich aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub155" style="textCenter" region="bottom" begin="00:09:40.640"
+end="00:09:42.800">
+<tt:span style="textYellow">Schaut doch, wie es uns geht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub156" style="textCenter" region="bottom" begin="00:09:42.880"
+end="00:09:45.160">
+<tt:span style="textYellow">Unsere Situation ist miserabel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub157" style="textCenter" region="bottom" begin="00:09:45.840"
+end="00:09:50.160">
+<tt:span style="textYellow">Viele sind krank, und die Ärzte</tt:span>
+<tt:br/>
+<tt:span style="textYellow">haben keine Medikamente.</tt:span>
+</tt:p>
+<tt:p xml:id="sub158" style="textCenter" region="bottom" begin="00:09:53.160"
+end="00:09:56.760">
+<tt:span style="textWhite">Krieg und Vertreibung -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Spirale dreht sich weiter</tt:span>
+</tt:p>
+<tt:p xml:id="sub159" style="textCenter" region="bottom" begin="00:09:56.840"
+end="00:10:00.440">
+<tt:span style="textWhite">in der Provinz unter Kontrolle</tt:span>
+<tt:br/>
+<tt:span style="textWhite">islamistischer Milizen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub160" style="textCenter" region="bottom" begin="00:10:00.520"
+end="00:10:04.760">
+<tt:span style="textWhite">Am Samstag starben 18 Menschen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei Angriffen der syrischen Armee.</tt:span>
+</tt:p>
+<tt:p xml:id="sub161" style="textCenter" region="bottom" begin="00:10:04.840"
+end="00:10:07.520">
+<tt:span style="textWhite">Die vereinbarte Waffenruhe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist brüchig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub162" style="textCenter" region="bottom" begin="00:10:08.680"
+end="00:10:12.880">
+<tt:span style="textWhite">Hilfsgüter kommen nur noch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über zwei türkische Grenzübergänge,</tt:span>
+</tt:p>
+<tt:p xml:id="sub163" style="textCenter" region="bottom" begin="00:10:12.960"
+end="00:10:14.720">
+<tt:span style="textWhite">bislang waren es vier.</tt:span>
+</tt:p>
+<tt:p xml:id="sub164" style="textCenter" region="bottom" begin="00:10:14.840"
+end="00:10:19.320">
+<tt:span style="textWhite">Die zwei in Jordanien und im Irak</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurden für UN-Hilfe geschlossen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub165" style="textCenter" region="bottom" begin="00:10:19.760"
+end="00:10:24.480">
+<tt:span style="textWhite">Darauf hatte Syriens Verbündeter</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Russland im Sicherheitsrat gedrängt:</tt:span>
+</tt:p>
+<tt:p xml:id="sub166" style="textCenter" region="bottom" begin="00:10:24.560"
+end="00:10:28.560">
+<tt:span style="textWhite">Machthaber Assad könne</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Bevölkerung selbst versorgen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub167" style="textCenter" region="bottom" begin="00:10:29.360"
+end="00:10:32.120">
+<tt:span style="textWhite">Die Vereinten Nationen widersprechen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub168" style="textCenter" region="bottom" begin="00:10:34.960"
+end="00:10:39.600">
+<tt:span style="textYellow">Wir haben in den letzten Wochen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">eine Eskalation der Kämpfe erlebt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub169" style="textCenter" region="bottom" begin="00:10:39.680"
+end="00:10:42.400">
+<tt:span style="textYellow">Wir brauchen mehr Hilfe,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">nicht weniger.</tt:span>
+</tt:p>
+<tt:p xml:id="sub170" style="textCenter" region="bottom" begin="00:10:44.720"
+end="00:10:48.400">
+<tt:span style="textWhite">Die Versorgung Hunderttausender</tt:span>
+<tt:br/>
+<tt:span style="textWhite">steht auf der Kippe.</tt:span>
+</tt:p>
+<tt:p xml:id="sub171" style="textCenter" region="bottom" begin="00:10:48.480"
+end="00:10:52.240">
+<tt:span style="textWhite">Sie sind auf Hilfe angewiesen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und sitzen in der Falle.</tt:span>
+</tt:p>
+<tt:p xml:id="sub172" style="textCenter" region="bottom" begin="00:10:52.880"
+end="00:10:57.760">
+<tt:span style="textWhite">Die Grenze zur Türkei ist dicht, der</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Weg in andere Landesteile versperrt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub173" style="textCenter" region="bottom" begin="00:10:57.840"
+end="00:11:00.720">
+<tt:span style="textWhite">In den Camps</tt:span>
+<tt:br/>
+<tt:span style="textWhite">greift Verzweiflung um sich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub174" style="textCenter" region="bottom" begin="00:11:01.680"
+end="00:11:04.040">
+<tt:span style="textWhite">Der emeritierte Papst Benedikt</tt:span>
+</tt:p>
+<tt:p xml:id="sub175" style="textCenter" region="bottom" begin="00:11:04.120"
+end="00:11:08.840">
+<tt:span style="textWhite">äußert sich in einem Buch vehement</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen eine Lockerung des Zölibats.</tt:span>
+</tt:p>
+<tt:p xml:id="sub176" style="textCenter" region="bottom" begin="00:11:11.800"
+end="00:11:13.600">
+<tt:span style="textWhite">Bei einer Bischofssynode</tt:span>
+</tt:p>
+<tt:p xml:id="sub177" style="textCenter" region="bottom" begin="00:11:13.640"
+end="00:11:18.160">
+<tt:span style="textWhite">waren Ausnahmen für Priester</tt:span>
+<tt:br/>
+<tt:span style="textWhite">im Amazonasgebiet diskutiert worden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub178" style="textCenter" region="bottom" begin="00:11:18.800"
+end="00:11:23.560">
+<tt:span style="textWhite">Wegen Personalmangels finden dort</tt:span>
+<tt:br/>
+<tt:span style="textWhite">teils monatelang keine Messen statt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub179" style="textCenter" region="bottom" begin="00:11:23.880"
+end="00:11:26.680">
+<tt:span style="textWhite">Benedikts Appell</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gilt als ungewöhnlich,</tt:span>
+</tt:p>
+<tt:p xml:id="sub180" style="textCenter" region="bottom" begin="00:11:26.800"
+end="00:11:30.960">
+<tt:span style="textWhite">da er seinem Nachfolger Franziskus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Unterordnung zugesagt hatte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub181" style="textCenter" region="bottom" begin="00:11:31.080"
+end="00:11:34.320">
+<tt:span style="textWhite">Was Benedikts Äußerungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für Katholiken bedeuten,</tt:span>
+</tt:p>
+<tt:p xml:id="sub182" style="textCenter" region="bottom" begin="00:11:34.400"
+end="00:11:36.320">
+<tt:span style="textWhite">dazu mehr auf tagesschau.de.</tt:span>
+</tt:p>
+<tt:p xml:id="sub183" style="textCenter" region="bottom" begin="00:11:38.320"
+end="00:11:42.400">
+<tt:span style="textWhite">Auf den Philippinen haben sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nach dem Ausbruch des Taal</tt:span>
+</tt:p>
+<tt:p xml:id="sub184" style="textCenter" region="bottom" begin="00:11:42.480"
+end="00:11:44.960">
+<tt:span style="textWhite">Zehntausende in Sicherheit gebracht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub185" style="textCenter" region="bottom" begin="00:11:45.000"
+end="00:11:48.040">
+<tt:span style="textWhite">Gestern stieg</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine kilometerhohe Aschewolke auf</tt:span>
+</tt:p>
+<tt:p xml:id="sub186" style="textCenter" region="bottom" begin="00:11:48.120"
+end="00:11:50.640">
+<tt:span style="textWhite">in der</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei Touristen beliebten Region.</tt:span>
+</tt:p>
+<tt:p xml:id="sub187" style="textCenter" region="bottom" begin="00:11:50.720"
+end="00:11:55.120">
+<tt:span style="textWhite">Die Philippinen liegen im Pazifik</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in einer geologisch regen Zone.</tt:span>
+</tt:p>
+<tt:p xml:id="sub188" style="textCenter" region="bottom" begin="00:11:55.200"
+end="00:11:57.880">
+<tt:span style="textWhite">Der Taal, 60 km südlich von Manila,</tt:span>
+</tt:p>
+<tt:p xml:id="sub189" style="textCenter" region="bottom" begin="00:11:58.000"
+end="00:12:02.000">
+<tt:span style="textWhite">ist dort einer der aktivsten Vulkane</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und ist von einem See umgeben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub190" style="textCenter" region="bottom" begin="00:12:02.800"
+end="00:12:07.320">
+<tt:span style="textWhite">Der Taal spuckt Asche, Zehntausende</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bringen sich in Sicherheit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub191" style="textCenter" region="bottom" begin="00:12:08.280"
+end="00:12:12.680">
+<tt:span style="textWhite">Und die Behörden warnen vor</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einer noch gefährlicheren Eruption.</tt:span>
+</tt:p>
+<tt:p xml:id="sub192" style="textCenter" region="bottom" begin="00:12:14.280"
+end="00:12:16.600">
+<tt:span style="textWhite">Der Ausbruch begann am Sonntag.</tt:span>
+</tt:p>
+<tt:p xml:id="sub193" style="textCenter" region="bottom" begin="00:12:16.680"
+end="00:12:18.520">
+<tt:span style="textWhite">Die 15 km hohe Aschesäule</tt:span>
+</tt:p>
+<tt:p xml:id="sub194" style="textCenter" region="bottom" begin="00:12:18.600"
+end="00:12:22.360">
+<tt:span style="textWhite">war begleitet von Erdstößen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und atmosphärischen Blitzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub195" style="textCenter" region="bottom" begin="00:12:23.400"
+end="00:12:27.880">
+<tt:span style="textWhite">Das seismologische Institut</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gab die zweithöchste Warnstufe aus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub196" style="textCenter" region="bottom" begin="00:12:30.960"
+end="00:12:32.560">
+<tt:span style="textYellow">Wir sind gegangen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub197" style="textCenter" region="bottom" begin="00:12:32.640"
+end="00:12:36.520">
+<tt:span style="textYellow">Die Kinder sollten nicht festsitzen,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wenn es schlimmer wird.</tt:span>
+</tt:p>
+<tt:p xml:id="sub198" style="textCenter" region="bottom" begin="00:12:36.600"
+end="00:12:38.880">
+<tt:span style="textYellow">Ich konnte nur wenig mitnehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub199" style="textCenter" region="bottom" begin="00:12:40.520"
+end="00:12:43.680">
+<tt:span style="textWhite">Rauchwolken,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Gesteinsbrocken, Lava-Fontänen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub200" style="textCenter" region="bottom" begin="00:12:43.960"
+end="00:12:47.200">
+<tt:span style="textWhite">Der Taal ist ein kleiner</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aktiver Vulkan.</tt:span>
+</tt:p>
+<tt:p xml:id="sub201" style="textCenter" region="bottom" begin="00:12:50.040"
+end="00:12:53.720">
+<tt:span style="textWhite">Der Flughafen in Manila</tt:span>
+<tt:br/>
+<tt:span style="textWhite">strich mehr als 200 Flüge.</tt:span>
+</tt:p>
+<tt:p xml:id="sub202" style="textCenter" region="bottom" begin="00:12:56.360"
+end="00:13:00.960">
+<tt:span style="textWhite">Schulen, Geschäfte und Behörden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">blieben vorübergehend geschlossen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub203" style="textCenter" region="bottom" begin="00:13:02.600"
+end="00:13:04.120">
+<tt:span style="textWhite">Bei der Handball-EM</tt:span>
+</tt:p>
+<tt:p xml:id="sub204" style="textCenter" region="bottom" begin="00:13:04.200"
+end="00:13:07.640">
+<tt:span style="textWhite">ist die deutsche Mannschaft</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in die Hauptrunde eingezogen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub205" style="textCenter" region="bottom" begin="00:13:07.720"
+end="00:13:11.680">
+<tt:span style="textWhite">Das Weiterkommen gelang durch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein 28:27 gegen Außenseiter Lettland.</tt:span>
+</tt:p>
+<tt:p xml:id="sub206" style="textCenter" region="bottom" begin="00:13:12.600"
+end="00:13:17.280">
+<tt:span style="textWhite">Zwei Tage nach dem schlechten Spiel</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen Spanien Grund zur Freude.</tt:span>
+</tt:p>
+<tt:p xml:id="sub207" style="textCenter" region="bottom" begin="00:13:17.760"
+end="00:13:22.360">
+<tt:span style="textWhite">Dabei präsentierte sich EM-Neuling</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Lettland zu Beginn spielstark,</tt:span>
+</tt:p>
+<tt:p xml:id="sub208" style="textCenter" region="bottom" begin="00:13:22.400"
+end="00:13:24.640">
+<tt:span style="textWhite">lag nach 11 Minuten 7:6 vorne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub209" style="textCenter" region="bottom" begin="00:13:25.000"
+end="00:13:28.280">
+<tt:span style="textWhite">Erst als sich Deutschland</tt:span>
+<tt:br/>
+<tt:span style="textWhite">defensiv steigerte,</tt:span>
+</tt:p>
+<tt:p xml:id="sub210" style="textCenter" region="bottom" begin="00:13:28.360"
+end="00:13:31.120">
+<tt:span style="textWhite">wurde sie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ihrer Favoritenrolle gerecht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub211" style="textCenter" region="bottom" begin="00:13:31.360"
+end="00:13:34.160">
+<tt:span style="textWhite">Immer wieder</tt:span>
+<tt:br/>
+<tt:span style="textWhite">schnelle Tempogegenstöße.</tt:span>
+</tt:p>
+<tt:p xml:id="sub212" style="textCenter" region="bottom" begin="00:13:35.560"
+end="00:13:40.000">
+<tt:span style="textWhite">Während Lettland immer häufiger</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an Torhüter Bitter scheiterte,</tt:span>
+</tt:p>
+<tt:p xml:id="sub213" style="textCenter" region="bottom" begin="00:13:40.080"
+end="00:13:44.000">
+<tt:span style="textWhite">traf Deutschlands wurfgewaltigster</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Spieler, wie er wollte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub214" style="textCenter" region="bottom" begin="00:13:44.080"
+end="00:13:47.480">
+<tt:span style="textWhite">Kühn mit seinem fünften Treffer,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">16:11 zur Pause.</tt:span>
+</tt:p>
+<tt:p xml:id="sub215" style="textCenter" region="bottom" begin="00:13:48.000"
+end="00:13:52.400">
+<tt:span style="textWhite">Am Ende gewann Deutschland trotz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">schwacher zweite Hälfte 28:27</tt:span>
+</tt:p>
+<tt:p xml:id="sub216" style="textCenter" region="bottom" begin="00:13:53.080"
+end="00:13:55.880">
+<tt:span style="textWhite">und erreichte damit die Hauptrunde.</tt:span>
+</tt:p>
+<tt:p xml:id="sub217" style="textCenter" region="bottom" begin="00:13:57.160"
+end="00:14:00.480">
+<tt:span style="textWhite">Dort trifft sie am Donnerstag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Wien auf Weißrussland.</tt:span>
+</tt:p>
+<tt:p xml:id="sub218" style="textCenter" region="bottom" begin="00:14:01.160"
+end="00:14:04.640">
+<tt:span style="textWhite">Die Wettervorhersage für morgen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Dienstag, den 14. Januar:</tt:span>
+</tt:p>
+<tt:p xml:id="sub219" style="textCenter" region="bottom" begin="00:14:05.320"
+end="00:14:09.040">
+<tt:span style="textWhite">Ausläufer des Orkantiefs</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zwischen Island und Schottland</tt:span>
+</tt:p>
+<tt:p xml:id="sub220" style="textCenter" region="bottom" begin="00:14:09.120"
+end="00:14:10.720">
+<tt:span style="textWhite">bestimmen unser Wetter.</tt:span>
+</tt:p>
+<tt:p xml:id="sub221" style="textCenter" region="bottom" begin="00:14:10.800"
+end="00:14:13.440">
+<tt:span style="textWhite">Der Südosten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">profitiert von einem Hoch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub222" style="textCenter" region="bottom" begin="00:14:13.480"
+end="00:14:16.600">
+<tt:span style="textWhite">Nach Mitternacht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Regen im Westen und Norden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub223" style="textCenter" region="bottom" begin="00:14:16.680"
+end="00:14:21.160">
+<tt:span style="textWhite">Am Tag im Nordwesten meist bedeckt,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sehr windig, zeitweise Regen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub224" style="textCenter" region="bottom" begin="00:14:22.560"
+end="00:14:26.840">
+<tt:span style="textWhite">Im Süden und Osten Wolken</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und Sonne, v.a. südlich der Donau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub225" style="textCenter" region="bottom" begin="00:14:37.560"
+end="00:14:39.760">
+<tt:span style="textWhite">Am Mittwoch ungewöhnlich mild.</tt:span>
+</tt:p>
+<tt:p xml:id="sub226" style="textCenter" region="bottom" begin="00:14:40.160"
+end="00:14:44.800">
+<tt:span style="textWhite">Im Nordwesten regnerisch und windig,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an der Nordsee auch stürmisch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub227" style="textCenter" region="bottom" begin="00:14:44.880"
+end="00:14:46.720">
+<tt:span style="textWhite">Sonst freundliche Momente.</tt:span>
+</tt:p>
+<tt:p xml:id="sub228" style="textCenter" region="bottom" begin="00:14:46.800"
+end="00:14:49.000">
+<tt:span style="textWhite">Am Donnerstag Sonne und Wolken,</tt:span>
+</tt:p>
+<tt:p xml:id="sub229" style="textCenter" region="bottom" begin="00:14:49.080"
+end="00:14:52.760">
+<tt:span style="textWhite">am Freitag nur im Osten und Südosten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">länger freundlich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub230" style="textCenter" region="bottom" begin="00:14:54.160"
+end="00:14:58.080">
+<tt:span style="textWhite">Um 22.15 Uhr hat Ingo Zamperoni</tt:span>
+<tt:br/>
+<tt:span style="textWhite">diese Tagesthemen für Sie:</tt:span>
+</tt:p>
+<tt:p xml:id="sub231" style="textCenter" region="bottom" begin="00:14:58.160"
+end="00:14:59.520">
+<tt:span style="textWhite">Mehrheiten gesucht:</tt:span>
+</tt:p>
+<tt:p xml:id="sub232" style="textCenter" region="bottom" begin="00:14:59.600"
+end="00:15:02.880">
+<tt:span style="textWhite">Rot-Rot-Grün in Thüringen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">will mit CDU reden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub233" style="textCenter" region="bottom" begin="00:15:03.360"
+end="00:15:05.440">
+<tt:span style="textWhite">Krisengipfel bei den Royals:</tt:span>
+</tt:p>
+<tt:p xml:id="sub234" style="textCenter" region="bottom" begin="00:15:05.520"
+end="00:15:09.080">
+<tt:span style="textWhite">Queen unterstützt Rückzugspläne</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Harry und Meghan.</tt:span>
+</tt:p>
+<tt:p xml:id="sub235" style="textCenter" region="bottom" begin="00:15:09.360"
+end="00:15:11.840">
+<tt:span style="textWhite">Ich wünsche einen schönen Abend.</tt:span>
+</tt:p>
+<tt:p xml:id="sub236" style="textCenter" region="bottom" begin="00:15:11.920"
+end="00:15:14.040">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2020</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>

@@ -1,0 +1,2281 @@
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt xmlns:tt="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ebuttm="urn:ebu:tt:metadata"
+ttp:timeBase="media"
+ttp:cellResolution="50 30"
+xml:lang="de">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style xml:id="defaultStyle"
+tts:fontFamily="Verdana,Arial,Tiresias"
+tts:fontSize="160%"
+tts:lineHeight="125%"/>
+<tt:style xml:id="textBlack"
+tts:color="#000000"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textRed"
+tts:color="#FF0000"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textGreen"
+tts:color="#00FF00"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textYellow"
+tts:color="#FFFF00"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textBlue"
+tts:color="#0000FF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textMagenta"
+tts:color="#FF00FF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCyan"
+tts:color="#00FFFF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textWhite"
+tts:color="#FFFFFF"
+tts:backgroundColor="#000000c2"/>
+<tt:style xml:id="textCenter" tts:textAlign="center"/>
+<tt:style xml:id="textLeft" tts:textAlign="left"/>
+<tt:style xml:id="textRight" tts:textAlign="right"/>
+</tt:styling>
+<tt:layout>
+<tt:region xml:id="top"
+tts:origin="10% 10%"
+tts:extent="80% 80%"
+tts:displayAlign="before"/>
+<tt:region xml:id="bottom"
+tts:origin="10% 10%"
+tts:extent="80% 80%"
+tts:displayAlign="after"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p xml:id="sub0"
+style="textCenter"
+region="bottom"
+begin="00:00:00.040"
+end="00:00:02.960"/>
+<tt:p xml:id="sub1"
+style="textCenter"
+region="bottom"
+begin="00:00:03.040"
+end="00:00:06.680">
+<tt:span style="textWhite">Hier ist das Erste Deutsche Fernsehen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit der tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub2"
+style="textCenter"
+region="bottom"
+begin="00:00:07.520"
+end="00:00:11.800">
+<tt:span style="textBlue">Diese Sendung wurde vom NDR</tt:span>
+<tt:br/>
+<tt:span style="textBlue">live untertitelt (12.04.2020)</tt:span>
+</tt:p>
+<tt:p xml:id="sub3"
+style="textCenter"
+region="bottom"
+begin="00:00:15.200"
+end="00:00:17.400">
+<tt:span style="textWhite">Heute im Studio: Linda Zervakis</tt:span>
+</tt:p>
+<tt:p xml:id="sub4"
+style="textCenter"
+region="bottom"
+begin="00:00:18.680"
+end="00:00:21.440">
+<tt:span style="textWhite">Guten Abend,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ich begrüße Sie zur tagesschau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub5"
+style="textCenter"
+region="bottom"
+begin="00:00:22.480"
+end="00:00:26.080">
+<tt:span style="textWhite">Vier Monate nach dem Auftreten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Corona-Virus in China</tt:span>
+</tt:p>
+<tt:p xml:id="sub6"
+style="textCenter"
+region="bottom"
+begin="00:00:26.160"
+end="00:00:30.280">
+<tt:span style="textWhite">sind mehr als 200 Länder und Regionen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von der Pandemie betroffen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub7"
+style="textCenter"
+region="bottom"
+begin="00:00:30.400"
+end="00:00:32.800">
+<tt:span style="textWhite">In Afrika ist die Zahl</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Infizierten</tt:span>
+</tt:p>
+<tt:p xml:id="sub8"
+style="textCenter"
+region="bottom"
+begin="00:00:32.880"
+end="00:00:36.240">
+<tt:span style="textWhite">mit offiziell 13.000</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bisher verhältnismäßig niedrig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub9"
+style="textCenter"
+region="bottom"
+begin="00:00:36.320"
+end="00:00:40.120">
+<tt:span style="textWhite">Experten wie der US-Milliardär</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Bill Gates gehen aber davon,</tt:span>
+</tt:p>
+<tt:p xml:id="sub10"
+style="textCenter"
+region="bottom"
+begin="00:00:40.200"
+end="00:00:44.200">
+<tt:span style="textWhite">dass die Ansteckungsrate dort</tt:span>
+<tt:br/>
+<tt:span style="textWhite">höher sein wird als in Europa.</tt:span>
+</tt:p>
+<tt:p xml:id="sub11"
+style="textCenter"
+region="bottom"
+begin="00:00:45.000"
+end="00:00:49.240">
+<tt:span style="textWhite">Die Gesundheitssysteme in Afrika</tt:span>
+<tt:br/>
+<tt:span style="textWhite">seien nicht so gut ausgebaut,</tt:span>
+</tt:p>
+<tt:p xml:id="sub12"
+style="textCenter"
+region="bottom"
+begin="00:00:49.320"
+end="00:00:51.280">
+<tt:span style="textWhite">sagte Gates den tagesthemen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub13"
+style="textCenter"
+region="bottom"
+begin="00:00:53.160"
+end="00:00:54.840">
+<tt:span style="textWhite">Geordnet soll es zugehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub14"
+style="textCenter"
+region="bottom"
+begin="00:00:55.480"
+end="00:00:58.560">
+<tt:span style="textWhite">Doch durch das Gitter</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sind sie kaum zu halten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub15"
+style="textCenter"
+region="bottom"
+begin="00:00:58.640"
+end="00:01:02.680">
+<tt:span style="textWhite">Die Not treibt die Menschen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in diesem Elendsviertel in Nairobi.</tt:span>
+</tt:p>
+<tt:p xml:id="sub16"
+style="textCenter"
+region="bottom"
+begin="00:01:02.720"
+end="00:01:05.800">
+<tt:span style="textWhite">Und das Wissen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dass es gleich Hilfspakete gibt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub17"
+style="textCenter"
+region="bottom"
+begin="00:01:08.400"
+end="00:01:12.680">
+<tt:span style="textYellow">Ich warte, damit meine Enkel</tt:span>
+<tt:br/>
+<tt:span style="textYellow">wieder was zu essen haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub18"
+style="textCenter"
+region="bottom"
+begin="00:01:13.920"
+end="00:01:16.480">
+<tt:span style="textWhite">Private Spenden,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nicht genug für alle.</tt:span>
+</tt:p>
+<tt:p xml:id="sub19"
+style="textCenter"
+region="bottom"
+begin="00:01:17.000"
+end="00:01:20.040">
+<tt:span style="textWhite">Im Kampf gegen Corona</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat Kenias Regierung</tt:span>
+</tt:p>
+<tt:p xml:id="sub20"
+style="textCenter"
+region="bottom"
+begin="00:01:20.080"
+end="00:01:23.240">
+<tt:span style="textWhite">die Bewegungsfreiheit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">seit Wochen eingeschränkt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub21"
+style="textCenter"
+region="bottom"
+begin="00:01:23.760"
+end="00:01:25.960">
+<tt:span style="textWhite">Es wird kaum noch Geld verdient.</tt:span>
+</tt:p>
+<tt:p xml:id="sub22"
+style="textCenter"
+region="bottom"
+begin="00:01:26.480"
+end="00:01:29.520">
+<tt:span style="textWhite">In den Armenviertel</tt:span>
+<tt:br/>
+<tt:span style="textWhite">geht das an die Substanz.</tt:span>
+</tt:p>
+<tt:p xml:id="sub23"
+style="textCenter"
+region="bottom"
+begin="00:01:29.600"
+end="00:01:32.680">
+<tt:span style="textWhite">Erspartes gibt es nicht.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Es fehlt Geld fürs Essen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub24"
+style="textCenter"
+region="bottom"
+begin="00:01:33.000"
+end="00:01:34.960">
+<tt:span style="textWhite">Seife, fließendes Wasser:</tt:span>
+</tt:p>
+<tt:p xml:id="sub25"
+style="textCenter"
+region="bottom"
+begin="00:01:35.040"
+end="00:01:38.520">
+<tt:span style="textWhite">Alles kostet Geld -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mehr als vor Ausbruch der Seuche.</tt:span>
+</tt:p>
+<tt:p xml:id="sub26"
+style="textCenter"
+region="bottom"
+begin="00:01:39.600"
+end="00:01:43.120">
+<tt:span style="textWhite">Den meisten afrikanischen Staaten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">geht es nicht besser.</tt:span>
+</tt:p>
+<tt:p xml:id="sub27"
+style="textCenter"
+region="bottom"
+begin="00:01:43.200"
+end="00:01:47.080">
+<tt:span style="textWhite">Sie sind hoch verschuldet,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">das Gesundheitssystem ist schlecht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub28"
+style="textCenter"
+region="bottom"
+begin="00:01:47.160"
+end="00:01:50.720">
+<tt:span style="textWhite">Steigen die Corona-Fallzahlen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">droht der Zusammenbruch.</tt:span>
+</tt:p>
+<tt:p xml:id="sub29"
+style="textCenter"
+region="bottom"
+begin="00:01:50.800"
+end="00:01:53.800">
+<tt:span style="textWhite">Im Kampf um Schutzmasken</tt:span>
+<tt:br/>
+<tt:span style="textWhite">oder Beatmungsgeräte</tt:span>
+</tt:p>
+<tt:p xml:id="sub30"
+style="textCenter"
+region="bottom"
+begin="00:01:53.880"
+end="00:01:57.480">
+<tt:span style="textWhite">ist Afrika reichen Ländern</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hoffnungslos unterlegen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub31"
+style="textCenter"
+region="bottom"
+begin="00:01:58.760"
+end="00:02:01.520">
+<tt:span style="textWhite">Bill Gates</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und seine Frau Melinda fordern:</tt:span>
+</tt:p>
+<tt:p xml:id="sub32"
+style="textCenter"
+region="bottom"
+begin="00:02:01.640"
+end="00:02:05.320">
+<tt:span style="textWhite">Die Industrieländer müssten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ihre Egoismen beiseite scheiben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub33"
+style="textCenter"
+region="bottom"
+begin="00:02:05.600"
+end="00:02:09.320">
+<tt:span style="textWhite">Das Ehepaar unterhält</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die größte Privatstiftung der Welt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub34"
+style="textCenter"
+region="bottom"
+begin="00:02:09.400"
+end="00:02:12.400">
+<tt:span style="textWhite">Die engagiert sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auch für Projekte on Afrika.</tt:span>
+</tt:p>
+<tt:p xml:id="sub35"
+style="textCenter"
+region="bottom"
+begin="00:02:12.480"
+end="00:02:15.560">
+<tt:span style="textWhite">Sie plädieren</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für mehr Zusammenarbeit der Staaten</tt:span>
+</tt:p>
+<tt:p xml:id="sub36"
+style="textCenter"
+region="bottom"
+begin="00:02:15.640"
+end="00:02:18.120">
+<tt:span style="textWhite">und der Weltgesundheitsorganisation,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">WHO.</tt:span>
+</tt:p>
+<tt:p xml:id="sub37"
+style="textCenter"
+region="bottom"
+begin="00:02:18.400"
+end="00:02:22.760">
+<tt:span style="textYellow">Noch ist die Zahl der Infizierten</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in Entwicklungsländern niedrig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub38"
+style="textCenter"
+region="bottom"
+begin="00:02:22.880"
+end="00:02:24.800">
+<tt:span style="textYellow">Aber es ist wahrscheinlich,</tt:span>
+</tt:p>
+<tt:p xml:id="sub39"
+style="textCenter"
+region="bottom"
+begin="00:02:24.880"
+end="00:02:29.400">
+<tt:span style="textYellow">dass dort in den nächsten Monaten</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Epizentren der Epidemie liegen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub40"
+style="textCenter"
+region="bottom"
+begin="00:02:30.080"
+end="00:02:32.760">
+<tt:span style="textWhite">Die Corona-Pandemie</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als globales Problem.</tt:span>
+</tt:p>
+<tt:p xml:id="sub41"
+style="textCenter"
+region="bottom"
+begin="00:02:33.080"
+end="00:02:37.360">
+<tt:span style="textWhite">Das löst sich nur mit massiver Hilfe</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für Entwicklungsländer lösen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub42"
+style="textCenter"
+region="bottom"
+begin="00:02:38.800"
+end="00:02:42.160">
+<tt:span style="textWhite">Das ausführliche Interview</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit Bill Gates können Sie</tt:span>
+</tt:p>
+<tt:p xml:id="sub43"
+style="textCenter"
+region="bottom"
+begin="00:02:42.240"
+end="00:02:44.880">
+<tt:span style="textWhite">heute um 21.45 Uhr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in den Tagesthemen sehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub44"
+style="textCenter"
+region="bottom"
+begin="00:02:46.040"
+end="00:02:49.800">
+<tt:span style="textWhite">Papst Franziskus hat in</tt:span>
+<tt:br/>
+<tt:span style="textWhite">seiner Osterbotschaft aufgerufen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub45"
+style="textCenter"
+region="bottom"
+begin="00:02:49.880"
+end="00:02:53.120">
+<tt:span style="textWhite">in der Krise</tt:span>
+<tt:br/>
+<tt:span style="textWhite">international Solidarität zu zeigen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub46"
+style="textCenter"
+region="bottom"
+begin="00:02:53.200"
+end="00:02:55.400">
+<tt:span style="textWhite">Bei der Messe im Petersdom in Rom</tt:span>
+</tt:p>
+<tt:p xml:id="sub47"
+style="textCenter"
+region="bottom"
+begin="00:02:55.440"
+end="00:02:59.360">
+<tt:span style="textWhite">forderte er u.a. einen Schuldenerlass</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für die ärmsten Länder.</tt:span>
+</tt:p>
+<tt:p xml:id="sub48"
+style="textCenter"
+region="bottom"
+begin="00:02:59.440"
+end="00:03:03.160">
+<tt:span style="textWhite">Jetzt sei nicht die Zeit</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für Gleichgültigkeit und Egoismus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub49"
+style="textCenter"
+region="bottom"
+begin="00:03:03.280"
+end="00:03:05.720">
+<tt:span style="textWhite">Die Zeremonie fand wegen der Pandemie</tt:span>
+</tt:p>
+<tt:p xml:id="sub50"
+style="textCenter"
+region="bottom"
+begin="00:03:05.800"
+end="00:03:09.080">
+<tt:span style="textWhite">ohne die sonst üblichen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Zehntausenden Gläubigen statt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub51"
+style="textCenter"
+region="bottom"
+begin="00:03:09.160"
+end="00:03:10.960">
+<tt:span style="textWhite">Sie wurde live übertragen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub52"
+style="textCenter"
+region="bottom"
+begin="00:03:13.560"
+end="00:03:16.680">
+<tt:span style="textWhite">Wieder ohne Gläubige</tt:span>
+<tt:br/>
+<tt:span style="textWhite">und mit großem Abstand</tt:span>
+</tt:p>
+<tt:p xml:id="sub53"
+style="textCenter"
+region="bottom"
+begin="00:03:16.760"
+end="00:03:21.040">
+<tt:span style="textWhite">feiert Papst Franziskus im kleinen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Kreis die Ostermesse im Petersdom.</tt:span>
+</tt:p>
+<tt:p xml:id="sub54"
+style="textCenter"
+region="bottom"
+begin="00:03:21.480"
+end="00:03:24.240">
+<tt:span style="textWhite">Auch heute bleibt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bei den Feierlichkeiten</tt:span>
+</tt:p>
+<tt:p xml:id="sub55"
+style="textCenter"
+region="bottom"
+begin="00:03:24.320"
+end="00:03:26.720">
+<tt:span style="textWhite">die Corona-Pandemie zentrales Thema.</tt:span>
+</tt:p>
+<tt:p xml:id="sub56"
+style="textCenter"
+region="bottom"
+begin="00:03:28.400"
+end="00:03:32.400">
+<tt:span style="textWhite">Der Pontifex spendet zum zweiten Mal</tt:span>
+<tt:br/>
+<tt:span style="textWhite">innerhalb kürzester Zeit</tt:span>
+</tt:p>
+<tt:p xml:id="sub57"
+style="textCenter"
+region="bottom"
+begin="00:03:32.480"
+end="00:03:35.880">
+<tt:span style="textWhite">den Segen Urbi et Orbi,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">der Stadt und dem Erdkreis.</tt:span>
+</tt:p>
+<tt:p xml:id="sub58"
+style="textCenter"
+region="bottom"
+begin="00:03:41.360"
+end="00:03:45.000">
+<tt:span style="textWhite">Er betet für die Kranken,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Schwachen, Pflegende, Ärzte –</tt:span>
+</tt:p>
+<tt:p xml:id="sub59"
+style="textCenter"
+region="bottom"
+begin="00:03:45.080"
+end="00:03:47.920">
+<tt:span style="textWhite">alle, die täglich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gegen die Pandemie kämpfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub60"
+style="textCenter"
+region="bottom"
+begin="00:03:48.640"
+end="00:03:53.040">
+<tt:span style="textWhite">Er appelliert an die Regierungen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ihren Landsleuten in Not zu helfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub61"
+style="textCenter"
+region="bottom"
+begin="00:03:53.440"
+end="00:03:55.960">
+<tt:span style="textWhite">Viele Menschen hätten Existenzängste.</tt:span>
+</tt:p>
+<tt:p xml:id="sub62"
+style="textCenter"
+region="bottom"
+begin="00:03:58.320"
+end="00:04:02.880">
+<tt:span style="textYellow">Die Europäische Union steht</tt:span>
+<tt:br/>
+<tt:span style="textYellow">vor einer epochalen Herausforderung,</tt:span>
+</tt:p>
+<tt:p xml:id="sub63"
+style="textCenter"
+region="bottom"
+begin="00:04:02.960"
+end="00:04:07.360">
+<tt:span style="textYellow">von der nicht nur ihre Zukunft,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sondern die der ganzen Welt abhängt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub64"
+style="textCenter"
+region="bottom"
+begin="00:04:08.640"
+end="00:04:11.640">
+<tt:span style="textYellow">Lasst uns nicht</tt:span>
+<tt:br/>
+<tt:span style="textYellow">die Gelegenheit versäumen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub65"
+style="textCenter"
+region="bottom"
+begin="00:04:11.720"
+end="00:04:14.560">
+<tt:span style="textYellow">einen Beweis der Solidarität</tt:span>
+<tt:br/>
+<tt:span style="textYellow">zu erbringen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub66"
+style="textCenter"
+region="bottom"
+begin="00:04:14.640"
+end="00:04:17.720">
+<tt:span style="textYellow">Auch wenn wir dazu</tt:span>
+<tt:br/>
+<tt:span style="textYellow">neue Wege einschlagen müssen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub67"
+style="textCenter"
+region="bottom"
+begin="00:04:18.120"
+end="00:04:22.080">
+<tt:span style="textYellow">Als Alternative bleibt nur</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ein Egoismus der Einzelinteressen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub68"
+style="textCenter"
+region="bottom"
+begin="00:04:27.280"
+end="00:04:30.720">
+<tt:span style="textWhite">Papst Franziskus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">betet auch für Krisenregionen:</tt:span>
+</tt:p>
+<tt:p xml:id="sub69"
+style="textCenter"
+region="bottom"
+begin="00:04:30.800"
+end="00:04:34.440">
+<tt:span style="textWhite">Syrien, Jemen, den Irak</tt:span>
+<tt:br/>
+<tt:span style="textWhite">oder viele afrikanische Staaten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub70"
+style="textCenter"
+region="bottom"
+begin="00:04:34.760"
+end="00:04:37.840">
+<tt:span style="textWhite">Er mahnt,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">internationale Sanktionen zu lockern</tt:span>
+</tt:p>
+<tt:p xml:id="sub71"
+style="textCenter"
+region="bottom"
+begin="00:04:37.920"
+end="00:04:39.680">
+<tt:span style="textWhite">und Schulden zu erlassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub72"
+style="textCenter"
+region="bottom"
+begin="00:04:40.200"
+end="00:04:42.480">
+<tt:span style="textWhite">Und er erinnert an die Menschen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub73"
+style="textCenter"
+region="bottom"
+begin="00:04:42.560"
+end="00:04:46.160">
+<tt:span style="textWhite">die wegen Krieg, Terror oder Hunger</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf der Flucht sind.</tt:span>
+</tt:p>
+<tt:p xml:id="sub74"
+style="textCenter"
+region="bottom"
+begin="00:04:46.240"
+end="00:04:49.800">
+<tt:span style="textWhite">Er hofft, dass vielerorts</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Konflikte gelöst werden können.</tt:span>
+</tt:p>
+<tt:p xml:id="sub75"
+style="textCenter"
+region="bottom"
+begin="00:04:51.000"
+end="00:04:52.600">
+<tt:span style="textWhite">Die Ewige Stadt heute:</tt:span>
+</tt:p>
+<tt:p xml:id="sub76"
+style="textCenter"
+region="bottom"
+begin="00:04:52.680"
+end="00:04:55.600">
+<tt:span style="textWhite">So hat Rom am Ostersonntag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">noch nie ausgesehen -</tt:span>
+</tt:p>
+<tt:p xml:id="sub77"
+style="textCenter"
+region="bottom"
+begin="00:04:55.680"
+end="00:04:56.920">
+<tt:span style="textWhite">eine Geisterstadt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub78"
+style="textCenter"
+region="bottom"
+begin="00:04:57.160"
+end="00:04:59.120">
+<tt:span style="textWhite">Es herrscht Ausgangssperre.</tt:span>
+</tt:p>
+<tt:p xml:id="sub79"
+style="textCenter"
+region="bottom"
+begin="00:04:59.240"
+end="00:05:02.200">
+<tt:span style="textWhite">In der Touristen-Stadt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gibt es keine Touristen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub80"
+style="textCenter"
+region="bottom"
+begin="00:05:02.280"
+end="00:05:06.160">
+<tt:span style="textWhite">Sonst zog es Hunderttausende</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zu den kirchlichen Feiertagen her.</tt:span>
+</tt:p>
+<tt:p xml:id="sub81"
+style="textCenter"
+region="bottom"
+begin="00:05:06.520"
+end="00:05:08.120">
+<tt:span style="textWhite">Nicht so in diesem Jahr.</tt:span>
+</tt:p>
+<tt:p xml:id="sub82"
+style="textCenter"
+region="bottom"
+begin="00:05:08.480"
+end="00:05:12.520">
+<tt:span style="textWhite">Für viele Bürger Roms ist das</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine wirtschaftliche Katastrophe.</tt:span>
+</tt:p>
+<tt:p xml:id="sub83"
+style="textCenter"
+region="bottom"
+begin="00:05:12.600"
+end="00:05:14.320">
+<tt:span style="textWhite">Sie leben vom Tourismus.</tt:span>
+</tt:p>
+<tt:p xml:id="sub84"
+style="textCenter"
+region="bottom"
+begin="00:05:14.400"
+end="00:05:16.760">
+<tt:span style="textWhite">Unmittelbar betroffen:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Hotellerie.</tt:span>
+</tt:p>
+<tt:p xml:id="sub85"
+style="textCenter"
+region="bottom"
+begin="00:05:17.120"
+end="00:05:21.080">
+<tt:span style="textWhite">Das Hotel Bramante liegt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen Steinwurf vom Vatikan entfernt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub86"
+style="textCenter"
+region="bottom"
+begin="00:05:21.200"
+end="00:05:24.440">
+<tt:span style="textWhite">Normalerweise ist das Haus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">rund um Ostern ausgebucht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub87"
+style="textCenter"
+region="bottom"
+begin="00:05:24.520"
+end="00:05:25.880">
+<tt:span style="textWhite">Jetzt steht es leer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub88"
+style="textCenter"
+region="bottom"
+begin="00:05:26.920"
+end="00:05:30.040">
+<tt:span style="textYellow">Unseren größten Umsatz</tt:span>
+<tt:br/>
+<tt:span style="textYellow">machen wir normalerweise</tt:span>
+</tt:p>
+<tt:p xml:id="sub89"
+style="textCenter"
+region="bottom"
+begin="00:05:30.120"
+end="00:05:32.400">
+<tt:span style="textYellow">im April, Mai und im Oktober.</tt:span>
+</tt:p>
+<tt:p xml:id="sub90"
+style="textCenter"
+region="bottom"
+begin="00:05:32.480"
+end="00:05:36.000">
+<tt:span style="textYellow">Ich fürchte, wir werden</tt:span>
+<tt:br/>
+<tt:span style="textYellow">auch im Herbst keine Gäste haben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub91"
+style="textCenter"
+region="bottom"
+begin="00:05:36.280"
+end="00:05:40.160">
+<tt:span style="textWhite">Seit vier Generationen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">betreibt Familie Mariani ihr Hotel.</tt:span>
+</tt:p>
+<tt:p xml:id="sub92"
+style="textCenter"
+region="bottom"
+begin="00:05:40.200"
+end="00:05:44.120">
+<tt:span style="textWhite">Das Ausbleiben der Touristen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bedroht die Zukunft des Betriebs.</tt:span>
+</tt:p>
+<tt:p xml:id="sub93"
+style="textCenter"
+region="bottom"
+begin="00:05:44.480"
+end="00:05:46.280">
+<tt:span style="textYellow">Wir haben das Haus gemietet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub94"
+style="textCenter"
+region="bottom"
+begin="00:05:46.680"
+end="00:05:49.320">
+<tt:span style="textYellow">Die Märzmiete</tt:span>
+<tt:br/>
+<tt:span style="textYellow">konnten wir noch bezahlen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub95"
+style="textCenter"
+region="bottom"
+begin="00:05:49.400"
+end="00:05:52.200">
+<tt:span style="textYellow">Im April</tt:span>
+<tt:br/>
+<tt:span style="textYellow">konnten wir nicht mehr überweisen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub96"
+style="textCenter"
+region="bottom"
+begin="00:05:53.240"
+end="00:05:57.120">
+<tt:span style="textWhite">Mauro Pizzuti betreibt ein Restaurant</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an der Piazza Navona:</tt:span>
+</tt:p>
+<tt:p xml:id="sub97"
+style="textCenter"
+region="bottom"
+begin="00:05:57.200"
+end="00:06:01.280">
+<tt:span style="textWhite">Normalerweise ein Touristenmagnet,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">heute menschenleer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub98"
+style="textCenter"
+region="bottom"
+begin="00:06:04.320"
+end="00:06:07.800">
+<tt:span style="textYellow">In 30 Jahren habe ich hier</tt:span>
+<tt:br/>
+<tt:span style="textYellow">so etwas noch nicht gesehen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub99"
+style="textCenter"
+region="bottom"
+begin="00:06:09.160"
+end="00:06:12.160">
+<tt:span style="textYellow">Es ist hart, wirklich hart.</tt:span>
+</tt:p>
+<tt:p xml:id="sub100"
+style="textCenter"
+region="bottom"
+begin="00:06:14.280"
+end="00:06:15.440">
+<tt:span style="textWhite">Rom zu Ostern:</tt:span>
+</tt:p>
+<tt:p xml:id="sub101"
+style="textCenter"
+region="bottom"
+begin="00:06:15.520"
+end="00:06:19.320">
+<tt:span style="textWhite">Die sonst so pulsierende Stadt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist still geworden –</tt:span>
+</tt:p>
+<tt:p xml:id="sub102"
+style="textCenter"
+region="bottom"
+begin="00:06:19.400"
+end="00:06:21.280">
+<tt:span style="textWhite">beinahe erschreckend still.</tt:span>
+</tt:p>
+<tt:p xml:id="sub103"
+style="textCenter"
+region="bottom"
+begin="00:06:23.360"
+end="00:06:27.360">
+<tt:span style="textWhite">Flächendeckende Tests sollten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Voraussetzung für eine Lockerung</tt:span>
+</tt:p>
+<tt:p xml:id="sub104"
+style="textCenter"
+region="bottom"
+begin="00:06:27.440"
+end="00:06:31.440">
+<tt:span style="textWhite">der Schutzmaßnahmen sein,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">fordert der Städte- und Gemeindebund.</tt:span>
+</tt:p>
+<tt:p xml:id="sub105"
+style="textCenter"
+region="bottom"
+begin="00:06:31.520"
+end="00:06:35.280">
+<tt:span style="textWhite">Hauptgeschäftsführer Landsberg</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sagte der "Funke"-Mediengruppe:</tt:span>
+</tt:p>
+<tt:p xml:id="sub106"
+style="textCenter"
+region="bottom"
+begin="00:06:35.400"
+end="00:06:37.400">
+<tt:span style="textWhite">Kontaktpersonen von Infizierten</tt:span>
+</tt:p>
+<tt:p xml:id="sub107"
+style="textCenter"
+region="bottom"
+begin="00:06:37.520"
+end="00:06:41.080">
+<tt:span style="textWhite">müssten innerhalb eines Tages</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gefunden und getestet werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub108"
+style="textCenter"
+region="bottom"
+begin="00:06:41.440"
+end="00:06:44.680">
+<tt:span style="textWhite">In Deutschland haben sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">laut Robert Koch-Institut</tt:span>
+</tt:p>
+<tt:p xml:id="sub109"
+style="textCenter"
+region="bottom"
+begin="00:06:44.760"
+end="00:06:46.520">
+<tt:span style="textWhite">120.479 Menschen angesteckt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub110"
+style="textCenter"
+region="bottom"
+begin="00:06:47.360"
+end="00:06:49.120">
+<tt:span style="textWhite">2.821 mehr als gestern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub111"
+style="textCenter"
+region="bottom"
+begin="00:06:51.000"
+end="00:06:54.240">
+<tt:span style="textWhite">Insgesamt 2.673 Menschen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sind gestorben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub112"
+style="textCenter"
+region="bottom"
+begin="00:06:55.560"
+end="00:06:59.880">
+<tt:span style="textWhite">Inzwischen genesen sind 60.200,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">fast die Hälfte aller Infizierten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub113"
+style="textCenter"
+region="bottom"
+begin="00:07:02.240"
+end="00:07:03.720">
+<tt:span style="textWhite">Ostersonntag am Meer,</tt:span>
+</tt:p>
+<tt:p xml:id="sub114"
+style="textCenter"
+region="bottom"
+begin="00:07:03.800"
+end="00:07:07.160">
+<tt:span style="textWhite">ohne Tagesauflügler,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Touristen und Ferienhausbesitzer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub115"
+style="textCenter"
+region="bottom"
+begin="00:07:07.280"
+end="00:07:11.000">
+<tt:span style="textWhite">Das Einreiseverbot in</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Schleswig-Holstein hat abgeschreckt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub116"
+style="textCenter"
+region="bottom"
+begin="00:07:11.080"
+end="00:07:14.240">
+<tt:span style="textWhite">Der Strand in St. Peter-Ording</tt:span>
+<tt:br/>
+<tt:span style="textWhite">beinahe verwaist.</tt:span>
+</tt:p>
+<tt:p xml:id="sub117"
+style="textCenter"
+region="bottom"
+begin="00:07:16.000"
+end="00:07:19.560">
+<tt:span style="textYellow">Es ist gespenstisch</tt:span>
+<tt:br/>
+<tt:span style="textYellow">mit so wenig Gästen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub118"
+style="textCenter"
+region="bottom"
+begin="00:07:21.800"
+end="00:07:25.440">
+<tt:span style="textYellow">aber es konzentriert sich,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und die gehen weit auseinander.</tt:span>
+</tt:p>
+<tt:p xml:id="sub119"
+style="textCenter"
+region="bottom"
+begin="00:07:27.640"
+end="00:07:30.080">
+<tt:span style="textYellow">Wir müssen das Beste draus machen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub120"
+style="textCenter"
+region="bottom"
+begin="00:07:30.400"
+end="00:07:32.880">
+<tt:span style="textWhite">Auch in Bayern gelten strenge Regeln.</tt:span>
+</tt:p>
+<tt:p xml:id="sub121"
+style="textCenter"
+region="bottom"
+begin="00:07:32.960"
+end="00:07:37.480">
+<tt:span style="textWhite">Rund um den Ammersee ist wenig los,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Paddeln mit Familie ist aber erlaubt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub122"
+style="textCenter"
+region="bottom"
+begin="00:07:37.560"
+end="00:07:40.120">
+<tt:span style="textWhite">Überall in Deutschland</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wacht die Polizei</tt:span>
+</tt:p>
+<tt:p xml:id="sub123"
+style="textCenter"
+region="bottom"
+begin="00:07:40.200"
+end="00:07:42.240">
+<tt:span style="textWhite">über die Einhaltung der Regeln.</tt:span>
+</tt:p>
+<tt:p xml:id="sub124"
+style="textCenter"
+region="bottom"
+begin="00:07:42.560"
+end="00:07:46.400">
+<tt:span style="textWhite">Deutlich voller ist es nachmittags</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in den Berliner Parks.</tt:span>
+</tt:p>
+<tt:p xml:id="sub125"
+style="textCenter"
+region="bottom"
+begin="00:07:46.480"
+end="00:07:50.560">
+<tt:span style="textWhite">Die meisten halten Abstand,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bisher wenig zu tun für die Polizei.</tt:span>
+</tt:p>
+<tt:p xml:id="sub126"
+style="textCenter"
+region="bottom"
+begin="00:07:52.000"
+end="00:07:55.280">
+<tt:span style="textYellow">Wir erfahren viel Verständnis</tt:span>
+<tt:br/>
+<tt:span style="textYellow">und viel Akzeptanz -</tt:span>
+</tt:p>
+<tt:p xml:id="sub127"
+style="textCenter"
+region="bottom"
+begin="00:07:56.800"
+end="00:07:59.920">
+<tt:span style="textYellow">es wird auch</tt:span>
+<tt:br/>
+<tt:span style="textYellow">umgehend Folge geleistet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub128"
+style="textCenter"
+region="bottom"
+begin="00:08:01.160"
+end="00:08:03.520">
+<tt:span style="textYellow">Natürlich gibt es immer Ausnahmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub129"
+style="textCenter"
+region="bottom"
+begin="00:08:05.840"
+end="00:08:08.960">
+<tt:span style="textYellow">Das sind glücklicherweise</tt:span>
+<tt:br/>
+<tt:span style="textYellow">aber einzelne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub130"
+style="textCenter"
+region="bottom"
+begin="00:08:10.440"
+end="00:08:13.080">
+<tt:span style="textWhite">Bundesweite Kontaktbeschränkungen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub131"
+style="textCenter"
+region="bottom"
+begin="00:08:13.160"
+end="00:08:16.920">
+<tt:span style="textWhite">Das sei keine Dauerlösung,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sagt NRWs Ministerpräsident:</tt:span>
+</tt:p>
+<tt:p xml:id="sub132"
+style="textCenter"
+region="bottom"
+begin="00:08:18.880"
+end="00:08:23.560">
+<tt:span style="textYellow">Die Bereitschaft zum Verzicht</tt:span>
+<tt:br/>
+<tt:span style="textYellow">braucht Aussicht auf Normalisierung.</tt:span>
+</tt:p>
+<tt:p xml:id="sub133"
+style="textCenter"
+region="bottom"
+begin="00:08:25.080"
+end="00:08:28.160">
+<tt:span style="textYellow">Wir benötigen einen Fahrplan,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">der uns den Weg</tt:span>
+</tt:p>
+<tt:p xml:id="sub134"
+style="textCenter"
+region="bottom"
+begin="00:08:28.240"
+end="00:08:32.280">
+<tt:span style="textYellow">in eine verantwortungsvolle</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Normalität zeigt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub135"
+style="textCenter"
+region="bottom"
+begin="00:08:33.400"
+end="00:08:37.640">
+<tt:span style="textWhite">Am Mittwoch wollen Bund und Länder</tt:span>
+<tt:br/>
+<tt:span style="textWhite">über erste Lockerungen beraten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub136"
+style="textCenter"
+region="bottom"
+begin="00:08:37.720"
+end="00:08:39.360">
+<tt:span style="textYellow">Klar ist die Botschaft:</tt:span>
+</tt:p>
+<tt:p xml:id="sub137"
+style="textCenter"
+region="bottom"
+begin="00:08:40.640"
+end="00:08:43.160">
+<tt:span style="textYellow">Mit jeder Lockerung muss klar sein,</tt:span>
+</tt:p>
+<tt:p xml:id="sub138"
+style="textCenter"
+region="bottom"
+begin="00:08:43.240"
+end="00:08:46.000">
+<tt:span style="textYellow">Hygiene muss</tt:span>
+<tt:br/>
+<tt:span style="textYellow">besonders beachtet werden.</tt:span>
+</tt:p>
+<tt:p xml:id="sub139"
+style="textCenter"
+region="bottom"
+begin="00:08:46.080"
+end="00:08:47.720">
+<tt:span style="textYellow">Vor allem Abstand halten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub140"
+style="textCenter"
+region="bottom"
+begin="00:08:48.120"
+end="00:08:50.720">
+<tt:span style="textWhite">Das scheint</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an den Ostertagen zu gelingen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub141"
+style="textCenter"
+region="bottom"
+begin="00:08:50.800"
+end="00:08:52.320">
+<tt:span style="textWhite">Auch die Kirchen leer,</tt:span>
+</tt:p>
+<tt:p xml:id="sub142"
+style="textCenter"
+region="bottom"
+begin="00:08:52.400"
+end="00:08:55.560">
+<tt:span style="textWhite">EKD-Ratsvorsitzender Bedford-Strohm</tt:span>
+<tt:br/>
+<tt:span style="textWhite">predigt online.</tt:span>
+</tt:p>
+<tt:p xml:id="sub143"
+style="textCenter"
+region="bottom"
+begin="00:08:55.640"
+end="00:08:59.680">
+<tt:span style="textWhite">Eine Berliner Kirchengemeinde</tt:span>
+<tt:br/>
+<tt:span style="textWhite">distanziert sich auf andere Weise.</tt:span>
+</tt:p>
+<tt:p xml:id="sub144"
+style="textCenter"
+region="bottom"
+begin="00:08:59.760"
+end="00:09:01.880">
+<tt:span style="textWhite">Die Botschaft kommt trotzdem an.</tt:span>
+</tt:p>
+<tt:p xml:id="sub145"
+style="textCenter"
+region="bottom"
+begin="00:09:03.160"
+end="00:09:06.560">
+<tt:span style="textWhite">Auch im Heiligen Land</tt:span>
+<tt:br/>
+<tt:span style="textWhite">beeinträchtigt die Corona-Krise</tt:span>
+</tt:p>
+<tt:p xml:id="sub146"
+style="textCenter"
+region="bottom"
+begin="00:09:06.640"
+end="00:09:08.240">
+<tt:span style="textWhite">die Osterfeierlichkeiten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub147"
+style="textCenter"
+region="bottom"
+begin="00:09:08.320"
+end="00:09:12.240">
+<tt:span style="textWhite">In Jerusalem durften Gläubige</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zum ersten Mal seit über 100 Jahren</tt:span>
+</tt:p>
+<tt:p xml:id="sub148"
+style="textCenter"
+region="bottom"
+begin="00:09:12.320"
+end="00:09:15.760">
+<tt:span style="textWhite">an einem Ostersonntag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Grabeskirche nicht betreten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub149"
+style="textCenter"
+region="bottom"
+begin="00:09:15.880"
+end="00:09:20.120">
+<tt:span style="textWhite">Viertel der Altstadt, die v.a. von</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ultraorthodoxen Juden bewohnt werden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub150"
+style="textCenter"
+region="bottom"
+begin="00:09:20.200"
+end="00:09:22.680">
+<tt:span style="textWhite">stehen seit heute Mittag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">unter Quarantäne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub151"
+style="textCenter"
+region="bottom"
+begin="00:09:23.520"
+end="00:09:26.800">
+<tt:span style="textWhite">In ganz Israel gilt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in der Öffentlichkeit die Pflicht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub152"
+style="textCenter"
+region="bottom"
+begin="00:09:26.880"
+end="00:09:28.360">
+<tt:span style="textWhite">Schutzmasken zu tragen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub153"
+style="textCenter"
+region="bottom"
+begin="00:09:29.520"
+end="00:09:32.920">
+<tt:span style="textWhite">Wieder hat Israel</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Sicherheitsmaßnahmen verschärft.</tt:span>
+</tt:p>
+<tt:p xml:id="sub154"
+style="textCenter"
+region="bottom"
+begin="00:09:33.000"
+end="00:09:36.520">
+<tt:span style="textWhite">Die meisten scheinen sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an die Maskenpflicht zu halten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub155"
+style="textCenter"
+region="bottom"
+begin="00:09:36.600"
+end="00:09:39.400">
+<tt:span style="textWhite">Doch die Meinungen darüber</tt:span>
+<tt:br/>
+<tt:span style="textWhite">gehen auseinander.</tt:span>
+</tt:p>
+<tt:p xml:id="sub156"
+style="textCenter"
+region="bottom"
+begin="00:09:39.480"
+end="00:09:42.840">
+<tt:span style="textYellow">Ich glaube, dass sie</tt:span>
+<tt:br/>
+<tt:span style="textYellow">das Ansteckungsrisiko vermindert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub157"
+style="textCenter"
+region="bottom"
+begin="00:09:42.920"
+end="00:09:45.200">
+<tt:span style="textGreen">Zuerst hieß es,</tt:span>
+<tt:br/>
+<tt:span style="textGreen">Masken bringen nichts.</tt:span>
+</tt:p>
+<tt:p xml:id="sub158"
+style="textCenter"
+region="bottom"
+begin="00:09:45.280"
+end="00:09:46.840">
+<tt:span style="textGreen">Jetzt sollen sie helfen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub159"
+style="textCenter"
+region="bottom"
+begin="00:09:46.920"
+end="00:09:49.280">
+<tt:span style="textGreen">Ich höre</tt:span>
+<tt:br/>
+<tt:span style="textGreen">nur noch auf mein Bauchgefühl.</tt:span>
+</tt:p>
+<tt:p xml:id="sub160"
+style="textCenter"
+region="bottom"
+begin="00:09:49.520"
+end="00:09:53.200">
+<tt:span style="textWhite">Die Polizei kontrolliert</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Einhaltung dieser Vorschrift,</tt:span>
+</tt:p>
+<tt:p xml:id="sub161"
+style="textCenter"
+region="bottom"
+begin="00:09:53.240"
+end="00:09:56.200">
+<tt:span style="textWhite">lässt am ersten Tag</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aber noch Nachsicht walten.</tt:span>
+</tt:p>
+<tt:p xml:id="sub162"
+style="textCenter"
+region="bottom"
+begin="00:09:56.280"
+end="00:09:58.720">
+<tt:span style="textWhite">Streng kontrolliert</tt:span>
+<tt:br/>
+<tt:span style="textWhite">werden Ortschaften,</tt:span>
+</tt:p>
+<tt:p xml:id="sub163"
+style="textCenter"
+region="bottom"
+begin="00:09:58.840"
+end="00:10:01.240">
+<tt:span style="textWhite">in denen es viele Infektionen gibt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub164"
+style="textCenter"
+region="bottom"
+begin="00:10:01.360"
+end="00:10:04.120">
+<tt:span style="textWhite">Auch in Jerusalem</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wurden mehrere Stadtteile,</tt:span>
+</tt:p>
+<tt:p xml:id="sub165"
+style="textCenter"
+region="bottom"
+begin="00:10:04.240"
+end="00:10:07.880">
+<tt:span style="textWhite">in denen vor allem streng-religiöse</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Juden leben, abgeriegelt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub166"
+style="textCenter"
+region="bottom"
+begin="00:10:08.680"
+end="00:10:11.640">
+<tt:span style="textWhite">Ab sofort müssen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sich Rückkehrer nach Israel</tt:span>
+</tt:p>
+<tt:p xml:id="sub167"
+style="textCenter"
+region="bottom"
+begin="00:10:11.720"
+end="00:10:14.720">
+<tt:span style="textWhite">für zwei Wochen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in "Quarantäne-Hotels" begeben.</tt:span>
+</tt:p>
+<tt:p xml:id="sub168"
+style="textCenter"
+region="bottom"
+begin="00:10:14.800"
+end="00:10:17.120">
+<tt:span style="textWhite">Wie dieses Urlaubshotel in Tel Aviv,</tt:span>
+</tt:p>
+<tt:p xml:id="sub169"
+style="textCenter"
+region="bottom"
+begin="00:10:17.200"
+end="00:10:19.720">
+<tt:span style="textWhite">das jetzt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">unter Militärverwaltung steht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub170"
+style="textCenter"
+region="bottom"
+begin="00:10:20.200"
+end="00:10:23.640">
+<tt:span style="textWhite">Frühzeitig hat Israel</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf rigorose Maßnahmen gesetzt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub171"
+style="textCenter"
+region="bottom"
+begin="00:10:23.720"
+end="00:10:27.160">
+<tt:span style="textWhite">100 Meter dürfen sich Menschen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">vom Wohnort entfernen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub172"
+style="textCenter"
+region="bottom"
+begin="00:10:27.240"
+end="00:10:29.960">
+<tt:span style="textWhite">Einkaufen ist erlaubt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">oder zur Arbeit gehen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub173"
+style="textCenter"
+region="bottom"
+begin="00:10:30.040"
+end="00:10:32.920">
+<tt:span style="textWhite">wenn es sich</tt:span>
+<tt:br/>
+<tt:span style="textWhite">um systemrelevante Jobs handelt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub174"
+style="textCenter"
+region="bottom"
+begin="00:10:33.200"
+end="00:10:36.080">
+<tt:span style="textWhite">Hoffnungen auf</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eine schnelle Regierungsbildung</tt:span>
+</tt:p>
+<tt:p xml:id="sub175"
+style="textCenter"
+region="bottom"
+begin="00:10:36.200"
+end="00:10:39.680">
+<tt:span style="textWhite">im Zuge der Krise erteilte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Premier Netanjahu eine Absage.</tt:span>
+</tt:p>
+<tt:p xml:id="sub176"
+style="textCenter"
+region="bottom"
+begin="00:10:39.960"
+end="00:10:42.520">
+<tt:span style="textWhite">Eine Einigung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit Herausforderer Gantz</tt:span>
+</tt:p>
+<tt:p xml:id="sub177"
+style="textCenter"
+region="bottom"
+begin="00:10:42.600"
+end="00:10:44.120">
+<tt:span style="textWhite">scheint nicht in Sicht.</tt:span>
+</tt:p>
+<tt:p xml:id="sub178"
+style="textCenter"
+region="bottom"
+begin="00:10:44.520"
+end="00:10:48.000">
+<tt:span style="textCyan">Netanjahu bekommt Druck</tt:span>
+<tt:br/>
+<tt:span style="textCyan">aus seinem Regierungsapparat,</tt:span>
+</tt:p>
+<tt:p xml:id="sub179"
+style="textCenter"
+region="bottom"
+begin="00:10:48.120"
+end="00:10:51.040">
+<tt:span style="textCyan">die rigorosen Maßnahmen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">schaden der Wirtschaft:</tt:span>
+</tt:p>
+<tt:p xml:id="sub180"
+style="textCenter"
+region="bottom"
+begin="00:10:51.520"
+end="00:10:55.800">
+<tt:span style="textCyan">Jeder Vierte ist arbeitslos</tt:span>
+<tt:br/>
+<tt:span style="textCyan">oder in unbezahltem Zwangsurlaub.</tt:span>
+</tt:p>
+<tt:p xml:id="sub181"
+style="textCenter"
+region="bottom"
+begin="00:10:56.840"
+end="00:10:59.840">
+<tt:span style="textCyan">Aus dem Finanzministerium</tt:span>
+<tt:br/>
+<tt:span style="textCyan">kommen Forderungen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub182"
+style="textCenter"
+region="bottom"
+begin="00:10:59.920"
+end="00:11:02.960">
+<tt:span style="textCyan">die Beschränkungen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">schrittweise zu lockern.</tt:span>
+</tt:p>
+<tt:p xml:id="sub183"
+style="textCenter"
+region="bottom"
+begin="00:11:03.320"
+end="00:11:06.400">
+<tt:span style="textCyan">Das schon nach dem Pessach-Fest</tt:span>
+<tt:br/>
+<tt:span style="textCyan">in einer Woche.</tt:span>
+</tt:p>
+<tt:p xml:id="sub184"
+style="textCenter"
+region="bottom"
+begin="00:11:07.760"
+end="00:11:11.720">
+<tt:span style="textWhite">Der britische Premier Johnson</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat das Krankenhaus verlassen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub185"
+style="textCenter"
+region="bottom"
+begin="00:11:11.800"
+end="00:11:16.560">
+<tt:span style="textWhite">Er war eine Woche in London im</tt:span>
+<tt:br/>
+<tt:span style="textWhite">St Thomas' Hospital behandelt worden,</tt:span>
+</tt:p>
+<tt:p xml:id="sub186"
+style="textCenter"
+region="bottom"
+begin="00:11:16.640"
+end="00:11:19.280">
+<tt:span style="textWhite">davon drei Tage</tt:span>
+<tt:br/>
+<tt:span style="textWhite">auf der Intensivstation.</tt:span>
+</tt:p>
+<tt:p xml:id="sub187"
+style="textCenter"
+region="bottom"
+begin="00:11:19.800"
+end="00:11:23.280">
+<tt:span style="textWhite">In einer Videobotschaft</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dankte der Regierungschef</tt:span>
+</tt:p>
+<tt:p xml:id="sub188"
+style="textCenter"
+region="bottom"
+begin="00:11:23.360"
+end="00:11:26.960">
+<tt:span style="textWhite">Ärzten und Pflegern -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sie hätten sein Leben gerettet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub189"
+style="textCenter"
+region="bottom"
+begin="00:11:27.800"
+end="00:11:29.520">
+<tt:span style="textWhite">Johnson erholt sich</tt:span>
+</tt:p>
+<tt:p xml:id="sub190"
+style="textCenter"
+region="bottom"
+begin="00:11:29.600"
+end="00:11:33.720">
+<tt:span style="textWhite">auf dem offiziellen Landsitz</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Premierministers in Chequers.</tt:span>
+</tt:p>
+<tt:p xml:id="sub191"
+style="textCenter"
+region="bottom"
+begin="00:11:34.200"
+end="00:11:38.520">
+<tt:span style="textWhite">Wann er die Regierungsgeschäfte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wieder aufnimmt, steht nicht fest.</tt:span>
+</tt:p>
+<tt:p xml:id="sub192"
+style="textCenter"
+region="bottom"
+begin="00:11:39.760"
+end="00:11:44.160">
+<tt:span style="textWhite">In Russland hat sich die Ausbreitung</tt:span>
+<tt:br/>
+<tt:span style="textWhite">des Coronavirus beschleunigt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub193"
+style="textCenter"
+region="bottom"
+begin="00:11:44.240"
+end="00:11:47.400">
+<tt:span style="textWhite">Laut Behördenangaben</tt:span>
+<tt:br/>
+<tt:span style="textWhite">haben sich 2186 Menschen</tt:span>
+</tt:p>
+<tt:p xml:id="sub194"
+style="textCenter"
+region="bottom"
+begin="00:11:47.480"
+end="00:11:49.360">
+<tt:span style="textWhite">mit dem Virus neu angesteckt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub195"
+style="textCenter"
+region="bottom"
+begin="00:11:50.040"
+end="00:11:52.960">
+<tt:span style="textWhite">Das ist der größte Anstieg</tt:span>
+<tt:br/>
+<tt:span style="textWhite">binnen eines Tages</tt:span>
+</tt:p>
+<tt:p xml:id="sub196"
+style="textCenter"
+region="bottom"
+begin="00:11:53.040"
+end="00:11:54.840">
+<tt:span style="textWhite">seit Ausbruch der Krankheit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub197"
+style="textCenter"
+region="bottom"
+begin="00:11:55.200"
+end="00:11:59.240">
+<tt:span style="textWhite">Insgesamt sind im Land</tt:span>
+<tt:br/>
+<tt:span style="textWhite">16.000 Menschen an Covid-19 erkrankt.</tt:span>
+</tt:p>
+<tt:p xml:id="sub198"
+style="textCenter"
+region="bottom"
+begin="00:12:01.160"
+end="00:12:04.040">
+<tt:span style="textWhite">Moskau ist nahezu leer,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aber nicht leer genug.</tt:span>
+</tt:p>
+<tt:p xml:id="sub199"
+style="textCenter"
+region="bottom"
+begin="00:12:04.640"
+end="00:12:07.200">
+<tt:span style="textWhite">Deshalb werden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">die Ausgangsbeschränkungen</tt:span>
+</tt:p>
+<tt:p xml:id="sub200"
+style="textCenter"
+region="bottom"
+begin="00:12:07.280"
+end="00:12:08.600">
+<tt:span style="textWhite">noch mal verschärft.</tt:span>
+</tt:p>
+<tt:p xml:id="sub201"
+style="textCenter"
+region="bottom"
+begin="00:12:08.640"
+end="00:12:11.840">
+<tt:span style="textWhite">Wer das Haus verlässt,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">kurze Fußwege ausgenommen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub202"
+style="textCenter"
+region="bottom"
+begin="00:12:11.960"
+end="00:12:14.600">
+<tt:span style="textWhite">braucht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen elektronischen Passierschein.</tt:span>
+</tt:p>
+<tt:p xml:id="sub203"
+style="textCenter"
+region="bottom"
+begin="00:12:16.880"
+end="00:12:20.600">
+<tt:span style="textWhite">"Der Gipfel der Infektionen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ist noch längst nicht erreicht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub204"
+style="textCenter"
+region="bottom"
+begin="00:12:20.680"
+end="00:12:24.440">
+<tt:span style="textWhite">nicht mal die Mitte", sagte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Moskaus Bürgermeister am Freitag.</tt:span>
+</tt:p>
+<tt:p xml:id="sub205"
+style="textCenter"
+region="bottom"
+begin="00:12:24.520"
+end="00:12:28.240">
+<tt:span style="textWhite">"Wir stehen am Anfang, uns steht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">ein sehr ernster Test bevor."</tt:span>
+</tt:p>
+<tt:p xml:id="sub206"
+style="textCenter"
+region="bottom"
+begin="00:12:28.520"
+end="00:12:32.520">
+<tt:span style="textWhite">Vor einer Moskauer Infektionsklinik</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stauen sich Krankenwagen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub207"
+style="textCenter"
+region="bottom"
+begin="00:12:32.600"
+end="00:12:35.240">
+<tt:span style="textWhite">Das Virus</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat Russland längst erreicht,</tt:span>
+</tt:p>
+<tt:p xml:id="sub208"
+style="textCenter"
+region="bottom"
+begin="00:12:35.320"
+end="00:12:38.320">
+<tt:span style="textWhite">die weitaus meisten Fälle</tt:span>
+<tt:br/>
+<tt:span style="textWhite">verzeichnet Moskau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub209"
+style="textCenter"
+region="bottom"
+begin="00:12:38.400"
+end="00:12:42.160">
+<tt:span style="textWhite">Es gibt einen unerklärlichen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Anstieg an Lungenentzündungen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub210"
+style="textCenter"
+region="bottom"
+begin="00:12:42.240"
+end="00:12:44.280">
+<tt:span style="textWhite">bei negativen Tests auf Covid-19.</tt:span>
+</tt:p>
+<tt:p xml:id="sub211"
+style="textCenter"
+region="bottom"
+begin="00:12:44.600"
+end="00:12:48.880">
+<tt:span style="textWhite">Die Stadt beschloss, diese Patienten</tt:span>
+<tt:br/>
+<tt:span style="textWhite">wie Corona-Fälle zu behandeln.</tt:span>
+</tt:p>
+<tt:p xml:id="sub212"
+style="textCenter"
+region="bottom"
+begin="00:12:48.960"
+end="00:12:51.560">
+<tt:span style="textWhite">Die Tests</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sind offenbar nicht zuverlässig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub213"
+style="textCenter"
+region="bottom"
+begin="00:12:52.960"
+end="00:12:56.760">
+<tt:span style="textYellow">Moskaus Gesundheitssystem</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ist bis zum Maximum mobilisiert.</tt:span>
+</tt:p>
+<tt:p xml:id="sub214"
+style="textCenter"
+region="bottom"
+begin="00:12:57.040"
+end="00:12:58.680">
+<tt:span style="textYellow">Wir sind am Anschlag.</tt:span>
+</tt:p>
+<tt:p xml:id="sub215"
+style="textCenter"
+region="bottom"
+begin="00:12:59.160"
+end="00:13:02.520">
+<tt:span style="textYellow">Deshalb rüsten wir</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ständig weitere Krankenhäuser um,</tt:span>
+</tt:p>
+<tt:p xml:id="sub216"
+style="textCenter"
+region="bottom"
+begin="00:13:02.600"
+end="00:13:04.480">
+<tt:span style="textYellow">auch Privatkliniken.</tt:span>
+</tt:p>
+<tt:p xml:id="sub217"
+style="textCenter"
+region="bottom"
+begin="00:13:07.520"
+end="00:13:10.120">
+<tt:span style="textWhite">Am Stadtrand</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bauen sie auf die Schnelle</tt:span>
+</tt:p>
+<tt:p xml:id="sub218"
+style="textCenter"
+region="bottom"
+begin="00:13:10.160"
+end="00:13:14.720">
+<tt:span style="textWhite">ein neues Infektionskrankenhaus -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mit bis zu 650 Intensivplätzen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub219"
+style="textCenter"
+region="bottom"
+begin="00:13:15.400"
+end="00:13:17.240">
+<tt:span style="textWhite">Ein Wettlauf gegen die Zeit.</tt:span>
+</tt:p>
+<tt:p xml:id="sub220"
+style="textCenter"
+region="bottom"
+begin="00:13:18.200"
+end="00:13:20.760">
+<tt:span style="textCyan">Noch ist vor allem Moskau betroffen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub221"
+style="textCenter"
+region="bottom"
+begin="00:13:20.800"
+end="00:13:24.200">
+<tt:span style="textCyan">doch auch in den Regionen</tt:span>
+<tt:br/>
+<tt:span style="textCyan">steigen die Zahlen schnell.</tt:span>
+</tt:p>
+<tt:p xml:id="sub222"
+style="textCenter"
+region="bottom"
+begin="00:13:24.280"
+end="00:13:28.400">
+<tt:span style="textCyan">Dort ist die medizinische Versorgung</tt:span>
+<tt:br/>
+<tt:span style="textCyan">weit schlechter als in Moskau.</tt:span>
+</tt:p>
+<tt:p xml:id="sub223"
+style="textCenter"
+region="bottom"
+begin="00:13:28.480"
+end="00:13:31.200">
+<tt:span style="textCyan">Im Land gibt es knapp 16.000 Fälle.</tt:span>
+</tt:p>
+<tt:p xml:id="sub224"
+style="textCenter"
+region="bottom"
+begin="00:13:31.280"
+end="00:13:34.000">
+<tt:span style="textCyan">Im weltweiten Vergleich</tt:span>
+<tt:br/>
+<tt:span style="textCyan">klingt das wenig,</tt:span>
+</tt:p>
+<tt:p xml:id="sub225"
+style="textCenter"
+region="bottom"
+begin="00:13:34.080"
+end="00:13:36.160">
+<tt:span style="textCyan">doch Russland steht am Anfang.</tt:span>
+</tt:p>
+<tt:p xml:id="sub226"
+style="textCenter"
+region="bottom"
+begin="00:13:37.360"
+end="00:13:41.600">
+<tt:span style="textWhite">Luxemburgs Außenminister Asselborn</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hat EU-Staaten dazu aufgerufen,</tt:span>
+</tt:p>
+<tt:p xml:id="sub227"
+style="textCenter"
+region="bottom"
+begin="00:13:41.680"
+end="00:13:46.000">
+<tt:span style="textWhite">unbegleitete Flüchtlingskinder</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aus griechischen Lagern aufzunehmen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub228"
+style="textCenter"
+region="bottom"
+begin="00:13:46.080"
+end="00:13:48.960">
+<tt:span style="textWhite">Jedes europäische Land,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">das Mitgefühl habe,</tt:span>
+</tt:p>
+<tt:p xml:id="sub229"
+style="textCenter"
+region="bottom"
+begin="00:13:49.040"
+end="00:13:52.360">
+<tt:span style="textWhite">sollte anpacken,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sagte Asselborn dem "Spiegel".</tt:span>
+</tt:p>
+<tt:p xml:id="sub230"
+style="textCenter"
+region="bottom"
+begin="00:13:52.640"
+end="00:13:56.680">
+<tt:span style="textWhite">Was Luxemburg gelinge,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">könnten auch andere Staaten schaffen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub231"
+style="textCenter"
+region="bottom"
+begin="00:13:56.800"
+end="00:13:59.960">
+<tt:span style="textWhite">Die ersten zwölf Flüchtlingskinder</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sollen am Mittwoch</tt:span>
+</tt:p>
+<tt:p xml:id="sub232"
+style="textCenter"
+region="bottom"
+begin="00:14:00.040"
+end="00:14:01.760">
+<tt:span style="textWhite">in Luxemburg eintreffen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub233"
+style="textCenter"
+region="bottom"
+begin="00:14:01.840"
+end="00:14:04.360">
+<tt:span style="textWhite">Ende der Woche weitere 50</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Deutschland.</tt:span>
+</tt:p>
+<tt:p xml:id="sub234"
+style="textCenter"
+region="bottom"
+begin="00:14:05.600"
+end="00:14:07.520">
+<tt:span style="textWhite">Sir Stirling Moss ist tot.</tt:span>
+</tt:p>
+<tt:p xml:id="sub235"
+style="textCenter"
+region="bottom"
+begin="00:14:07.600"
+end="00:14:11.480">
+<tt:span style="textWhite">Der frühere britische Formel-1-Pilot</tt:span>
+<tt:br/>
+<tt:span style="textWhite">starb mit 90 Jahren.</tt:span>
+</tt:p>
+<tt:p xml:id="sub236"
+style="textCenter"
+region="bottom"
+begin="00:14:11.760"
+end="00:14:14.840">
+<tt:span style="textWhite">Berühmt wurde er</tt:span>
+<tt:br/>
+<tt:span style="textWhite">als "der ewige Zweite",</tt:span>
+</tt:p>
+<tt:p xml:id="sub237"
+style="textCenter"
+region="bottom"
+begin="00:14:14.920"
+end="00:14:18.640">
+<tt:span style="textWhite">oft Favorit auf den WM-Titel,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">doch immer knapp geschlagen.</tt:span>
+</tt:p>
+<tt:p xml:id="sub238"
+style="textCenter"
+region="bottom"
+begin="00:14:18.680"
+end="00:14:22.560">
+<tt:span style="textWhite">Moss gewann 212 Autorennen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">davon 16 in der Formel 1.</tt:span>
+</tt:p>
+<tt:p xml:id="sub239"
+style="textCenter"
+region="bottom"
+begin="00:14:24.560"
+end="00:14:26.560">
+<tt:span style="textWhite">Seine Karriere endete 1962,</tt:span>
+</tt:p>
+<tt:p xml:id="sub240"
+style="textCenter"
+region="bottom"
+begin="00:14:26.680"
+end="00:14:30.480">
+<tt:span style="textWhite">als er in Goodwood</tt:span>
+<tt:br/>
+<tt:span style="textWhite">einen schweren Unfall hatte.</tt:span>
+</tt:p>
+<tt:p xml:id="sub241"
+style="textCenter"
+region="bottom"
+begin="00:14:32.880"
+end="00:14:36.800">
+<tt:span style="textWhite">Die Wettervorhersage für morgen,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Ostermontag, den 13. April.</tt:span>
+</tt:p>
+<tt:p xml:id="sub242"
+style="textCenter"
+region="bottom"
+begin="00:14:38.360"
+end="00:14:42.600">
+<tt:span style="textWhite">Morgen überquert uns die Kaltfront</tt:span>
+<tt:br/>
+<tt:span style="textWhite">eines skandinavischen Tiefs.</tt:span>
+</tt:p>
+<tt:p xml:id="sub243"
+style="textCenter"
+region="bottom"
+begin="00:14:42.640"
+end="00:14:46.440">
+<tt:span style="textWhite">Dabei wird es gebietsweise nass,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">es sind Schneeschauer dabei.</tt:span>
+</tt:p>
+<tt:p xml:id="sub244"
+style="textCenter"
+region="bottom"
+begin="00:14:46.520"
+end="00:14:49.440">
+<tt:span style="textWhite">Heute Nacht</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zunächst einzelne Schauer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub245"
+style="textCenter"
+region="bottom"
+begin="00:14:49.520"
+end="00:14:52.160">
+<tt:span style="textWhite">Aber von Norden</tt:span>
+<tt:br/>
+<tt:span style="textWhite">zieht ein Regenband heran,</tt:span>
+</tt:p>
+<tt:p xml:id="sub246"
+style="textCenter"
+region="bottom"
+begin="00:14:52.240"
+end="00:14:54.640">
+<tt:span style="textWhite">das sich morgen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">nach Süden ausbreitet.</tt:span>
+</tt:p>
+<tt:p xml:id="sub247"
+style="textCenter"
+region="bottom"
+begin="00:14:54.720"
+end="00:14:57.600">
+<tt:span style="textWhite">Ein paar Gewitter sind unterwegs,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dazu windig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub248"
+style="textCenter"
+region="bottom"
+begin="00:14:57.720"
+end="00:15:00.400">
+<tt:span style="textWhite">Gleichzeitig wird es</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Nordwesten sonnig.</tt:span>
+</tt:p>
+<tt:p xml:id="sub249"
+style="textCenter"
+region="bottom"
+begin="00:15:00.480"
+end="00:15:03.560">
+<tt:span style="textWhite">Von der Ostsee bis zu</tt:span>
+<tt:br/>
+<tt:span style="textWhite">den östlichen Mittelgebirgen</tt:span>
+</tt:p>
+<tt:p xml:id="sub250"
+style="textCenter"
+region="bottom"
+begin="00:15:03.640"
+end="00:15:06.080">
+<tt:span style="textWhite">sind einzelne Schneeschauer möglich.</tt:span>
+</tt:p>
+<tt:p xml:id="sub251"
+style="textCenter"
+region="bottom"
+begin="00:15:14.640"
+end="00:15:18.120">
+<tt:span style="textWhite">Am Dienstag wird es freundlicher,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">aber ziemlich kühl.</tt:span>
+</tt:p>
+<tt:p xml:id="sub252"
+style="textCenter"
+region="bottom"
+begin="00:15:18.200"
+end="00:15:19.680">
+<tt:span style="textWhite">In den folgenden Tagen</tt:span>
+</tt:p>
+<tt:p xml:id="sub253"
+style="textCenter"
+region="bottom"
+begin="00:15:19.760"
+end="00:15:23.280">
+<tt:span style="textWhite">scheint unter Hochdruckeinfluss</tt:span>
+<tt:br/>
+<tt:span style="textWhite">häufig die Sonne.</tt:span>
+</tt:p>
+<tt:p xml:id="sub254"
+style="textCenter"
+region="bottom"
+begin="00:15:29.200"
+end="00:15:33.040">
+<tt:span style="textWhite">Ingo Zamperoni hat um 21.45 Uhr</tt:span>
+<tt:br/>
+<tt:span style="textWhite">diese Tagesthemen für Sie:</tt:span>
+</tt:p>
+<tt:p xml:id="sub255"
+style="textCenter"
+region="bottom"
+begin="00:15:33.120"
+end="00:15:37.480">
+<tt:span style="textWhite">Die Suche nach einem Corona-Impfstoff</tt:span>
+<tt:br/>
+<tt:span style="textWhite">für die ganze Weltbevölkerung -</tt:span>
+</tt:p>
+<tt:p xml:id="sub256"
+style="textCenter"
+region="bottom"
+begin="00:15:37.520"
+end="00:15:39.520">
+<tt:span style="textWhite">ein Interview mit Bill Gates.</tt:span>
+</tt:p>
+<tt:p xml:id="sub257"
+style="textCenter"
+region="bottom"
+begin="00:15:39.960"
+end="00:15:44.240">
+<tt:span style="textWhite">Und: Wie könnten die Beschränkungen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in Deutschland gelockert werden?</tt:span>
+</tt:p>
+<tt:p xml:id="sub258"
+style="textCenter"
+region="bottom"
+begin="00:15:44.320"
+end="00:15:48.440">
+<tt:span style="textWhite">Fragen an die Ministerpräsidentin</tt:span>
+<tt:br/>
+<tt:span style="textWhite">von Rheinland-Pfalz - Malu Dreyer.</tt:span>
+</tt:p>
+<tt:p xml:id="sub259"
+style="textCenter"
+region="bottom"
+begin="00:15:48.520"
+end="00:15:50.200">
+<tt:span style="textWhite">Ihnen einen schönen Abend.</tt:span>
+</tt:p>
+<tt:p xml:id="sub260"
+style="textCenter"
+region="bottom"
+begin="00:15:50.480"
+end="00:15:52.680">
+<tt:span style="textBlue">Copyright Untertitel: NDR 2020</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>
