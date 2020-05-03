@@ -1,4 +1,4 @@
-# Tageschau subtitle downloader
+# Tageschau subtitle fetcher
 
 **This project was made to be run once, thus it won't be maintained in any way.**
 
